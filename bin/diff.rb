@@ -4,22 +4,44 @@
 require 'every_politician_scraper/comparison'
 require 'pry'
 
-DIFF = %i[officeholder start_year end_year]
-DISPLAY = %i[
-  country position positionlabel officeholder officeholderlabel start_year end_year
-]
+class Comparison < EveryPoliticianScraper::Comparison
+  require 'set'
 
-wd = CSV.table('data/wikidata.csv')
-wp = CSV.table('data/wikipedia.csv')
+  COMPARE = %i[officeholder start_year end_year].freeze
+  DISPLAY = %i[country position positionlabel officeholder officeholderlabel start_year end_year].freeze
 
-wdg = wd.group_by { |row| row.values_at(*DIFF) }
-wpg = wp.group_by { |row| row.values_at(*DIFF) }
+  def wikidata_all
+    @wikidata_all ||= CSV.table(wikidata_source, wikidata_csv_options)
+  end
 
-wd_only = wdg.reject { |k, _| wpg.keys.include? k }
-wp_only = wpg.reject { |k, _| wdg.keys.include? k }
+  def external_all
+    @external_all ||= CSV.table(external_source, external_csv_options)
+  end
 
-wd_out = wd_only.values.flatten(1).map { |row| ["---", *row.values_at(*DISPLAY)] }
-wp_out = wp_only.values.flatten(1).map { |row| ["+++", *row.values_at(*DISPLAY)] }
+  def wikidata_grouped
+    @wikidata_grouped ||= wikidata_all.group_by { |row| row.values_at(*COMPARE) }
+  end
 
-puts DISPLAY.to_csv
-puts (wd_out + wp_out).sort_by { |row| [row[1].to_s, row[3].to_s, row[6].to_s, row[5].to_s] }.map(&:to_csv)
+  def external_grouped
+    @external_grouped ||= external_all.group_by { |row| row.values_at(*COMPARE) }
+  end
+
+  def in_both
+    (external_grouped.keys & wikidata_grouped.keys).to_set
+  end
+
+  def columns
+    DISPLAY
+  end
+
+  def wikidata
+    @wikidata ||= wikidata_all.delete_if { |row| in_both.include?(row.values_at(*COMPARE)) }
+  end
+
+  def external
+    @external ||= external_all.delete_if { |row| in_both.include?(row.values_at(*COMPARE)) }
+  end
+end
+
+header, *diffs = Comparison.new('data/wikidata.csv', 'data/wikipedia.csv').diff
+puts header.to_csv, diffs.sort_by { |row| [row[1].to_s, row[3].to_s, row[6].to_s, row[5].to_s] }.map(&:to_csv)
