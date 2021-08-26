@@ -4,11 +4,22 @@
 require 'every_politician_scraper/comparison'
 require 'pry'
 
-diff = EveryPoliticianScraper::Comparison.new('data/wikidata.csv', 'data/wikipedia.csv').diff
-csv = CSV.parse(diff.map(&:to_csv).join, headers:true)
-         .delete_if do |row|
-            row['@@'] == '->' && 
-              (row.select { |k, v| v.to_s.include?('->') }.map(&:first) - ['@@', 'country', 'positionlabel', 'officeholderlabel']).none?
-        end
-puts csv.headers.to_csv
-puts csv.sort_by { |row| [row[1],row[3],row[6],row[4]] }.map(&:to_s)
+DIFF = %i[officeholder start_year end_year]
+DISPLAY = %i[
+  country position positionlabel officeholder officeholderlabel start_year end_year
+]
+
+wd = CSV.table('data/wikidata.csv')
+wp = CSV.table('data/wikipedia.csv')
+
+wdg = wd.group_by { |row| row.values_at(*DIFF) }
+wpg = wp.group_by { |row| row.values_at(*DIFF) }
+
+wd_only = wdg.reject { |k, _| wpg.keys.include? k }
+wp_only = wpg.reject { |k, _| wdg.keys.include? k }
+
+wd_out = wd_only.values.flatten(1).map { |row| ["---", *row.values_at(*DISPLAY)] }
+wp_out = wp_only.values.flatten(1).map { |row| ["+++", *row.values_at(*DISPLAY)] }
+
+puts DISPLAY.to_csv
+puts (wd_out + wp_out).sort_by { |row| [row[1].to_s, row[3].to_s, row[6].to_s, row[5].to_s] }.map(&:to_csv)
