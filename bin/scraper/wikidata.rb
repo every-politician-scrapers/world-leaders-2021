@@ -9,7 +9,9 @@ query = <<SPARQL
                   (STRAFTER(STR(?officeholderItem), STR(wd:)) AS ?officeholder) ?officeholderLabel
     (YEAR(?start) AS ?start_year) (YEAR(?end) AS ?end_year)
   WHERE {
-    ?countryItem wdt:P31 wd:Q3624078 ; p:P1313|p:P1906 ?os .
+    VALUES ?countryType { wd:Q3624078 wd:Q15634554 }
+    ?countryItem wdt:P31 ?countryType .
+    ?countryItem p:P1313|p:P1906 ?os .
     ?os a wikibase:BestRank ; ps:P1313|ps:P1906 ?positionItem .
     FILTER NOT EXISTS { ?os pq:P582 [] }
 
@@ -25,7 +27,7 @@ query = <<SPARQL
       ?officeholderItem rdfs:label ?officeholderLabel .
     }
   }
-  ORDER BY ?country ?positionLabel ?startYear
+  ORDER BY ?country ?positionLabel ?start
 SPARQL
 
 agent = 'every-politican-scrapers/world=leaders-2021'
