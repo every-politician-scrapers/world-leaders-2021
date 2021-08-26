@@ -33,7 +33,7 @@ class OfficeTerm
   private
 
   def date_section
-    str.match(/\(\D*\d+.*?\)/).to_s.split(/[–-]/).map { |str| str[/(\d{4})/, 1] }
+    str.match(/\(\D*\d+.*?\)/).to_s.split(/[–-]/).map { |str| str[/(\d{4})/, 1] }.values_at(-2, -1)
   end
 
   attr_reader :str

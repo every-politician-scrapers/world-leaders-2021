@@ -53,10 +53,10 @@ Africa,Kenya,Q14784066,President of Kenya,Q196070,Uhuru Kenyatta,2013,
 Africa,Lesotho,Q878227,King of Lesotho,Q57537,Letsie III of Lesotho,1996,
 Africa,Lesotho,Q91621859,Moeketsi Majoro,Q91621859,Moeketsi Majoro,2020,
 Africa,Liberia,Q19161825,President of Liberia,Q173139,George Weah,2018,
-Africa,Libya,Q872126,Chairman of the General National Congress,Q17485808,Aguila Saleh Issa,,2021
-Africa,Libya,Q1074191,Prime Minister of the State of Libya,Q15925685,Abdullah al-Thani,,2021
-Africa,Libya,Q22120969,Presidential Council (Libya),Q21089561,Fayez al-Sarraj,,2021
-Africa,Libya,Q1074191,Prime Minister of the State of Libya,Q21089561,Fayez al-Sarraj,,2021
+Africa,Libya,Q872126,Chairman of the General National Congress,Q17485808,Aguila Saleh Issa,2014,2021
+Africa,Libya,Q1074191,Prime Minister of the State of Libya,Q15925685,Abdullah al-Thani,2014,2021
+Africa,Libya,Q22120969,Presidential Council (Libya),Q21089561,Fayez al-Sarraj,2016,2021
+Africa,Libya,Q1074191,Prime Minister of the State of Libya,Q21089561,Fayez al-Sarraj,2016,2021
 Africa,Libya,Q22120969,Presidential Council (Libya),Q105319610,Mohamed al-Menfi,2021,
 Africa,Libya,Q1074191,Prime Minister of the State of Libya,Q105319569,Abdul Hamid Dbeibeh,2021,
 Africa,Madagascar,Q853010,President of Madagascar,Q57363,Andry Rajoelina,2019,
@@ -154,7 +154,7 @@ Asia,North Korea (Democratic People's Republic of Korea),Q30944956,Chairman of t
 Asia,North Korea (Democratic People's Republic of Korea),Q7240364,Premier of North Korea,Q25035961,Kim Tok-hun,2020,
 Asia,South Korea (Republic of Korea),Q6296418,President of South Korea,Q21001,Moon Jae-in,2017,
 Asia,South Korea (Republic of Korea),Q15407843,Prime Minister of South Korea,Q11270093,Chung Sye-kyun,2020,2021
-Asia,South Korea (Republic of Korea),Q15407843,Prime Minister of South Korea,Q31180640,Hong Nam-ki,2021,2021
+Asia,South Korea (Republic of Korea),Q15407843,Prime Minister of South Korea,Q31180640,Hong Nam-ki,,2021
 Asia,South Korea (Republic of Korea),Q15407843,Prime Minister of South Korea,Q12587534,Kim Boo-kyum,2021,
 Asia,Kuwait,Q246932,Emir of Kuwait,Q641805,Nawaf Al-Ahmad Al-Jaber Al-Sabah,2020,
 Asia,Kuwait,Q2035020,Prime Minister of Kuwait,Q12219691,Sabah Al-Khalid Al-Sabah,2019,
@@ -250,8 +250,8 @@ Europe,Belarus,Q12379704,Prime Minister of Belarus,Q27043179,Roman Golovchenko,2
 Europe,Belgium,Q160913,Monarchy of Belgium,Q155004,Philippe of Belgium,2013,
 Europe,Belgium,Q213107,Prime Minister of Belgium,Q476596,Alexander De Croo,2020,
 Europe,Bosnia and Herzegovina,Q20525169,Šefik Džaferović,Q20525169,Šefik Džaferović,2018,
-Europe,Bosnia and Herzegovina,Q848335,Chairmen of the Presidency of Bosnia and Herzegovina,Q297825,Željko Komšić,2018,
-Europe,Bosnia and Herzegovina,Q848335,Chairmen of the Presidency of Bosnia and Herzegovina,Q335688,Milorad Dodik,2018,2021
+Europe,Bosnia and Herzegovina,Q848335,Chairmen of the Presidency of Bosnia and Herzegovina,Q297825,Željko Komšić,2021,
+Europe,Bosnia and Herzegovina,Q848335,Chairmen of the Presidency of Bosnia and Herzegovina,Q335688,Milorad Dodik,2020,2021
 Europe,Bosnia and Herzegovina,Q16020744,Chairman of the Council of Ministers of Bosnia and Herzegovina,Q12752078,Zoran Tegeltija,2019,
 Europe,Bosnia and Herzegovina,Q470446,High Representative for Bosnia and Herzegovina,Q112145,Valentin Inzko,2009,2021
 Europe,Bosnia and Herzegovina,Q470446,High Representative for Bosnia and Herzegovina,Q107018,Christian Schmidt (politician),2021,
@@ -291,7 +291,7 @@ Europe,Italy,Q332711,President of Italy,Q3956186,Sergio Mattarella,2015,
 Europe,Italy,Q796897,Prime Minister of Italy,Q53844829,Giuseppe Conte,2018,2021
 Europe,Italy,Q796897,Prime Minister of Italy,Q294460,Mario Draghi,2021,
 Europe,Kosovo,Q886947,President of Kosovo,Q13047644,Vjosa Osmani,2020,2021
-Europe,Kosovo,Q886947,President of Kosovo,Q5567306,Glauk Konjufca,2021,2021
+Europe,Kosovo,Q886947,President of Kosovo,Q5567306,Glauk Konjufca,,2021
 Europe,Kosovo,Q886947,President of Kosovo,Q13047644,Vjosa Osmani,2021,
 Europe,Kosovo,Q116102,Prime Minister of Kosovo,Q30323682,Avdullah Hoti,2020,2021
 Europe,Kosovo,Q116102,Prime Minister of Kosovo,Q441633,Albin Kurti,2021,
@@ -311,7 +311,7 @@ Europe,Luxembourg,Q29217438,Prime Minister of Luxembourg,Q561213,Xavier Bettel,2
 Europe,Malta,Q796593,President of Malta,Q1508402,George Vella,2019,
 Europe,Malta,Q152814,Prime Minister of Malta,Q37860840,Robert Abela,2020,
 Europe,Moldova,Q312271,President of Moldova,Q15071069,Maia Sandu,2020,
-Europe,Moldova,Q1769526,Prime Minister of Moldova,Q4822275,Aureliu Ciocoi,2021,2021
+Europe,Moldova,Q1769526,Prime Minister of Moldova,Q4822275,Aureliu Ciocoi,,2021
 Europe,Moldova,Q1769526,Prime Minister of Moldova,Q105193792,Natalia Gavrilița,2021,
 Europe,Monaco,Q2457774,Monarchy of Monaco,Q3910,"Albert II, Prince of Monaco",2005,
 Europe,Monaco,Q1655971,Minister of State (Monaco),Q20556507,Pierre Dartout,2020,
@@ -369,12 +369,12 @@ North America,Barbados,Q1261556,Governor-General of Barbados,Q9333540,Sandra Mas
 North America,Barbados,Q15921525,Prime Minister of Barbados,Q6827147,Mia Mottley,2018,
 North America,Belize,Q47198,Monarchy of Belize,Q9682,Elizabeth II,1981,
 North America,Belize,Q1281030,Governor-General of Belize,Q373552,Colville Young,1993,2021
-North America,Belize,Q1281030,Governor-General of Belize,Q7626757,Stuart Leslie,2021,2021
+North America,Belize,Q1281030,Governor-General of Belize,Q7626757,Stuart Leslie,,2021
 North America,Belize,Q1281030,Governor-General of Belize,Q106601151,Froyla Tzalam,2021,
 North America,Belize,Q30100540,Prime Minister of Belize,Q6266369,Johnny Briceño,2020,
 North America,Canada,Q508840,Monarchy of Canada,Q9682,Elizabeth II,1952,
 North America,Canada,Q390776,Governor General of Canada,Q240769,Julie Payette,2017,2021
-North America,Canada,Q105753386,Administrator of the Government of Canada,Q3431309,Richard Wagner (judge),2021,2021
+North America,Canada,Q105753386,Administrator of the Government of Canada,Q3431309,Richard Wagner (judge),,2021
 North America,Canada,Q390776,Governor General of Canada,Q6780723,Mary Simon,2021,
 North America,Canada,Q839078,Prime Minister of Canada,Q3099714,Justin Trudeau,2015,
 North America,Costa Rica,Q27977064,President of Costa Rica,Q26996246,Carlos Alvarado Quesada,2018,
@@ -391,12 +391,12 @@ North America,Grenada,Q655829,Governor-General of Grenada,Q11964294,Cécile La G
 North America,Grenada,Q1276041,Prime Minister of Grenada,Q370110,Keith Mitchell,2013,
 North America,Guatemala,Q6085537,President of Guatemala,Q2134696,Alejandro Giammattei,2020,
 North America,Haiti,Q3290543,President of Haiti,Q21294765,Jovenel Moïse,2017,2021
-North America,Haiti,Q3290543,President of Haiti,Q105437712,Joseph Mécène Jean-Louis,2021,2021
-North America,Haiti,Q3290543,President of Haiti,Q106496152,Claude Joseph,2021,2021
-North America,Haiti,Q3290543,President of Haiti,Q107127987,Joseph Lambert (Haitian politician),2021,2021
+North America,Haiti,Q3290543,President of Haiti,Q105437712,Joseph Mécène Jean-Louis,,2021
+North America,Haiti,Q3290543,President of Haiti,Q106496152,Claude Joseph,,2021
+North America,Haiti,Q3290543,President of Haiti,Q107127987,Joseph Lambert (Haitian politician),,2021
 North America,Haiti,Q3290543,President of Haiti,Q107451258,Ariel Henry,2021,
 North America,Haiti,Q1064589,Prime Minister of Haiti,Q87188650,Joseph Jouthe,2020,2021
-North America,Haiti,Q1064589,Prime Minister of Haiti,Q106496152,Claude Joseph,2021,2021
+North America,Haiti,Q1064589,Prime Minister of Haiti,Q106496152,Claude Joseph,,2021
 North America,Haiti,Q1064589,Prime Minister of Haiti,Q107451258,Ariel Henry,2021,
 North America,Honduras,Q13341442,President of Honduras,Q5951723,Juan Orlando Hernández,2014,
 North America,Jamaica,Q6898088,Monarchy of Jamaica,Q9682,Elizabeth II,1962,
