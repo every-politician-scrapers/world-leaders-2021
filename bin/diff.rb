@@ -3,5 +3,5 @@
 
 require 'every_politician_scraper/comparison'
 
-diff = EveryPoliticianScraper::Comparison.new('data/wikidata.csv', 'data/wikipedia.csv').diff
-puts diff.sort_by { |r| [r.first, r[1].to_s] }.reverse.map(&:to_csv)
+header, *diffs = EveryPoliticianScraper::Comparison.new('data/wikidata.csv', 'data/wikipedia.csv').diff
+puts header.to_csv, diffs.sort_by { |r| [r[1].to_s] }.map(&:to_csv)
