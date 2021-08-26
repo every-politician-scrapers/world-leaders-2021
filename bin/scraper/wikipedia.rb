@@ -40,6 +40,15 @@ class OfficeTerm
 end
 
 class Leader < Scraped::HTML
+  field :continent do
+    noko.xpath('preceding::h2[1]/span[@class="mw-headline"]').text.tidy
+  end
+
+  field :country do
+    # c = noko.xpath('ancestor::ul/parent::li').css('a').first.text
+    noko.xpath('ancestor::ul/parent::li/*').map(&:text).map(&:tidy).reject(&:empty?).first
+  end
+
   field :position do
     position_link.attr('wikidata').to_s.tidy
   end
