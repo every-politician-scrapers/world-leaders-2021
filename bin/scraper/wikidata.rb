@@ -27,7 +27,7 @@ query = <<SPARQL
       ?officeholderItem rdfs:label ?officeholderLabel .
     }
   }
-  ORDER BY ?country ?positionLabel ?start
+  ORDER BY ?country ?positionLabel ?start ?officeholderLabel
 SPARQL
 
 agent = 'every-politican-scrapers/world=leaders-2021'
