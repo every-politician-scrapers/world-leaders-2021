@@ -81,6 +81,7 @@ Q977,Djibouti,Q30100591,Prime Minister of Djibouti,Q10522744,Abdoulkader Kamil M
 Q784,Dominica,Q1756747,Prime Minister of Dominica,Q57823,Roosevelt Skerrit,2004,
 Q784,Dominica,Q20087535,president of Dominica,Q2960197,Charles Savarin,2013,
 Q786,Dominican Republic,Q607982,President of the Dominican Republic,Q16594097,Luis Abinader,2020,
+Q16150196,Donetsk People's Republic,Q108730907,Prime Minister of the Donetsk People's Republic,Q91299312,Vladimir Pashkov,2020,
 Q574,East Timor,Q586047,President of East Timor,Q897790,Francisco Guterres,2017,
 Q574,East Timor,Q978708,Prime Minister of East Timor,Q57519,Taur Matan Ruak,2018,
 Q736,Ecuador,Q732562,President of Ecuador,Q518626,Lenín Moreno,2017,2021
@@ -145,7 +146,6 @@ Q796,Iraq,Q889817,President of Iraq,Q808173,Barham Salih,2018,
 Q796,Iraq,Q1476165,Prime Minister of Iraq,Q5639013,Haider Al-Abadi,2014,
 Q27,Ireland,Q213702,President of Ireland,Q57276,Michael D. Higgins,2011,
 Q27,Ireland,Q191827,Taoiseach,Q920403,Micheál Martin,2020,
-Q427941,Islamic Emirate of Afghanistan,Q532240,Prime Minister of Afghanistan,Q317219,Abdul Ghani Baradar,2021,
 Q427941,Islamic Emirate of Afghanistan,Q532240,Prime Minister of Afghanistan,Q108444479,Mohammad Hasan Akhund,2021,
 Q427941,Islamic Emirate of Afghanistan,Q166382,emir,Q3555999,Abu Hafs,827,
 Q427941,Islamic Emirate of Afghanistan,Q166382,emir,Q11955114,Wasul ibn Thakiyya al-Fath,910,
@@ -156,7 +156,7 @@ Q427941,Islamic Emirate of Afghanistan,Q166382,emir,Q98649505,Rilwanu Adamu Jumb
 Q427941,Islamic Emirate of Afghanistan,Q166382,emir,Q74151859,Nazar-ur-Rehman,2018,
 Q427941,Islamic Emirate of Afghanistan,Q166382,emir,Q97788576,Muhibbullah Babunagari,2021,
 Q30747910,Islamic Republic of Afghanistan,Q20204943,Chief Executive Officer of Afghanistan,Q317556,Abdullah Abdullah,2014,2021
-Q30747910,Islamic Republic of Afghanistan,Q1140706,President of Afghanistan,Q172388,Ashraf Ghani,2014,2021
+Q30747910,Islamic Republic of Afghanistan,Q1140706,President of Afghanistan,Q172388,Ashraf Ghani yazdi,2014,2021
 Q801,Israel,Q327948,President of Israel,Q455854,Reuven Rivlin,2014,
 Q801,Israel,Q327948,President of Israel,Q983258,Isaac Herzog,2021,
 Q801,Israel,Q208487,Prime Minister of Israel,Q43723,Benjamin Netanyahu,2009,2021
@@ -194,6 +194,7 @@ Q211,Latvia,Q218014,President of Latvia,Q348043,Egils Levits,2019,
 Q211,Latvia,Q369500,Prime Minister of Latvia,Q3736499,Krišjānis Kariņš,2019,
 Q822,Lebanon,Q22001564,President of Lebanon,Q363392,Michel Aoun,2016,
 Q822,Lebanon,Q14915225,Prime Minister of Lebanon,Q5679624,Hassan Diab,2020,
+Q822,Lebanon,Q14915225,Prime Minister of Lebanon,Q318493,Najib Mikati,2021,
 Q1013,Lesotho,Q41542585,King of Lesotho,Q57537,Letsie III of Lesotho,1996,
 Q1013,Lesotho,Q30101454,Prime Minister of Lesotho,Q91621859,Moeketsi Majoro,2020,
 Q1014,Liberia,Q19161825,President of Liberia,Q173139,George Weah,2018,
@@ -264,7 +265,7 @@ Q423,North Korea,Q7240364,Premier of North Korea,Q25035961,Kim Tok-hun,2020,
 Q423,North Korea,Q56876342,President of North Korea,Q56226,Kim Jong-un,2011,
 Q221,North Macedonia,Q678492,President of North Macedonia,Q15967423,Stevo Pendarovski,2019,
 Q221,North Macedonia,Q1776220,Prime Minister of North Macedonia,Q220579,Zoran Zaev,2020,
-Q20,Norway,Q2334076,Prime Minister of Norway,Q291644,Erna Solberg,2013,
+Q20,Norway,Q2334076,Prime Minister of Norway,Q291644,Erna Solberg,2013,2021
 Q20,Norway,Q1294765,monarch of Norway,Q57287,Harald V of Norway,1991,
 Q842,Oman,Q28478447,Sultan of Oman,Q12250314,Haitham bin Tarik Al Said,2020,
 Q843,Pakistan,Q473984,President of Pakistan,Q4790529,Arif Alvi,2018,
@@ -296,7 +297,6 @@ Q971,Republic of the Congo,Q10353660,President of the Republic of the Congo,Q574
 Q971,Republic of the Congo,Q30101451,Prime Minister of the Republic of the Congo,Q23928873,Clément Mouamba,2016,
 Q11196,Republika Srpska,Q6594693,President of Republika Srpska,Q5528031,Željka Cvijanović,2018,
 Q11196,Republika Srpska,Q14212,prime minister,Q20525402,Fadil Novalić,2015,
-Q11196,Republika Srpska,Q14212,prime minister,Q91299312,Vladimir Pashkov,2020,
 Q218,Romania,Q839139,President of Romania,Q701484,Klaus Iohannis,2019,
 Q218,Romania,Q15304810,Prime Minister of Romania,Q28035183,Florin Cîțu,2020,
 Q159,Russia,Q218295,President of Russia,Q7747,Vladimir Putin,2012,
@@ -411,7 +411,6 @@ Q686,Vanuatu,Q1029958,Prime Minister of Vanuatu,Q16190741,Bob Loughman Weibur,20
 Q237,Vatican City,Q2387238,President of the Pontifical Commission for Vatican City State,Q543260,Giuseppe Bertello,2011,
 Q237,Vatican City,Q19546,pope,Q450675,Francis,2013,
 Q717,Venezuela,Q11942698,President of Venezuela,Q58132,Nicolás Maduro,2013,
-Q717,Venezuela,Q11942698,President of Venezuela,Q58833335,Juan Guaidó,2019,
 Q881,Vietnam,Q866680,President of Vietnam,Q318458,Nguyen Phu Trong,2018,2021
 Q881,Vietnam,Q866680,President of Vietnam,Q10800073,Nguyen Xuan Phuc,2021,
 Q881,Vietnam,Q1043568,Prime Minister of Vietnam,Q10800073,Nguyen Xuan Phuc,2016,2021
