@@ -113,7 +113,7 @@
 ->,Myanmar,Q23747483,State Counsellor of Myanmar,Q36740,Aung San Suu Kyi,2016,NULL->2021
 ->,Nepal,Q30100626,Prime Minister of Nepal,Q3195923,Khadga Prasad Sharma Oli->KP Sharma Oli,2018,NULL->2021
 +++,New Zealand,Q2824534,Administrator of the Government,Q59800807,Helen Winkelmann,2021,
-+++,New Zealand,Q455690,Governor-General of New Zealand,Q23498274,Patsy Reddy,2016,
++++,New Zealand,Q455690,Governor-General of New Zealand,Q23498274,Patsy Reddy,2016,2021
 ->,Niger,Q47006398->Q1976572,President of Niger,Q57482,Mahamadou Issoufou,2011,NULL->2021
 +++,North Korea (Democratic People's Republic of Korea),Q30944956,Chairman of the Standing Committee of the Supreme People's Assembly,Q714509,Choe Ryong-hae,2019,
 +++,North Korea (Democratic People's Republic of Korea),Q707631,General Secretary of the Workers' Party of Korea,Q56226,Kim Jong-un,2012,
@@ -169,6 +169,7 @@
 ---,Togo,Q30100661,Prime Minister of Togo,Q6428317,Komi Klassou,2015,
 ->,Tonga,Q915636,Prime Minister of Tonga,Q7449656->Q48778102,Semisi Sika->Pohiva Tu'i'onetoa,2019,
 +++,Transnistria,Q2630370,President of Transnistria,Q2035881,Vadim Krasnoselsky,2016,
+---,Tunisia,Q1064106,Prime Minister of Tunisia,Q108741355,Najla Bouden Romdhane,2021,
 ---,Turkish Republic of Northern Cyprus,Q2662165,Prime Minister of Northern Cyprus,Q58174,Hüseyin Özgürgün,2016,
 ->,Turkmenistan,Q1155759,President of Turkmenistan,Q57530,Gurbanguly Berdimuhamedow,2007->2006,
 +++,Tuvalu,Q644809,Governor-General of Tuvalu,Q104962757,Teniku Talesi Honolulu,2019,
