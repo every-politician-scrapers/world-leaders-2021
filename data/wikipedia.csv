@@ -15,7 +15,7 @@ Africa,Cape Verde,Q501713,President of Cape Verde,Q57517,Jorge Carlos Fonseca,20
 Africa,Cape Verde,Q510438,Prime Minister of Cape Verde,Q23899522,Ulisses Correia e Silva,2016,
 Africa,Central African Republic,Q1969668,President of the Central African Republic,Q57758,Faustin-Archange Touadéra,2016,
 Africa,Central African Republic,Q2062793,Prime Minister of the Central African Republic,Q61889435,Firmin Ngrébada,2019,2021
-Africa,Central African Republic,Q2062793,Prime Minister of the Central African Republic,"",Henri Marie Dondra (page does not exist),2021,
+Africa,Central African Republic,Q2062793,Prime Minister of the Central African Republic,Q107273326,Henri-Marie Dondra,2021,
 Africa,Chad,Q865070,President of Chad,Q57350,Idriss Déby,1990,2021
 Africa,Chad,Q106573129,Transitional Military Council (Chad),Q16206405,Mahamat Déby,2021,
 Africa,Chad,Q2035826,Prime Minister of Chad,Q4710950,Albert Pahimi Padacké,2021,
@@ -45,6 +45,7 @@ Africa,Ghana,Q2672728,President of Ghana,Q718601,Nana Akufo-Addo,2017,
 Africa,Guinea,Q815572,President of Guinea,Q4413,Alpha Condé,2010,2021
 Africa,Guinea,Q815572,President of Guinea,Q108418519,Mamady Doumbouya,2021,
 Africa,Guinea,Q2477148,Prime Minister of Guinea,Q5984807,Ibrahima Kassory Fofana,2018,2021
+Africa,Guinea,Q2477148,Prime Minister of Guinea,Q66708545,Mohamed Béavogui,2021,
 Africa,Guinea-Bissau,Q845253,President of Guinea-Bissau,Q16855164,Umaro Sissoco Embaló,2020,
 Africa,Guinea-Bissau,Q763239,Prime Minister of Guinea-Bissau,Q86715481,Nuno Gomes Nabiam,2020,
 Africa,Ivory Coast,Q878210,President of the Ivory Coast,Q57413,Alassane Ouattara,2010,
@@ -72,7 +73,8 @@ Africa,Mauritania,Q3179769,Prime Minister of Mauritania,Q98137599,Mohamed Ould B
 Africa,Mauritius,Q3286988,President of Mauritius,Q77311543,Pritvirajsing Roopun,2019,
 Africa,Mauritius,Q1826694,Prime Minister of Mauritius,Q3401447,Pravind Jugnauth,2017,
 Africa,Morocco,Q257009,King of Morocco,Q57553,Mohammed VI of Morocco,1999,
-Africa,Morocco,Q19842743,Prime Minister of Morocco,Q2033385,Saadeddine Othmani,2017,
+Africa,Morocco,Q19842743,Prime Minister of Morocco,Q2033385,Saadeddine Othmani,2017,2021
+Africa,Morocco,Q19842743,Prime Minister of Morocco,Q1638114,Aziz Akhannouch,2021,
 Africa,Mozambique,Q384419,President of Mozambique,Q5448556,Filipe Nyusi,2015,
 Africa,Mozambique,Q2345072,Prime Minister of Mozambique,Q19057400,Carlos Agostinho do Rosário,2015,
 Africa,Namibia,Q647198,President of Namibia,Q1568274,Hage Geingob,2015,
@@ -86,7 +88,8 @@ Africa,Rwanda,Q596565,President of Rwanda,Q1231345,Paul Kagame,2000,
 Africa,Rwanda,Q2590706,Prime Minister of Rwanda,Q38188115,Édouard Ngirente,2017,
 Africa,Sahrawi Arab Democratic Republic,Q2662118,President of the Sahrawi Arab Democratic Republic,Q4955460,Brahim Ghali,2016,
 Africa,Sahrawi Arab Democratic Republic,Q30102468,Prime Minister of Western Sahara,Q4949324,Bouchraya Hammoudi Bayoun,2020,
-Africa,São Tomé and Príncipe,Q878165,President of São Tomé and Príncipe,Q709734,Evaristo Carvalho,2016,
+Africa,São Tomé and Príncipe,Q878165,President of São Tomé and Príncipe,Q709734,Evaristo Carvalho,2016,2021
+Africa,São Tomé and Príncipe,Q878165,President of São Tomé and Príncipe,Q27982047,Carlos Vila Nova,2021,
 Africa,São Tomé and Príncipe,Q942210,Prime Minister of São Tomé and Príncipe,Q57085436,Jorge Bom Jesus,2018,
 Africa,Senegal,Q845245,President of Senegal,Q57438,Macky Sall,2012,
 Africa,Seychelles,Q378039,President of Seychelles,Q1568174,Wavel Ramkalawan,2020,
@@ -144,7 +147,8 @@ Asia,Israel,Q327948,President of Israel,Q983258,Isaac Herzog,2021,
 Asia,Israel,Q208487,Prime Minister of Israel,Q43723,Benjamin Netanyahu,2009,2021
 Asia,Israel,Q208487,Prime Minister of Israel,Q39318,Naftali Bennett,2021,
 Asia,Japan,Q208233,Emperor of Japan,Q217096,Emperor Naruhito of Japan,2019,
-Asia,Japan,Q274948,Prime Minister of Japan,Q122465,Yoshihide Suga,2020,
+Asia,Japan,Q274948,Prime Minister of Japan,Q122465,Yoshihide Suga,2020,2021
+Asia,Japan,Q274948,Prime Minister of Japan,Q359480,Fumio Kishida,2021,
 Asia,Jordan,Q815910,King of Jordan,Q57464,Abdullah II of Jordan,1999,
 Asia,Jordan,Q7243300,Prime Minister of Jordan,Q63441935,Bisher Al-Khasawneh,2020,
 Asia,Kazakhstan,Q5256775,President of Kazakhstan,Q200881,Kassym-Jomart Tokayev,2019,
@@ -171,7 +175,7 @@ Asia,Laos,Q904139,President of Laos,Q58323,Thongloun Sisoulith,2021,
 Asia,Laos,Q778651,Prime Minister of Laos,Q58323,Thongloun Sisoulith,2016,2021
 Asia,Laos,Q778651,Prime Minister of Laos,Q7180477,Phankham Viphavanh,2021,
 Asia,Lebanon,Q22001564,President of Lebanon,Q363392,Michel Aoun,2016,
-Asia,Lebanon,Q14915225,Prime Minister of Lebanon,Q5679624,Hassan Diab,,
+Asia,Lebanon,Q14915225,Prime Minister of Lebanon,Q5679624,Hassan Diab,2020,2021
 Asia,Lebanon,Q14915225,Prime Minister of Lebanon,Q318493,Najib Mikati,2021,
 Asia,Malaysia,Q174156,Yang di-Pertuan Agong,Q15467111,Abdullah of Pahang,2019,
 Asia,Malaysia,Q862559,Prime Minister of Malaysia,Q1060949,Muhyiddin Yassin,2020,2021
@@ -208,9 +212,9 @@ Asia,Sri Lanka,Q2914380,President of Sri Lanka,Q1538702,Gotabaya Rajapaksa,2019,
 Asia,Sri Lanka,Q1758894,Prime Minister of Sri Lanka,Q57338,Mahinda Rajapaksa,2019,
 Asia,Syria,Q648464,President of Syria,Q44329,Bashar al-Assad,2000,
 Asia,Syria,Q7243302,Prime Minister of Syria,Q60455401,Hussein Arnous,2020,
-Asia,Syria,"",President of the Syrian National Coalition,Q76850233,Naser al-Hariri,2020,2021
-Asia,Syria,"",President of the Syrian National Coalition,Q107958056,Salem al-Meslet,2021,
-Asia,Syria,Q32506,Prime Minister of the Syrian National Coalition,Q22007095,Abdurrahman Mustafa,2019,
+Asia,Syria,Q32506,President of the Syrian National Coalition,Q76850233,Naser al-Hariri,2020,2021
+Asia,Syria,Q32506,President of the Syrian National Coalition,Q107958056,Salem al-Meslet,2021,
+Asia,Syria,Q15020959,Prime Minister of the Syrian National Coalition,Q22007095,Abdurrahman Mustafa,2019,
 Asia,Syria,Q42662921,Syrian Salvation Government,Q98153213,Ali Keda,2019,
 Asia,Taiwan (Republic of China),Q887003,President of the Republic of China,Q233984,Tsai Ing-wen,2016,
 Asia,Taiwan (Republic of China),Q702650,Premier of the Republic of China,Q551904,Su Tseng-chang,2019,
@@ -336,7 +340,8 @@ Europe,Romania,Q15304810,Prime Minister of Romania,Q28035183,Florin Cîțu,2020,
 Europe,Russia,Q218295,President of Russia,Q7747,Vladimir Putin,2012,
 Europe,Russia,Q842386,Prime Minister of Russia,Q4298520,Mikhail Mishustin,2020,
 Europe,San Marino,Q258045,Captains Regent,Q3609898,Alessandro Cardelli,2020,2021
-Europe,San Marino,Q258045,Captains Regent,Q16064803,Gian Carlo Venturini,2021,
+Europe,San Marino,Q258045,Captains Regent,Q16064803,Gian Carlo Venturini,,2021
+Europe,San Marino,Q258045,Captains Regent,Q887796,Francesco Mussoni,2021,
 Europe,Serbia,Q889830,President of Serbia,Q222031,Aleksandar Vučić,2017,
 Europe,Serbia,Q835586,Prime Minister of Serbia,Q26258815,Ana Brnabić,2017,
 Europe,Slovakia,Q6468838,President of Slovakia,Q26273268,Zuzana Čaputová,2019,
@@ -345,7 +350,7 @@ Europe,Slovakia,Q45369,Prime Minister of Slovakia,Q46227987,Eduard Heger,2021,
 Europe,Slovenia,Q495877,President of Slovenia,Q206471,Borut Pahor,2012,
 Europe,Slovenia,Q45758,Prime Minister of Slovenia,Q57627,Janez Janša,2020,
 Europe,South Ossetia,Q2327278,President of South Ossetia,Q3545676,Anatoliy Bibilov,2017,
-Europe,South Ossetia,Q2332585,Prime Minister of South Ossetia,"",Gennady Bekoev (page does not exist),2020,
+Europe,South Ossetia,Q2332585,Prime Minister of South Ossetia,Q105674235,Gennady Bekoyev,2020,
 Europe,Spain,Q889833,Monarchy of Spain,Q191045,Felipe VI of Spain,2014,
 Europe,Spain,Q844587,Prime Minister of Spain,Q6070218,Pedro Sánchez (Spanish politician),2018,
 Europe,Sweden,Q26796319,Monarchy of Sweden,Q45068,Carl XVI Gustaf of Sweden,1973,
@@ -358,7 +363,8 @@ Europe,Ukraine,Q1145714,Prime Minister of Ukraine,Q66094865,Denys Shmyhal,2020,
 Europe,United Kingdom,Q739941,Monarchy of the United Kingdom,Q9682,Elizabeth II,1952,
 Europe,United Kingdom,Q14211,Prime Minister of the United Kingdom,Q180589,Boris Johnson,2019,
 Europe,Vatican City,Q40483,List of sovereigns of Vatican City State,Q19546,Pope,2013,
-Europe,Vatican City,Q7478146,President of the Pontifical Commission for Vatican City State,Q543260,Giuseppe Bertello,2011,
+Europe,Vatican City,Q7478146,President of the Pontifical Commission for Vatican City State,Q543260,Giuseppe Bertello,2011,2021
+Europe,Vatican City,Q7478146,President of the Pontifical Commission for Vatican City State,Q15060665,Fernando Vérgez Alzaga,2021,
 Europe,Vatican City,Q1054345,Cardinal Secretary of State,Q574058,Pietro Parolin,2013,
 North America,Antigua and Barbuda,Q3244203,Monarchy of Antigua and Barbuda,Q9682,Elizabeth II,1981,
 North America,Antigua and Barbuda,Q602280,Governor-General of Antigua and Barbuda,Q17566330,Rodney Williams (governor-general),2014,
@@ -378,7 +384,7 @@ North America,Belize,Q30100540,Prime Minister of Belize,Q6266369,Johnny Briceño
 North America,Canada,Q508840,Monarchy of Canada,Q9682,Elizabeth II,1952,
 North America,Canada,Q390776,Governor General of Canada,Q240769,Julie Payette,2017,2021
 North America,Canada,Q105753386,Administrator of the Government of Canada,Q3431309,Richard Wagner (judge),,2021
-North America,Canada,Q390776,Governor General of Canada,Q6780723,Mary Simon,2021,
+North America,Canada,Q390776,Governor General of Canada,Q6780723,Mary May Simon,2021,
 North America,Canada,Q839078,Prime Minister of Canada,Q3099714,Justin Trudeau,2015,
 North America,Costa Rica,Q27977064,President of Costa Rica,Q26996246,Carlos Alvarado Quesada,2018,
 North America,Cuba,Q5453787,First Secretary of the Communist Party of Cuba,Q46809,Raúl Castro,2011,2021
@@ -466,7 +472,8 @@ South America,Paraguay,Q34071,President of Paraguay,Q48136013,Mario Abdo Beníte
 South America,Peru,Q5708511,President of Peru,Q20015136,Francisco Sagasti,2020,2021
 South America,Peru,Q5708511,President of Peru,Q103838608,Pedro Castillo,2021,
 South America,Peru,Q1758412,Prime Minister of Peru,Q102089691,Violeta Bermúdez,2020,2021
-South America,Peru,Q1758412,Prime Minister of Peru,Q107704083,Guido Bellido,2021,
+South America,Peru,Q1758412,Prime Minister of Peru,Q107704083,Guido Bellido,,2021
+South America,Peru,Q1758412,Prime Minister of Peru,Q84282244,Mirtha Vásquez,2021,
 South America,Suriname,Q878254,President of Suriname,Q333135,Chan Santokhi,2020,
 South America,Uruguay,Q4524807,President of Uruguay,Q6800406,Luis Lacalle Pou,2020,
 South America,Venezuela,Q11942698,President of Venezuela,Q58132,Nicolás Maduro,2013,
