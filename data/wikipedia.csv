@@ -110,6 +110,7 @@ Africa,Togo,Q866730,President of Togo,Q4414,Faure Gnassingbé,2005,
 Africa,Togo,Q1187629,Prime Minister of Togo,Q16682496,Victoire Tomegah Dogbé,2020,
 Africa,Tunisia,Q14911897,President of Tunisia,Q16120878,Kais Saied,2019,
 Africa,Tunisia,Q1064106,Prime Minister of Tunisia,Q88485687,Hichem Mechichi,2020,2021
+Africa,Tunisia,Q1064106,Prime Minister of Tunisia,Q108741355,Najla Bouden,2021,
 Africa,Uganda,Q18204367,President of Uganda,Q57274,Yoweri Museveni,1986,
 Africa,Uganda,Q2462330,Prime Minister of Uganda,Q1740843,Ruhakana Rugunda,2014,2021
 Africa,Uganda,Q2462330,Prime Minister of Uganda,Q62481397,Robinah Nabbanja,2021,
@@ -167,7 +168,8 @@ Asia,Kyrgyzstan,Q853036,President of Kyrgyzstan,Q25597831,Talant Mamytov,2020,20
 Asia,Kyrgyzstan,Q853036,President of Kyrgyzstan,Q25597826,Sadyr Japarov,2021,
 Asia,Kyrgyzstan,Q2333371,Prime Minister of Kyrgyzstan,Q25597826,Sadyr Japarov,2020,2021
 Asia,Kyrgyzstan,Q2333371,Prime Minister of Kyrgyzstan,Q101751482,Artem Novikov,2020,2021
-Asia,Kyrgyzstan,Q2333371,Prime Minister of Kyrgyzstan,Q105277058,Ulukbek Maripov,2021,
+Asia,Kyrgyzstan,Q2333371,Prime Minister of Kyrgyzstan,Q105277058,Ulukbek Maripov,,2021
+Asia,Kyrgyzstan,"",Chairman of the Cabinet of Ministers of Kyrgyzstan,Q4060344,Akylbek Japarov,2021,
 Asia,Laos,Q3849458,General Secretary of the Lao People's Revolutionary Party,Q470024,Bounnhang Vorachit,2016,2021
 Asia,Laos,Q3849458,General Secretary of the Lao People's Revolutionary Party,Q58323,Thongloun Sisoulith,2021,
 Asia,Laos,Q904139,President of Laos,Q470024,Bounnhang Vorachit,2016,2021
@@ -248,7 +250,8 @@ Europe,Armenia,Q4283840,President of Armenia,Q93153,Armen Sarkissian,2018,
 Europe,Armenia,Q1123764,Prime Minister of Armenia,Q7035479,Nikol Pashinyan,2018,
 Europe,Artsakh,Q2407022,President of Artsakh,Q440824,Arayik Harutyunyan,2020,
 Europe,Austria,Q475658,President of Austria,Q78869,Alexander Van der Bellen,2017,
-Europe,Austria,Q1006398,Chancellor of Austria,Q2262885,Sebastian Kurz,2020,
+Europe,Austria,Q1006398,Chancellor of Austria,Q2262885,Sebastian Kurz,2020,2021
+Europe,Austria,Q1006398,Chancellor of Austria,Q64168538,Alexander Schallenberg,2021,
 Europe,Azerbaijan,Q205602,President of Azerbaijan,Q57371,Ilham Aliyev,2003,
 Europe,Azerbaijan,Q946064,Prime Minister of Azerbaijan,Q12850075,Ali Asadov,2019,
 Europe,Belarus,Q1049659,President of Belarus,Q2866,Alexander Lukashenko,1994,
@@ -273,7 +276,8 @@ Europe,Denmark,Q1273134,Monarchy of Denmark,Q102139,Margrethe II of Denmark,1972
 Europe,Denmark,Q795477,Prime Minister of Denmark,Q5015,Mette Frederiksen,2019,
 Europe,Donetsk People's Republic,Q16150196,Donetsk People's Republic,Q16514790,Denis Pushilin,2018,
 Europe,Donetsk People's Republic,Q16150196,Donetsk People's Republic,Q57588106,Alexander Ananchenko,2018,
-Europe,Estonia,Q890005,President of Estonia,Q12366816,Kersti Kaljulaid,2016,
+Europe,Estonia,Q890005,President of Estonia,Q12366816,Kersti Kaljulaid,2016,2021
+Europe,Estonia,Q890005,President of Estonia,Q12358575,Alar Karis,2021,
 Europe,Estonia,Q737115,Prime Minister of Estonia,Q2621730,Jüri Ratas,2016,2021
 Europe,Estonia,Q737115,Prime Minister of Estonia,Q11869065,Kaja Kallas,2021,
 Europe,Finland,Q29558,President of Finland,Q29207,Sauli Niinistö,2012,
@@ -330,7 +334,8 @@ Europe,North Macedonia,Q1776220,Prime Minister of Macedonia,Q220579,Zoran Zaev,2
 Europe,Northern Cyprus,Q2354210,President of Northern Cyprus,Q6057339,Ersin Tatar,2020,
 Europe,Northern Cyprus,Q2662165,Prime Minister of Northern Cyprus,Q28600107,Ersan Saner,2020,
 Europe,Norway,Q1294765,Monarchy of Norway,Q57287,Harald V of Norway,1991,
-Europe,Norway,Q2334076,Prime Minister of Norway,Q291644,Erna Solberg,2013,
+Europe,Norway,Q2334076,Prime Minister of Norway,Q291644,Erna Solberg,2013,2021
+Europe,Norway,Q2334076,Prime Minister of Norway,Q467948,Jonas Gahr Støre,2021,
 Europe,Poland,Q1054799,President of Poland,Q9151911,Andrzej Duda,2015,
 Europe,Poland,Q3259469,Prime Minister of Poland,Q11771436,Mateusz Morawiecki,2017,
 Europe,Portugal,Q322459,President of Portugal,Q6756617,Marcelo Rebelo de Sousa,2016,
@@ -455,7 +460,9 @@ Oceania,Solomon Islands,Q1425954,Prime Minister of the Solomon Islands,Q536063,M
 Oceania,Tonga,Q836240,Monarchy of Tonga,Q208497,Tupou VI,2012,
 Oceania,Tonga,Q915636,Prime Minister of Tonga,Q48778102,Pohiva Tu'i'onetoa,2019,
 Oceania,Tuvalu,Q3320130,Monarchy of Tuvalu,Q9682,Elizabeth II,1978,
-Oceania,Tuvalu,Q644809,Governor-General of Tuvalu,Q104962757,Teniku Talesi Honolulu,2019,
+Oceania,Tuvalu,Q644809,Governor-General of Tuvalu,Q104962757,Teniku Talesi Honolulu,2019,2021
+Oceania,Tuvalu,Q644809,Governor-General of Tuvalu,Q21062794,Samuelu Teo,,2021
+Oceania,Tuvalu,Q644809,Governor-General of Tuvalu,Q108906680,Tofiga Vaevalu Falani,2021,
 Oceania,Tuvalu,Q592866,Prime Minister of Tuvalu,Q6378927,Kausea Natano,2019,
 Oceania,Vanuatu,Q878217,President of Vanuatu,Q32060530,Tallis Obed Moses,2017,
 Oceania,Vanuatu,Q1029958,Prime Minister of Vanuatu,Q16190741,Bob Loughman,2020,
