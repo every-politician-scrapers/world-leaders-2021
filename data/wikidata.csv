@@ -14,6 +14,8 @@ Q781,Antigua and Barbuda,Q26869636,monarch of Antigua and Barbuda,Q9682,Elizabet
 Q414,Argentina,Q12969145,President of Argentina,Q2642828,Alberto Fernández,2019,
 Q399,Armenia,Q4283840,President of Armenia,Q93153,Armen Sarkissian,2018,
 Q399,Armenia,Q1123764,Prime Minister of Armenia,Q7035479,Nikol Pashinyan,2018,2021
+Q399,Armenia,Q1123764,Prime Minister of Armenia,Q7035479,Nikol Pashinyan,2021,2021
+Q399,Armenia,Q1123764,Prime Minister of Armenia,Q7035479,Nikol Pashinyan,2021,
 Q408,Australia,Q14931512,Monarch of Australia,Q9682,Elizabeth II,1952,
 Q408,Australia,Q319145,Prime Minister of Australia,Q7436908,Scott Morrison,2018,
 Q40,Austria,Q1006398,Federal Chancellor of Austria,Q2262885,Sebastian Kurz,2020,2021
@@ -190,7 +192,8 @@ Q1246,Kosovo,Q116102,Prime Minister of Kosovo,Q30323682,Avdullah Hoti,2020,2021
 Q1246,Kosovo,Q116102,Prime Minister of Kosovo,Q441633,Albin Kurti,2021,
 Q817,Kuwait,Q30100649,Prime Minister of Kuwait,Q57894,Jaber Al-Mubarak Al-Hamad Al-Sabah,2011,
 Q817,Kuwait,Q246932,emir of Kuwait,Q641805,Nawaf Al-Ahmad Al-Jaber Al-Sabah,2020,
-Q813,Kyrgyzstan,Q2333371,Prime Minister of Kyrgyzstan,Q96338578,Kubatbek Boronov,2020,
+Q813,Kyrgyzstan,Q2333371,Prime Minister of Kyrgyzstan,Q105277058,Ulukbek Maripov,2021,2021
+Q813,Kyrgyzstan,Q2333371,Prime Minister of Kyrgyzstan,Q4060344,Akylbek Japarov,2021,
 Q819,Laos,Q904139,President of Laos,Q470024,Bounnhang Vorachith,2016,
 Q819,Laos,Q778651,Prime Minister of Laos,Q58323,Thongloun Sisoulith,2016,
 Q211,Latvia,Q218014,President of Latvia,Q348043,Egils Levits,2019,
