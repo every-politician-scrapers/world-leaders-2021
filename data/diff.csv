@@ -124,9 +124,8 @@
 ---,Republika Srpska,Q6594693,President of Republika Srpska,Q5528031,Željka Cvijanović,2018,
 ---,Republika Srpska,Q14212,prime minister,Q20525402,Fadil Novalić,2015,
 ->,Romania,Q839139,President of Romania,Q701484,Klaus Iohannis,2019->2014,
----,Romania,Q15304810,Prime Minister of Romania,Q28035183,Florin Cîţu,2020,2021
-+++,Romania,Q15304810,Prime Minister of Romania,Q28035183,Florin Cîțu,2020,
----,Romanian Old Kingdom,Q15304810,Prime Minister of Romania,Q28035183,Florin Cîţu,2020,2021
+->,Romania,Q15304810,Prime Minister of Romania,Q28035183,Florin Cîțu,2020,2021->NULL
+---,Romanian Old Kingdom,Q15304810,Prime Minister of Romania,Q28035183,Florin Cîțu,2020,2021
 +++,Saint Kitts and Nevis,Q35918814,Governor-General of Saint Kitts and Nevis,Q20995517,Tapley Seaton,2015,
 +++,Saint Lucia,Q1279695,Governor-General of Saint Lucia,Q16727889,Neville Cenac,2018,
 +++,Saint Vincent and the Grenadines,Q177360,Governor-General of Saint Vincent and the Grenadines,Q66088003,Susan Dougan,2019,
