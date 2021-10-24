@@ -54,7 +54,6 @@
 +++,Haiti,Q3290543,President of Haiti,Q105437712,Joseph Mécène Jean-Louis,,2021
 ->,Haiti,Q1064589,Prime Minister of Haiti,Q106496152,Claude Joseph,2021->NULL,2021
 ->,Hungary,Q520765,President of Hungary,Q57467,János Áder,2017->2012,
-->,Iraq,Q1476165,Prime Minister of Iraq,Q5639013->Q85317569,Haider Al-Abadi->Mustafa Al-Kadhimi,2014->2020,
 ---,Islamic Emirate of Afghanistan,Q166382,emir,Q2820941,Abdallah ibn Buluggin,1073,
 ---,Islamic Emirate of Afghanistan,Q166382,emir,Q59919598,Abu’l Fath of Sarmin,1106,
 ---,Islamic Emirate of Afghanistan,Q166382,emir,Q25548163,Qazi Ahsan Ahmed Shuja Abadi,1961,
@@ -69,7 +68,6 @@
 ---,Jordan,Q7243300,Prime Minister of Jordan,Q29512679,Omar Razzaz,2018,
 ->,Kosovo,Q886947,President of Kosovo,Q5567306,Glauk Konjufca,2021->NULL,2021
 +++,Kosovo,Q784084,Special Representative of the Secretary-General for Kosovo,Q3918330,Zahir Tanin,2015,
-->,Kuwait,Q30100649->Q2035020,Prime Minister of Kuwait,Q57894->Q12219691,Jaber Al-Mubarak Al-Hamad Al-Sabah->Sabah Al-Khalid Al-Sabah,2011->2019,
 +++,Kyrgyzstan,Q853036,President of Kyrgyzstan,Q25597831,Talant Mamytov,2020,2021
 +++,Kyrgyzstan,Q853036,President of Kyrgyzstan,Q25597826,Sadyr Japarov,2021,
 +++,Kyrgyzstan,Q2333371,Prime Minister of Kyrgyzstan,Q101751482,Artem Novikov,2020,2021
@@ -100,7 +98,6 @@
 ---,Mauritius,Q3286988,President of Mauritius,Q27662367,Barlen Vyapoory,2018,
 ->,Moldova,Q1769526,Prime Minister of Moldova,Q4822275,Aureliu Ciocoi,2020->NULL,2021
 ->,Mongolia,Q756265,President of Mongolia,Q9122260,Khaltmaagiin Battulga,2017,NULL->2021
-->,Montenegro,Q1149153,President of Montenegro,Q57542->Q200305,Filip Vujanović->Milo Đukanović,2003->2018,
 +++,Myanmar,Q105222391,Chairman of the State Administrative Council,Q3462649,Min Aung Hlaing,2021,
 ->,Myanmar,Q887124,President of Myanmar,Q8023642,Win Myint,2018,NULL->2021
 +++,Myanmar,Q887124,President of Myanmar,Q8023642,Win Myint,2021,
@@ -136,7 +133,6 @@
 +++,Sierra Leone,Q6622054,List of heads of government of Sierra Leone,Q53863493,David J. Francis (politician),2018,2021
 +++,Sierra Leone,Q6622054,List of heads of government of Sierra Leone,Q107067181,Jacob Jusu Saffa,2021,
 +++,Solomon Islands,Q1840326,Governor-General of the Solomon Islands,Q5240675,David Vunagi,2019,
-->,Solomon Islands,Q1425954,Prime Minister of the Solomon Islands,Q7331464->Q536063,Rick Houenipwela->Manasseh Sogavare,2017->2019,
 ---,Somaliland,Q25906534,President of Somaliland,Q380187,Ahmed Mohamed Mohamoud,2010,
 +++,South Korea (Republic of Korea),Q15407843,Prime Minister of South Korea,Q31180640,Hong Nam-ki,,2021
 +++,South Korea (Republic of Korea),Q15407843,Prime Minister of South Korea,Q11270093,Chung Sye-kyun,2020,2021
