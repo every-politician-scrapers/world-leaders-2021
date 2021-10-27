@@ -4,7 +4,6 @@
 +++,Andorra,Q6280481,Josep Maria Mauri,Q6280481,Josep Maria Mauri,2012,
 +++,Andorra,Q29934221,Patrick Strzoda,Q29934221,Patrick Strzoda,2017,
 +++,Andorra,Q30108629,Prime Minister of Andorra,Q21001195,Xavier Espot Zamora,2019,
-+++,Antigua and Barbuda,Q602280,Governor-General of Antigua and Barbuda,Q17566330,Rodney Williams (governor-general),2014,
 ---,Armenia,Q1123764,Prime Minister of Armenia,Q7035479,Nikol Pashinyan,2018,2021
 +++,Armenia,Q1123764,Prime Minister of Armenia,Q7035479,Nikol Pashinyan,2018,
 ---,Armenia,Q1123764,Prime Minister of Armenia,Q7035479,Nikol Pashinyan,2021,2021
@@ -64,7 +63,6 @@
 ---,Islamic Emirate of Afghanistan,Q166382,emir,Q11955114,Wasul ibn Thakiyya al-Fath,910,
 ---,Islamic Republic of Afghanistan,Q20204943,Chief Executive Officer of Afghanistan,Q317556,Abdullah Abdullah,2014,2021
 ->,Israel,Q327948,President of Israel,Q455854,Reuven Rivlin,2014,NULL->2021
-+++,Jamaica,Q1472951,Governor-General of Jamaica,Q109147,Patrick Allen (governor-general),2009,
 ---,Jordan,Q7243300,Prime Minister of Jordan,Q29512679,Omar Razzaz,2018,
 ->,Kosovo,Q886947,President of Kosovo,Q5567306,Glauk Konjufca,2021->NULL,2021
 +++,Kosovo,Q784084,Special Representative of the Secretary-General for Kosovo,Q3918330,Zahir Tanin,2015,
@@ -141,7 +139,8 @@
 ->,South Sudan,Q19362922->Q258969,President of South Sudan,Q57315,Salva Kiir Mayardit,2011->2005,
 +++,Sri Lanka,Q1758894,Prime Minister of Sri Lanka,Q57338,Mahinda Rajapaksa,2019,
 ---,State of Palestine,Q3911022,President of the State of Palestine,Q127998,Mahmoud Abbas,2013,
-+++,Sudan,Q66578996,Sovereignty Council of Sudan,Q63111184,Abdel Fattah al-Burhan,2019,
++++,Sudan,Q740395,President of Sudan,Q63111184,Abdel Fattah al-Burhan,2019,
+->,Sudan,Q30100623->Q741259,Prime Minister of Sudan->List of heads of government of Sudan,Q27654948,Abdalla Hamdok,2019,NULL->2021
 ---,Switzerland,Q11811941,Member of the Swiss Federal Council,Q122991,Simonetta Sommaruga,2010,
 ---,Switzerland,Q11811941,Member of the Swiss Federal Council,Q123939,Alain Berset,2012,
 ---,Switzerland,Q11811941,Member of the Swiss Federal Council,Q121160,Guy Parmelin,2016,
