@@ -9,7 +9,8 @@
 ---,Armenia,Q1123764,Prime Minister of Armenia,Q7035479,Nikol Pashinyan,2021,2021
 ---,Armenia,Q1123764,Prime Minister of Armenia,Q7035479,Nikol Pashinyan,2021,
 +++,Australia,Q610669,Governor-General of Australia,Q5235277,David Hurley,2019,
-+++,Barbados,Q1261556,Governor-General of Barbados,Q9333540,Sandra Mason,2018,
++++,Barbados,Q1257585,Monarchy of Barbados,Q9682,Elizabeth II,1966,
+->,Barbados,Q108857904->Q1261556,President of Barbados->Governor-General of Barbados,Q9333540,Sandra Mason,2021->2018,
 +++,Belarus,Q1049659,President of Belarus,Q2866,Alexander Lukashenko,1994,
 +++,Belize,Q1281030,Governor-General of Belize,Q7626757,Stuart Leslie,,2021
 +++,Belize,Q1281030,Governor-General of Belize,Q373552,Colville Young,1993,2021
