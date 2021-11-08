@@ -1,9 +1,9 @@
 @@,country,position,positionlabel,officeholder,officeholderlabel,start_year,end_year
 ---,Afghanistan,Q2081829,Amir al-Mu'minin,Q24237654,Haibatullah Akhundzada,2016,
 ---,Andorra,Q19808790,Episcopal Co-Prince,Q57473,Joan Enric Vives Sicília,2003,
+---,Andorra,Q19808845,French co-prince of Andorra,Q312026,Georges Bidault,1946,
 +++,Andorra,Q6280481,Josep Maria Mauri,Q6280481,Josep Maria Mauri,2012,
 +++,Andorra,Q29934221,Patrick Strzoda,Q29934221,Patrick Strzoda,2017,
-+++,Andorra,Q30108629,Prime Minister of Andorra,Q21001195,Xavier Espot Zamora,2019,
 ---,Armenia,Q1123764,Prime Minister of Armenia,Q7035479,Nikol Pashinyan,2018,2021
 +++,Armenia,Q1123764,Prime Minister of Armenia,Q7035479,Nikol Pashinyan,2018,
 ---,Armenia,Q1123764,Prime Minister of Armenia,Q7035479,Nikol Pashinyan,2021,2021
@@ -11,11 +11,9 @@
 +++,Australia,Q610669,Governor-General of Australia,Q5235277,David Hurley,2019,
 +++,Barbados,Q1257585,Monarchy of Barbados,Q9682,Elizabeth II,1966,
 ->,Barbados,Q108857904->Q1261556,President of Barbados->Governor-General of Barbados,Q9333540,Sandra Mason,2021->2018,
-+++,Belarus,Q1049659,President of Belarus,Q2866,Alexander Lukashenko,1994,
 +++,Belize,Q1281030,Governor-General of Belize,Q7626757,Stuart Leslie,,2021
 +++,Belize,Q1281030,Governor-General of Belize,Q373552,Colville Young,1993,2021
 +++,Belize,Q1281030,Governor-General of Belize,Q106601151,Froyla Tzalam,2021,
----,Belize,Q862638,Prime Minister of Belize,Q57701,Dean Barrow,2008,
 +++,Bosnia and Herzegovina,Q848335,Chairmen of the Presidency of Bosnia and Herzegovina,Q335688,Milorad Dodik,2020,2021
 +++,Bosnia and Herzegovina,Q848335,Chairmen of the Presidency of Bosnia and Herzegovina,Q297825,Željko Komšić,2021,
 +++,Bosnia and Herzegovina,Q470446,High Representative for Bosnia and Herzegovina,Q112145,Valentin Inzko,2009,2021
@@ -28,10 +26,8 @@
 +++,Canada,Q390776,Governor General of Canada,Q6780723,Mary May Simon,2021,
 ---,Catalan Republic,Q16933549,President of the Generalitat of Catalonia,Q16169026,Pere Aragonès i Garcia,2021,
 +++,Chad,Q2035826,Prime Minister of Chad,Q4710950,Albert Pahimi Padacké,2021,
-+++,Chad,Q106573129,Transitional Military Council (Chad),Q16206405,Mahamat Déby,2021,
 +++,China (People's Republic of China),Q849418,General Secretary of the Chinese Communist Party,Q15031,Xi Jinping,2012,
 ->,Comoros,Q28015452->Q3236550,President of Comoros->President of the Comoros,Q515602,Azali Assoumani,2019->2016,
-+++,Congo–Brazzaville (Republic of the Congo),Q932245,Prime Minister of the Republic of the Congo,Q4752077,Anatole Collinet Makosso,2021,
 +++,Cuba,Q5453787,First Secretary of the Communist Party of Cuba,Q46809,Raúl Castro,2011,2021
 +++,Cuba,Q5453787,First Secretary of the Communist Party of Cuba,Q1932603,Miguel Díaz-Canel,2021,
 +++,Donetsk People's Republic,Q16150196,Donetsk People's Republic,Q57588106,Alexander Ananchenko,2018,
@@ -67,8 +63,6 @@
 ---,Jordan,Q7243300,Prime Minister of Jordan,Q29512679,Omar Razzaz,2018,
 ->,Kosovo,Q886947,President of Kosovo,Q5567306,Glauk Konjufca,2021->NULL,2021
 +++,Kosovo,Q784084,Special Representative of the Secretary-General for Kosovo,Q3918330,Zahir Tanin,2015,
-+++,Kyrgyzstan,Q853036,President of Kyrgyzstan,Q25597831,Talant Mamytov,2020,2021
-+++,Kyrgyzstan,Q853036,President of Kyrgyzstan,Q25597826,Sadyr Japarov,2021,
 +++,Kyrgyzstan,Q2333371,Prime Minister of Kyrgyzstan,Q101751482,Artem Novikov,2020,2021
 +++,Kyrgyzstan,Q2333371,Prime Minister of Kyrgyzstan,Q25597826,Sadyr Japarov,2020,2021
 ->,Kyrgyzstan,Q2333371,Prime Minister of Kyrgyzstan,Q105277058,Ulukbek Maripov,2021->NULL,2021
@@ -109,6 +103,7 @@
 +++,New Zealand,Q455690,Governor-General of New Zealand,Q17180701,Cindy Kiro,2021,
 +++,North Korea (Democratic People's Republic of Korea),Q30944956,Chairman of the Standing Committee of the Supreme People's Assembly,Q714509,Choe Ryong-hae,2019,
 +++,North Korea (Democratic People's Republic of Korea),Q707631,General Secretary of the Workers' Party of Korea,Q56226,Kim Jong-un,2012,
++++,Northern Cyprus,Q2662165,Prime Minister of Northern Cyprus,Q47189019,Faiz Sucuoğlu,2021,
 +++,Papua New Guinea,Q1073440,Governor-General of Papua New Guinea,Q28647870,Bob Dadae,2017,
 +++,Peru,Q1758412,Prime Minister of Peru,Q107704083,Guido Bellido,,2021
 +++,Peru,Q1758412,Prime Minister of Peru,Q102089691,Violeta Bermúdez,2020,2021
@@ -117,8 +112,7 @@
 ---,Republic of Abkhazia,Q1998735,President of Abkhazia,Q1359023,Raul Khadjimba,2014,
 ---,Republic of Abkhazia,Q2655879,Prime Minister of Abkhazia,Q4080376,Valeri Bganba,2018,
 ---,Republika Srpska,Q6594693,President of Republika Srpska,Q5528031,Željka Cvijanović,2018,
----,Republika Srpska,Q14212,prime minister,Q20525402,Fadil Novalić,2015,
-->,Romania,Q839139,President of Romania,Q701484,Klaus Iohannis,2019->2014,
+->,Romania,Q839139,President of Romania,Q701484,Klaus Johannis->Klaus Iohannis,2019->2014,
 ->,Romania,Q15304810,Prime Minister of Romania,Q28035183,Florin Cîțu,2020,2021->NULL
 ---,Romanian Old Kingdom,Q15304810,Prime Minister of Romania,Q28035183,Florin Cîțu,2020,2021
 +++,Saint Kitts and Nevis,Q35918814,Governor-General of Saint Kitts and Nevis,Q20995517,Tapley Seaton,2015,
@@ -157,6 +151,7 @@
 ---,Togo,Q30100661,Prime Minister of Togo,Q6428317,Komi Klassou,2015,
 +++,Transnistria,Q2630370,President of Transnistria,Q2035881,Vadim Krasnoselsky,2016,
 ---,Turkish Republic of Northern Cyprus,Q2662165,Prime Minister of Northern Cyprus,Q58174,Hüseyin Özgürgün,2016,
+->,Turkish Republic of Northern Cyprus->Northern Cyprus,Q2662165,Prime Minister of Northern Cyprus,Q28600107,Ersan Saner,2020,NULL->2021
 ->,Turkmenistan,Q1155759,President of Turkmenistan,Q57530,Gurbanguly Berdimuhamedow,2007->2006,
 +++,Tuvalu,Q644809,Governor-General of Tuvalu,Q21062794,Samuelu Teo,,2021
 +++,Tuvalu,Q644809,Governor-General of Tuvalu,Q104962757,Teniku Talesi Honolulu,2019,2021
