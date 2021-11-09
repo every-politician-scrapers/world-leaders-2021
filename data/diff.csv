@@ -1,7 +1,6 @@
 @@,country,position,positionlabel,officeholder,officeholderlabel,start_year,end_year
 ---,Afghanistan,Q2081829,Amir al-Mu'minin,Q24237654,Haibatullah Akhundzada,2016,
 ---,Andorra,Q19808790,Episcopal Co-Prince,Q57473,Joan Enric Vives Sicília,2003,
----,Andorra,Q19808845,French co-prince of Andorra,Q312026,Georges Bidault,1946,
 +++,Andorra,Q6280481,Josep Maria Mauri,Q6280481,Josep Maria Mauri,2012,
 +++,Andorra,Q29934221,Patrick Strzoda,Q29934221,Patrick Strzoda,2017,
 ---,Armenia,Q1123764,Prime Minister of Armenia,Q7035479,Nikol Pashinyan,2018,2021
@@ -103,7 +102,6 @@
 +++,New Zealand,Q455690,Governor-General of New Zealand,Q17180701,Cindy Kiro,2021,
 +++,North Korea (Democratic People's Republic of Korea),Q30944956,Chairman of the Standing Committee of the Supreme People's Assembly,Q714509,Choe Ryong-hae,2019,
 +++,North Korea (Democratic People's Republic of Korea),Q707631,General Secretary of the Workers' Party of Korea,Q56226,Kim Jong-un,2012,
-+++,Northern Cyprus,Q2662165,Prime Minister of Northern Cyprus,Q47189019,Faiz Sucuoğlu,2021,
 +++,Papua New Guinea,Q1073440,Governor-General of Papua New Guinea,Q28647870,Bob Dadae,2017,
 +++,Peru,Q1758412,Prime Minister of Peru,Q107704083,Guido Bellido,,2021
 +++,Peru,Q1758412,Prime Minister of Peru,Q102089691,Violeta Bermúdez,2020,2021
@@ -151,7 +149,6 @@
 ---,Togo,Q30100661,Prime Minister of Togo,Q6428317,Komi Klassou,2015,
 +++,Transnistria,Q2630370,President of Transnistria,Q2035881,Vadim Krasnoselsky,2016,
 ---,Turkish Republic of Northern Cyprus,Q2662165,Prime Minister of Northern Cyprus,Q58174,Hüseyin Özgürgün,2016,
-->,Turkish Republic of Northern Cyprus->Northern Cyprus,Q2662165,Prime Minister of Northern Cyprus,Q28600107,Ersan Saner,2020,NULL->2021
 ->,Turkmenistan,Q1155759,President of Turkmenistan,Q57530,Gurbanguly Berdimuhamedow,2007->2006,
 +++,Tuvalu,Q644809,Governor-General of Tuvalu,Q21062794,Samuelu Teo,,2021
 +++,Tuvalu,Q644809,Governor-General of Tuvalu,Q104962757,Teniku Talesi Honolulu,2019,2021
