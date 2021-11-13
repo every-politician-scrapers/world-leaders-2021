@@ -36,6 +36,8 @@
 ---,Eswatini,Q30101440,Prime Minister of Eswatini,Q57973856,Ambrose Mandvulo Dlamini,2018,
 +++,Eswatini,Q2384902,Prime Minister of Eswatini,Q16973942,Themba Masuku,2020,2021
 +++,Eswatini,Q2384902,Prime Minister of Eswatini,Q107600891,Cleopas Dlamini,2021,
+->,Fiji,Q76292543,President of Fiji,Q5541411,Jioji (George) Konrote->Jioji Konrote,2015,NULL->2021
++++,Fiji,Q76292543,President of Fiji,Q109012733,Wiliame Katonivere,2021,
 ->,Georgia,Q1975365,Prime Minister of Georgia,Q43287680,Giorgi Gakharia,2019,NULL->2021
 +++,Georgia,Q1975365,Prime Minister of Georgia,Q6066533,Irakli Garibashvili,2021,
 +++,Grenada,Q655829,Governor-General of Grenada,Q11964294,Cécile La Grenade,2013,
@@ -114,7 +116,8 @@
 ->,Romania,Q15304810,Prime Minister of Romania,Q28035183,Florin Cîțu,2020,2021->NULL
 ---,Romanian Old Kingdom,Q15304810,Prime Minister of Romania,Q28035183,Florin Cîțu,2020,2021
 +++,Saint Kitts and Nevis,Q35918814,Governor-General of Saint Kitts and Nevis,Q20995517,Tapley Seaton,2015,
-+++,Saint Lucia,Q1279695,Governor-General of Saint Lucia,Q16727889,Neville Cenac,2018,
++++,Saint Lucia,Q1279695,Governor-General of Saint Lucia,Q16727889,Neville Cenac,2018,2021
++++,Saint Lucia,Q1279695,Governor-General of Saint Lucia,"",Errol Charles (page does not exist),2021,
 +++,Saint Vincent and the Grenadines,Q177360,Governor-General of Saint Vincent and the Grenadines,Q66088003,Susan Dougan,2019,
 ---,San Marino,Q258045,Captain Regent of San Marino,Q888508,Alessandro Mancini,2020,
 ---,San Marino,Q258045,Captain Regent of San Marino,Q87974161,Grazia Zafferani,2020,
