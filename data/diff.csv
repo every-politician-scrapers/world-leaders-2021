@@ -22,7 +22,7 @@
 ->,Cambodia,Q1999325,Prime Minister of Cambodia,Q57788,Hun Sen,1998->1985,
 +++,Canada,Q105753386,Administrator of the Government of Canada,Q3431309,Richard Wagner (judge),,2021
 +++,Canada,Q390776,Governor General of Canada,Q240769,Julie Payette,2017,2021
-+++,Canada,Q390776,Governor General of Canada,Q6780723,Mary May Simon,2021,
++++,Canada,Q390776,Governor General of Canada,Q6780723,Mary Simon,2021,
 ---,Catalan Republic,Q16933549,President of the Generalitat of Catalonia,Q16169026,Pere Aragonès i Garcia,2021,
 +++,Chad,Q2035826,Prime Minister of Chad,Q4710950,Albert Pahimi Padacké,2021,
 +++,China (People's Republic of China),Q849418,General Secretary of the Chinese Communist Party,Q15031,Xi Jinping,2012,
@@ -112,7 +112,9 @@
 ---,Republika Srpska,Q6594693,President of Republika Srpska,Q5528031,Željka Cvijanović,2018,
 ->,Romania,Q839139,President of Romania,Q701484,Klaus Johannis->Klaus Iohannis,2019->2014,
 ->,Romania,Q15304810,Prime Minister of Romania,Q28035183,Florin Cîțu,2020,2021->NULL
+---,Romania,Q15304810,Prime Minister of Romania,Q28950289,Nicolae Ciucă,2021,
 ---,Romanian Old Kingdom,Q15304810,Prime Minister of Romania,Q28035183,Florin Cîțu,2020,2021
+---,Romanian Old Kingdom,Q15304810,Prime Minister of Romania,Q28950289,Nicolae Ciucă,2021,
 +++,Saint Kitts and Nevis,Q35918814,Governor-General of Saint Kitts and Nevis,Q20995517,Tapley Seaton,2015,
 +++,Saint Lucia,Q1279695,Governor-General of Saint Lucia,Q16727889,Neville Cenac,2018,2021
 +++,Saint Lucia,Q1279695,Governor-General of Saint Lucia,"",Errol Charles (page does not exist),2021,
@@ -132,7 +134,6 @@
 ->,South Sudan,Q19362922->Q258969,President of South Sudan,Q57315,Salva Kiir Mayardit,2011->2005,
 +++,Sri Lanka,Q1758894,Prime Minister of Sri Lanka,Q57338,Mahinda Rajapaksa,2019,
 ---,State of Palestine,Q3911022,President of the State of Palestine,Q127998,Mahmoud Abbas,2013,
-+++,Sudan,Q741259,List of heads of government of Sudan,Q27654948,Abdalla Hamdok,2021,
 +++,Sudan,Q740395,President of Sudan,Q63111184,Abdel Fattah al-Burhan,2019,
 ---,Switzerland,Q11811941,Member of the Swiss Federal Council,Q122991,Simonetta Sommaruga,2010,
 ---,Switzerland,Q11811941,Member of the Swiss Federal Council,Q123939,Alain Berset,2012,
