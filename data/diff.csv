@@ -58,6 +58,7 @@
 ---,Islamic Emirate of Afghanistan,Q166382,emir,Q11955114,Wasul ibn Thakiyya al-Fath,910,
 ---,Islamic Republic of Afghanistan,Q20204943,Chief Executive Officer of Afghanistan,Q317556,Abdullah Abdullah,2014,2021
 ->,Israel,Q327948,President of Israel,Q455854,Reuven Rivlin,2014,NULL->2021
+->,Japan,Q208233,Emperor of Japan,Q217096->Q26971382,Naruhito->Naruto,2019,
 ---,Jordan,Q7243300,Prime Minister of Jordan,Q29512679,Omar Razzaz,2018,
 ->,Kosovo,Q886947,President of Kosovo,Q5567306,Glauk Konjufca,2021->NULL,2021
 +++,Kosovo,Q784084,Special Representative of the Secretary-General for Kosovo,Q3918330,Zahir Tanin,2015,
@@ -98,8 +99,8 @@
 +++,New Zealand,Q2824534,Administrator of the Government,Q59800807,Helen Winkelmann,,2021
 +++,New Zealand,Q455690,Governor-General of New Zealand,Q23498274,Patsy Reddy,2016,2021
 +++,New Zealand,Q455690,Governor-General of New Zealand,Q17180701,Cindy Kiro,2021,
-+++,North Korea (Democratic People's Republic of Korea),Q30944956,Chairman of the Standing Committee of the Supreme People's Assembly,Q714509,Choe Ryong-hae,2019,
-+++,North Korea (Democratic People's Republic of Korea),Q707631,General Secretary of the Workers' Party of Korea,Q56226,Kim Jong-un,2012,
++++,North Korea,Q30944956,Chairman of the Standing Committee of the Supreme People's Assembly,Q714509,Choe Ryong-hae,2019,
++++,North Korea,Q707631,General Secretary of the Workers' Party of Korea,Q56226,Kim Jong-un,2012,
 +++,Papua New Guinea,Q1073440,Governor-General of Papua New Guinea,Q28647870,Bob Dadae,2017,
 +++,Peru,Q1758412,Prime Minister of Peru,Q107704083,Guido Bellido,,2021
 +++,Peru,Q1758412,Prime Minister of Peru,Q102089691,Violeta Bermúdez,2020,2021
