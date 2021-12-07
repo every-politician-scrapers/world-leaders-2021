@@ -4,10 +4,11 @@
 +++,Andorra,Q6280481,Josep Maria Mauri,Q6280481,Josep Maria Mauri,2012,
 +++,Andorra,Q29934221,Patrick Strzoda,Q29934221,Patrick Strzoda,2017,
 ---,Armenia,Q1123764,Prime Minister of Armenia,Q7035479,Nikol Pashinyan,2018,2021
-+++,Armenia,Q1123764,Prime Minister of Armenia,Q7035479,Nikol Pashinyan,2018,
 ---,Armenia,Q1123764,Prime Minister of Armenia,Q7035479,Nikol Pashinyan,2021,2021
----,Armenia,Q1123764,Prime Minister of Armenia,Q7035479,Nikol Pashinyan,2021,
+->,Armenia,Q1123764,Prime Minister of Armenia,Q7035479,Nikol Pashinyan,2021->2018,
 +++,Australia,Q610669,Governor-General of Australia,Q5235277,David Hurley,2019,
++++,Austria,Q1006398,Chancellor of Austria,Q42860944,Karl Nehammer,2021,
+->,Austria,Q1006398,Federal Chancellor of Austria->Chancellor of Austria,Q64168538,Alexander Schallenberg,2021->NULL,NULL->2021
 +++,Barbados,Q1261556,Governor-General of Barbados,Q9333540,Sandra Mason,2018,2021
 +++,Barbados,Q1257585,Monarchy of Barbados,Q9682,Elizabeth II,1966,2021
 +++,Belize,Q1281030,Governor-General of Belize,Q7626757,Stuart Leslie,,2021
@@ -32,7 +33,6 @@
 ---,Czech Republic,Q3409229,Prime Minister of the Czech Republic,Q3377548,Petr Fiala,2021,
 +++,Donetsk People's Republic,Q16150196,Donetsk People's Republic,Q57588106,Alexander Ananchenko,2018,
 +++,Donetsk People's Republic,Q16150196,Donetsk People's Republic,Q16514790,Denis Pushilin,2018,
----,Donetsk People's Republic,Q108730907,Prime Minister of the Donetsk People's Republic,Q91299312,Vladimir Pashkov,2020,
 ->,Eritrea,Q19108193->Q81706,President of Eritrea,Q57348,Isaias Afwerki,1993->1991,
 ---,Eswatini,Q30101440,Prime Minister of Eswatini,Q57973856,Ambrose Mandvulo Dlamini,2018,
 +++,Eswatini,Q2384902,Prime Minister of Eswatini,Q16973942,Themba Masuku,2020,2021
