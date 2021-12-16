@@ -6,7 +6,8 @@ Africa,Angola,Q846091,President of Angola,Q28650390,João Lourenço (politician)
 Africa,Benin,Q878169,President of Benin,Q16669148,Patrice Talon,2016,
 Africa,Botswana,Q866725,President of Botswana,Q18618891,Mokgweetsi Masisi,2018,
 Africa,Burkina Faso,Q290004,President of Burkina Faso,Q599988,Roch Marc Christian Kaboré,2015,
-Africa,Burkina Faso,Q1434747,Prime Minister of Burkina Faso,Q60813372,Christophe Joseph Marie Dabiré,2019,
+Africa,Burkina Faso,Q1434747,Prime Minister of Burkina Faso,Q60813372,Christophe Joseph Marie Dabiré,2019,2021
+Africa,Burkina Faso,Q1434747,Prime Minister of Burkina Faso,Q21062160,Lassina Zerbo,2021,
 Africa,Burundi,Q19057827,President of Burundi,Q27329764,Évariste Ndayishimiye,2020,
 Africa,Burundi,Q52728003,Prime Minister of Burundi,Q27231038,Alain-Guillaume Bunyoni,2020,
 Africa,Cameroon,Q19158914,President of Cameroon,Q57272,Paul Biya,1982,
@@ -120,7 +121,7 @@ Africa,Zambia,Q18985034,President of Zambia,Q18352991,Edgar Lungu,2015,2021
 Africa,Zambia,Q18985034,President of Zambia,Q717185,Hakainde Hichilema,2021,
 Africa,Zimbabwe,Q19056184,President of Zimbabwe,Q510523,Emmerson Mnangagwa,2017,
 Asia,Afghanistan,Q1140706,President of Afghanistan,Q172388,Ashraf Ghani,2014,2021
-Asia,Afghanistan,Q108130107,Head of the Islamic Emirate of Afghanistan,Q24237654,Hibatullah Akhundzada,2016,
+Asia,Afghanistan,Q108130107,Leader of the Islamic Emirate of Afghanistan,Q24237654,Hibatullah Akhundzada,2021,
 Asia,Afghanistan,Q532240,Prime Minister of Afghanistan,Q108444479,Mohammad Hassan Akhund,2021,
 Asia,Bahrain,Q726872,King of Bahrain,Q57352,Hamad bin Isa Al Khalifa,1999,
 Asia,Bahrain,Q58150,Prime Minister of Bahrain,Q58140,"Salman, Crown Prince of Bahrain",2020,
@@ -269,7 +270,8 @@ Europe,Bosnia and Herzegovina,Q470446,High Representative for Bosnia and Herzego
 Europe,Bosnia and Herzegovina,Q470446,High Representative for Bosnia and Herzegovina,Q107018,Christian Schmidt (politician),2021,
 Europe,Bulgaria,Q14946265,President of Bulgaria,Q26257557,Rumen Radev,2017,
 Europe,Bulgaria,Q4404583,Prime Minister of Bulgaria,Q57775,Boyko Borisov,2017,2021
-Europe,Bulgaria,Q4404583,Prime Minister of Bulgaria,Q28055319,Stefan Yanev (general),2021,
+Europe,Bulgaria,Q4404583,Prime Minister of Bulgaria,Q28055319,Stefan Yanev (general),,2021
+Europe,Bulgaria,Q4404583,Prime Minister of Bulgaria,Q106928258,Kiril Petkov (politician),2021,
 Europe,Croatia,Q268984,President of Croatia,Q57687,Zoran Milanović,2020,
 Europe,Croatia,Q1195270,Prime Minister of Croatia,Q11685764,Andrej Plenković,2016,
 Europe,Cyprus,Q841760,President of Cyprus,Q2112764,Nicos Anastasiades,2013,
@@ -462,7 +464,7 @@ Oceania,Palau,Q878329,President of Palau,Q26703072,Surangel Whipps Jr.,2021,
 Oceania,Papua New Guinea,Q3320125,Monarchy of Papua New Guinea,Q9682,Elizabeth II,1975,
 Oceania,Papua New Guinea,Q1073440,Governor-General of Papua New Guinea,Q28647870,Bob Dadae,2017,
 Oceania,Papua New Guinea,Q1074656,Prime Minister of Papua New Guinea,Q6138903,James Marape,2019,
-Oceania,Samoa,Q1258128,O le Ao o le Malo,Q32014514,Va'aletoa Sualauvi II,2017,
+Oceania,Samoa,Q1258128,O le Ao o le Malo,"",Va'aletoa Sualauvi II,2017,
 Oceania,Samoa,Q1277355,Prime Minister of Samoa,Q57723,Tuila'epa Sa'ilele Malielegaoi,1998,2021
 Oceania,Samoa,Q1277355,Prime Minister of Samoa,Q5446290,Naomi Mataʻafa,2021,
 Oceania,Solomon Islands,Q3320135,Monarchy of the Solomon Islands,Q9682,Elizabeth II,1978,

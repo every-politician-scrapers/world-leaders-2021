@@ -1,5 +1,5 @@
 @@,country,position,positionlabel,officeholder,officeholderlabel,start_year,end_year
----,Afghanistan,Q2081829,Amir al-Mu'minin,Q24237654,Haibatullah Akhundzada,2021,
+---,Afghanistan,Q2081829,Amir al-Mu'minin,Q24237654,Haibatullah Akhundzada,2016,
 ---,Andorra,Q19808790,Episcopal Co-Prince,Q57473,Joan Enric Vives Sicília,2003,
 +++,Andorra,Q6280481,Josep Maria Mauri,Q6280481,Josep Maria Mauri,2012,
 +++,Andorra,Q29934221,Patrick Strzoda,Q29934221,Patrick Strzoda,2017,
@@ -19,6 +19,7 @@
 +++,Bosnia and Herzegovina,Q470446,High Representative for Bosnia and Herzegovina,Q107018,Christian Schmidt (politician),2021,
 +++,Bosnia and Herzegovina,Q20525169,Šefik Džaferović,Q20525169,Šefik Džaferović,2018,
 +++,Brunei,Q3245472,Prime Minister of Brunei,Q57327,Hassanal Bolkiah,1984,
+->,Bulgaria,Q4404583,Prime Minister of Bulgaria,Q28055319,Stefan Janev->Stefan Yanev (general),2021->NULL,2021
 ->,Cambodia,Q1999325,Prime Minister of Cambodia,Q57788,Hun Sen,1998->1985,
 +++,Canada,Q105753386,Administrator of the Government of Canada,Q3431309,Richard Wagner (judge),,2021
 +++,Canada,Q390776,Governor General of Canada,Q240769,Julie Payette,2017,2021
@@ -111,6 +112,7 @@
 +++,Saint Lucia,Q1279695,Governor-General of Saint Lucia,Q16727889,Neville Cenac,2018,2021
 +++,Saint Lucia,Q1279695,Governor-General of Saint Lucia,Q109557998,Errol Charles,2021,
 +++,Saint Vincent and the Grenadines,Q177360,Governor-General of Saint Vincent and the Grenadines,Q66088003,Susan Dougan,2019,
+->,Samoa,Q1258128,O le Ao o le Malo,Q32014514->NULL,Va'aletoa Sualauvi II,2017,
 ---,San Marino,Q258045,Captain Regent of San Marino,Q888508,Alessandro Mancini,2020,
 ---,San Marino,Q258045,Captain Regent of San Marino,Q87974161,Grazia Zafferani,2020,
 ---,San Marino,Q258045,Captain Regent of San Marino,Q99485737,Mirko Dolcini,2020,
