@@ -87,7 +87,6 @@
 ---,Mauritania,Q28002551,President of Mauritania,Q294969,Mohamed Ould Abdel Aziz,2009,
 ---,Mauritania,Q30101469,Prime Minister of Mauritania,Q730612,Mohamed Khouna Ould Haidalla,1984,
 ->,Moldova,Q1769526,Prime Minister of Moldova,Q4822275,Aureliu Ciocoi,2020->NULL,2021
-->,Mongolia,Q756265,President of Mongolia,Q9122260,Khaltmaagiin Battulga,2017,NULL->2021
 +++,Myanmar,Q105222391,Chairman of the State Administrative Council,Q3462649,Min Aung Hlaing,,2021
 ->,Myanmar,Q887124,President of Myanmar,Q8023642,Win Myint,2018,NULL->2021
 +++,Myanmar,Q887124,President of Myanmar,Q8023642,Win Myint,2021,
