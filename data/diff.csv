@@ -29,8 +29,6 @@
 ->,Comoros,Q28015452->Q3236550,President of Comoros->President of the Comoros,Q515602,Azali Assoumani,2019->2016,
 +++,Cuba,Q5453787,First Secretary of the Communist Party of Cuba,Q46809,Raúl Castro,2011,2021
 +++,Cuba,Q5453787,First Secretary of the Communist Party of Cuba,Q1932603,Miguel Díaz-Canel,2021,
-->,Czech Republic,Q3409229,Prime Minister of the Czech Republic,Q10819807,Andrej Babiš,2017,2021->NULL
----,Czech Republic,Q3409229,Prime Minister of the Czech Republic,Q3377548,Petr Fiala,2021,
 +++,Donetsk People's Republic,Q16150196,Donetsk People's Republic,Q57588106,Alexander Ananchenko,2018,
 +++,Donetsk People's Republic,Q16150196,Donetsk People's Republic,Q16514790,Denis Pushilin,2018,
 ->,Eritrea,Q19108193->Q81706,President of Eritrea,Q57348,Isaias Afwerki,1993->1991,
@@ -102,7 +100,6 @@
 +++,Peru,Q1758412,Prime Minister of Peru,Q107704083,Guido Bellido,,2021
 +++,Peru,Q1758412,Prime Minister of Peru,Q102089691,Violeta Bermúdez,2020,2021
 +++,Peru,Q1758412,Prime Minister of Peru,Q84282244,Mirtha Vásquez,2021,
----,Qatar,Q25711499,Emir of the State of Qatar,Q57360,Hamad bin Khalifa Al Thani,1995,
 ---,Republic of Abkhazia,Q1998735,President of Abkhazia,Q1359023,Raul Khadjimba,2014,
 ---,Republic of Abkhazia,Q2655879,Prime Minister of Abkhazia,Q4080376,Valeri Bganba,2018,
 ---,Republika Srpska,Q6594693,President of Republika Srpska,Q5528031,Željka Cvijanović,2018,
@@ -111,9 +108,8 @@
 +++,Saint Lucia,Q1279695,Governor-General of Saint Lucia,Q16727889,Neville Cenac,2018,2021
 +++,Saint Lucia,Q1279695,Governor-General of Saint Lucia,Q109557998,Errol Charles,2021,
 +++,Saint Vincent and the Grenadines,Q177360,Governor-General of Saint Vincent and the Grenadines,Q66088003,Susan Dougan,2019,
----,San Marino,Q258045,Captain Regent of San Marino,Q888508,Alessandro Mancini,2020,
----,San Marino,Q258045,Captain Regent of San Marino,Q87974161,Grazia Zafferani,2020,
----,San Marino,Q258045,Captain Regent of San Marino,Q99485737,Mirko Dolcini,2020,
+---,San Marino,Q258045,Captain Regent of San Marino,Q99485737,Mirko Dolcini,2020,2021
+---,San Marino,Q258045,Captain Regent of San Marino,Q108584119,Giacomo Simoncini,2021,
 ->,San Marino,Q258045,Captain Regent of San Marino->Captains Regent,Q16064803,Gian Carlo Venturini,2021->NULL,2021
 +++,Sierra Leone,Q6622054,List of heads of government of Sierra Leone,Q53863493,David J. Francis (politician),2018,2021
 +++,Sierra Leone,Q6622054,List of heads of government of Sierra Leone,Q107067181,Jacob Jusu Saffa,2021,
@@ -141,7 +137,6 @@
 +++,Tanzania,Q16147875,Prime Minister of Tanzania,Q6737420,Kassim Majaliwa,2015,
 +++,The Bahamas,Q5589512,Governor-General of the Bahamas,Q64853457,Cornelius A. Smith,2019,
 ---,Togo,Q30100661,Prime Minister of Togo,Q6428317,Komi Klassou,2015,
-->,Tonga,Q915636,Prime Minister of Tonga,Q48778102->NULL,Pohiva Tuʻiʻonetoa->Pohiva Tu'i'onetoa,2019,
 +++,Transnistria,Q2630370,President of Transnistria,Q2035881,Vadim Krasnoselsky,2016,
 ---,Turkish Republic of Northern Cyprus,Q2662165,Prime Minister of Northern Cyprus,Q58174,Hüseyin Özgürgün,2016,
 ->,Turkmenistan,Q1155759,President of Turkmenistan,Q57530,Gurbanguly Berdimuhamedow,2007->2006,
