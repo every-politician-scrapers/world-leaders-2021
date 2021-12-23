@@ -19,8 +19,6 @@
 +++,Bosnia and Herzegovina,Q470446,High Representative for Bosnia and Herzegovina,Q107018,Christian Schmidt (politician),2021,
 +++,Bosnia and Herzegovina,Q20525169,Šefik Džaferović,Q20525169,Šefik Džaferović,2018,
 +++,Brunei,Q3245472,Prime Minister of Brunei,Q57327,Hassanal Bolkiah,1984,
----,Bulgaria,Q4404583,Prime Minister of Bulgaria,Q106928258,Kiril Petkov,2021,
-+++,Bulgaria,Q4404583,Prime Minister of Bulgaria,Q15410543,Kiril Petkov (politician),2021,
 ->,Bulgaria,Q4404583,Prime Minister of Bulgaria,Q28055319,Stefan Janev->Stefan Yanev (general),2021->NULL,2021
 ->,Cambodia,Q1999325,Prime Minister of Cambodia,Q57788,Hun Sen,1998->1985,
 +++,Canada,Q105753386,Administrator of the Government of Canada,Q3431309,Richard Wagner (judge),,2021
@@ -112,6 +110,7 @@
 +++,Saint Vincent and the Grenadines,Q177360,Governor-General of Saint Vincent and the Grenadines,Q66088003,Susan Dougan,2019,
 ---,San Marino,Q258045,Captain Regent of San Marino,Q99485737,Mirko Dolcini,2020,2021
 ---,San Marino,Q258045,Captain Regent of San Marino,Q108584119,Giacomo Simoncini,2021,
+---,San Marino,Q258045,Captain Regent of San Marino,Q65499704,Marco Nicolini,2021,2021
 ->,San Marino,Q258045,Captain Regent of San Marino->Captains Regent,Q16064803,Gian Carlo Venturini,2021->NULL,2021
 +++,Sierra Leone,Q6622054,List of heads of government of Sierra Leone,Q53863493,David J. Francis (politician),2018,2021
 +++,Sierra Leone,Q6622054,List of heads of government of Sierra Leone,Q107067181,Jacob Jusu Saffa,2021,
