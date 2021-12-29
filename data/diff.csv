@@ -85,11 +85,17 @@
 ---,Mauritania,Q30101469,Prime Minister of Mauritania,Q730612,Mohamed Khouna Ould Haidalla,1984,
 ->,Moldova,Q1769526,Prime Minister of Moldova,Q4822275,Aureliu Ciocoi,2020->NULL,2021
 +++,Myanmar,Q105222391,Chairman of the State Administrative Council,Q3462649,Min Aung Hlaing,,2021
-->,Myanmar,Q887124,President of Myanmar,Q8023642,Win Myint,2018,NULL->2021
+---,Myanmar,Q887124,President of Myanmar,Q8023642,Win Myint,2018,
++++,Myanmar,Q887124,President of Myanmar,Q8023642,Win Myint,2018,2021
++++,Myanmar,Q887124,President of Myanmar,Q106577395,Duwa Lashi La,2021,
++++,Myanmar,Q887124,President of Myanmar,Q106577395,Duwa Lashi La,2021,
+---,Myanmar,Q887124,President of Myanmar,Q3331362,Myint Swe,2021,
 +++,Myanmar,Q887124,President of Myanmar,Q8023642,Win Myint,2021,
 +++,Myanmar,Q852152,Prime Minister of Myanmar,Q22343041,Mahn Win Khaing Than,2021,
 +++,Myanmar,Q852152,Prime Minister of Myanmar,Q3462649,Min Aung Hlaing,2021,
-->,Myanmar,Q23747483,State Counsellor of Myanmar,Q36740,Aung San Suu Kyi,2016,NULL->2021
+---,Myanmar,Q23747483,State Counsellor of Myanmar,Q36740,Aung San Suu Kyi,2016,
++++,Myanmar,Q23747483,State Counsellor of Myanmar,Q36740,Aung San Suu Kyi,2016,2021
++++,Myanmar,Q23747483,State Counsellor of Myanmar,Q36740,Aung San Suu Kyi,2021,
 +++,New Zealand,Q2824534,Administrator of the Government,Q59800807,Helen Winkelmann,,2021
 +++,New Zealand,Q455690,Governor-General of New Zealand,Q23498274,Patsy Reddy,2016,2021
 +++,New Zealand,Q455690,Governor-General of New Zealand,Q17180701,Cindy Kiro,2021,

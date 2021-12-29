@@ -192,10 +192,12 @@ Asia,Mongolia,Q903751,Prime Minister of Mongolia,Q27058418,Ukhnaagiin Khürelsü
 Asia,Mongolia,Q903751,Prime Minister of Mongolia,Q24248226,Luvsannamsrain Oyun-Erdene,2021,
 Asia,Myanmar,Q105222391,Chairman of the State Administrative Council,Q3462649,Min Aung Hlaing,,2021
 Asia,Myanmar,Q887124,President of Myanmar,Q8023642,Win Myint,2018,2021
-Asia,Myanmar,Q887124,President of Myanmar,Q3331362,Myint Swe,2021,
+Asia,Myanmar,Q887124,President of Myanmar,Q106577395,Duwa Lashi La,2021,
 Asia,Myanmar,Q23747483,State Counsellor of Myanmar,Q36740,Aung San Suu Kyi,2016,2021
 Asia,Myanmar,Q852152,Prime Minister of Myanmar,Q3462649,Min Aung Hlaing,2021,
 Asia,Myanmar,Q887124,President of Myanmar,Q8023642,Win Myint,2021,
+Asia,Myanmar,Q887124,President of Myanmar,Q106577395,Duwa Lashi La,2021,
+Asia,Myanmar,Q23747483,State Counsellor of Myanmar,Q36740,Aung San Suu Kyi,2021,
 Asia,Myanmar,Q852152,Prime Minister of Myanmar,Q22343041,Mahn Win Khaing Than,2021,
 Asia,Nepal,Q153756,President of Nepal,Q16193958,Bidhya Devi Bhandari,2015,
 Asia,Nepal,Q30100626,Prime Minister of Nepal,Q3195923,KP Sharma Oli,2018,2021
@@ -472,7 +474,8 @@ Oceania,Solomon Islands,Q3320135,Monarchy of the Solomon Islands,Q9682,Elizabeth
 Oceania,Solomon Islands,Q1840326,Governor-General of the Solomon Islands,Q5240675,David Vunagi,2019,
 Oceania,Solomon Islands,Q1425954,Prime Minister of the Solomon Islands,Q536063,Manasseh Sogavare,2019,
 Oceania,Tonga,Q836240,Monarchy of Tonga,Q208497,Tupou VI,2012,
-Oceania,Tonga,Q915636,Prime Minister of Tonga,Q48778102,Pohiva Tu'i'onetoa,2019,
+Oceania,Tonga,Q915636,Prime Minister of Tonga,Q48778102,Pohiva Tu'i'onetoa,2019,2021
+Oceania,Tonga,Q915636,Prime Minister of Tonga,Q19631293,Siaosi Sovaleni,2021,
 Oceania,Tuvalu,Q3320130,Monarchy of Tuvalu,Q9682,Elizabeth II,1978,
 Oceania,Tuvalu,Q644809,Governor-General of Tuvalu,Q104962757,Teniku Talesi Honolulu,2019,2021
 Oceania,Tuvalu,Q644809,Governor-General of Tuvalu,Q21062794,Samuelu Teo,,2021
