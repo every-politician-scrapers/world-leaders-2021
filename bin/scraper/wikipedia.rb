@@ -107,7 +107,7 @@ class ListPage < Scraped::HTML
   end
 end
 
-url = 'https://en.wikipedia.org/wiki/List_of_state_leaders_in_2021'
+url = 'https://en.wikipedia.org/wiki/List_of_state_leaders_in_2022'
 data = ListPage.new(response: Scraped::Request.new(url: url).response).leaders
 
 header = data.first.keys.to_csv

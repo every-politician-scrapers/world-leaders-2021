@@ -18,7 +18,7 @@ query = <<SPARQL
     ?officeholderItem wdt:P31 wd:Q5 ; p:P39 ?ps .
     ?ps ps:P39 ?positionItem ; pq:P580 ?start .
     OPTIONAL { ?ps pq:P582 ?end }
-    FILTER(!BOUND(?end) || YEAR(?end)=2021)
+    FILTER(!BOUND(?end) || YEAR(?end)=2022)
 
     SERVICE wikibase:label {
       bd:serviceParam wikibase:language "en".
@@ -30,5 +30,5 @@ query = <<SPARQL
   ORDER BY ?country ?positionLabel ?start ?officeholderLabel
 SPARQL
 
-agent = 'every-politican-scrapers/world=leaders-2021'
+agent = 'every-politican-scrapers/world-leaders-2022'
 puts EveryPoliticianScraper::WikidataQuery.new(query, agent).csv
