@@ -1,6 +1,5 @@
 @@,country,position,positionlabel,officeholder,officeholderlabel,start_year,end_year
 ---,Afghanistan,Q2081829,Amir al-Mu'minin,Q24237654,Haibatullah Akhundzada,2016,
----,Afghanistan,Q2081829,Amir al-Mu'minin,Q24237654,Haibatullah Akhundzada,2021,
 ---,Andorra,Q19808790,Episcopal Co-Prince,Q57473,Joan Enric Vives Sicília,2003,
 +++,Andorra,Q6280481,Josep Maria Mauri,Q6280481,Josep Maria Mauri,2012,
 +++,Andorra,Q29934221,Patrick Strzoda,Q29934221,Patrick Strzoda,2017,
@@ -49,7 +48,6 @@
 +++,Mali,Q862232,President of Mali,Q98497406,Assimi Goïta,2021,
 ->,Mali,Q30100640->Q1264364,Prime Minister of Mali,Q30005153->Q2964323,Boubou Cisse->Choguel Kokalla Maïga,2019->2021,
 ---,Mauritania,Q28002551,President of Mauritania,Q294969,Mohamed Ould Abdel Aziz,2009,
----,Mauritania,Q30101469,Prime Minister of Mauritania,Q730612,Mohamed Khouna Ould Haidalla,1984,
 +++,Myanmar,Q105222391,Chairman of the State Administrative Council,Q3462649,Min Aung Hlaing,2021,
 ->,Myanmar,Q887124,President of Myanmar,Q8023642,Win Myint,2018->2021,
 +++,Myanmar,Q887124,President of Myanmar,Q106577395,Duwa Lashi La,2021,
