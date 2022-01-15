@@ -69,8 +69,6 @@ Q213,Czech Republic,Q1819381,President of the Czech Republic,Q29032,Miloš Zeman
 Q213,Czech Republic,Q3409229,Prime Minister of the Czech Republic,Q3377548,Petr Fiala,2021,
 Q1008,Côte d'Ivoire,Q3409195,President of the Ivory Coast,Q57413,Alassane Dramane Ouattara,2010,
 Q1008,Côte d'Ivoire,Q3401763,Prime Minister of Ivory Coast,Q3369176,Patrick Achi,2021,
-Q756617,Danish Realm,Q795477,Prime Minister of Denmark,Q5015,Mette Frederiksen,2019,
-Q756617,Danish Realm,Q18341329,monarch of Denmark,Q102139,Margrethe II of Denmark,1972,
 Q974,Democratic Republic of the Congo,Q3409199,President of the Democratic Republic of the Congo,Q29032770,Félix Tshisekedi,2019,
 Q974,Democratic Republic of the Congo,Q3401753,Prime Minister of the Democratic Republic of the Congo,Q105523479,Jean-Michel Sama Lukonde,2021,
 Q35,Denmark,Q795477,Prime Minister of Denmark,Q5015,Mette Frederiksen,2019,
@@ -157,6 +155,8 @@ Q232,Kazakhstan,Q5256775,President of Kazakhstan,Q200881,Kassym-Jomart Tokayev,2
 Q232,Kazakhstan,Q2416315,Prime Minister of Kazakhstan,Q527063,Askar Mamin,2019,2022
 Q232,Kazakhstan,Q2416315,Prime Minister of Kazakhstan,Q56825894,Alihan Smaiylov,2022,
 Q114,Kenya,Q14784066,President of Kenya,Q196070,Uhuru Kenyatta,2013,
+Q756617,Kingdom of Denmark,Q795477,Prime Minister of Denmark,Q5015,Mette Frederiksen,2019,
+Q756617,Kingdom of Denmark,Q18341329,monarch of Denmark,Q102139,Margrethe II of Denmark,1972,
 Q29999,Kingdom of the Netherlands,Q2045066,Monarch of the Netherlands,Q154952,Willem-Alexander of the Netherlands,2013,
 Q29999,Kingdom of the Netherlands,Q3058109,Prime Minister of the Netherlands,Q57792,Mark Rutte,2010,
 Q710,Kiribati,Q878250,President of Kiribati,Q23034482,Taneti Maamau,2016,
