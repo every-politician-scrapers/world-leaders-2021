@@ -19,6 +19,8 @@
 ---,Burkina Faso,Q1402561,military leader,Q27146606,Q27146606,2016,
 ->,Cambodia,Q1999325,Prime Minister of Cambodia,Q57788,Hun Sen,1998->1985,
 +++,Canada,Q390776,Governor General of Canada,Q6780723,Mary Simon,2021,
+->,Central African Republic,Q16773091->Q2062793,Prime Minister of the Central African Republic,Q107273326,Henri-Marie Dondra,2021,NULL->2022
++++,Central African Republic,Q2062793,Prime Minister of the Central African Republic,Q88310768,Félix Moloua,2022,
 +++,Chad,Q2035826,Prime Minister of Chad,Q4710950,Albert Pahimi Padacké,2021,
 +++,China (People's Republic of China),Q849418,General Secretary of the Chinese Communist Party,Q15031,Xi Jinping,2012,
 ->,Comoros,Q28015452->Q3236550,President of Comoros->President of the Comoros,Q515602,Azali Assoumani,2019->2016,
@@ -63,8 +65,9 @@
 +++,North Korea (Democratic People's Republic of Korea),Q30944956,Chairman of the Standing Committee of the Supreme People's Assembly,Q714509,Choe Ryong-hae,2019,
 +++,North Korea (Democratic People's Republic of Korea),Q707631,General Secretary of the Workers' Party of Korea,Q56226,Kim Jong-un,2012,
 +++,Papua New Guinea,Q1073440,Governor-General of Papua New Guinea,Q28647870,Bob Dadae,2017,
++++,Peru,Q1758412,Prime Minister of Peru,Q107494080,Héctor Valer,,2022
 +++,Peru,Q1758412,Prime Minister of Peru,Q84282244,Mirtha Vásquez,2021,2022
-+++,Peru,Q1758412,Prime Minister of Peru,Q107494080,Héctor Valer,2022,
++++,Peru,Q1758412,Prime Minister of Peru,Q107721951,Aníbal Torres,2022,
 ---,Republic of Abkhazia,Q1998735,President of Abkhazia,Q1359023,Raul Khadjimba,2014,
 ---,Republic of Abkhazia,Q2655879,Prime Minister of Abkhazia,Q4080376,Valeri Bganba,2018,
 ---,Republika Srpska,Q6594693,President of Republika Srpska,Q5528031,Željka Cvijanović,2018,
