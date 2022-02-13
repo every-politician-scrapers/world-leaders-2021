@@ -15,7 +15,8 @@ Africa,Cameroon,Q17051823,Prime Minister of Cameroon,Q60441515,Joseph Ngute,2019
 Africa,Cape Verde,Q501713,President of Cape Verde,Q57649,José Maria Neves,2021,
 Africa,Cape Verde,Q510438,Prime Minister of Cape Verde,Q23899522,Ulisses Correia e Silva,2016,
 Africa,Central African Republic,Q1969668,President of the Central African Republic,Q57758,Faustin-Archange Touadéra,2016,
-Africa,Central African Republic,Q2062793,Prime Minister of the Central African Republic,Q107273326,Henri-Marie Dondra,2021,
+Africa,Central African Republic,Q2062793,Prime Minister of the Central African Republic,Q107273326,Henri-Marie Dondra,2021,2022
+Africa,Central African Republic,Q2062793,Prime Minister of the Central African Republic,Q88310768,Félix Moloua,2022,
 Africa,Chad,Q106573129,Transitional Military Council (Chad),Q16206405,Mahamat Déby,2021,
 Africa,Chad,Q865070,President of Chad,Q16206405,Mahamat Déby,2021,
 Africa,Chad,Q2035826,Prime Minister of Chad,Q4710950,Albert Pahimi Padacké,2021,
@@ -403,7 +404,8 @@ South America,Guyana,Q20725053,Prime Minister of Guyana,Q98053664,Mark Phillips 
 South America,Paraguay,Q34071,President of Paraguay,Q48136013,Mario Abdo Benítez,2018,
 South America,Peru,Q5708511,President of Peru,Q103838608,Pedro Castillo,2021,
 South America,Peru,Q1758412,Prime Minister of Peru,Q84282244,Mirtha Vásquez,2021,2022
-South America,Peru,Q1758412,Prime Minister of Peru,Q107494080,Héctor Valer,2022,
+South America,Peru,Q1758412,Prime Minister of Peru,Q107494080,Héctor Valer,,2022
+South America,Peru,Q1758412,Prime Minister of Peru,Q107721951,Aníbal Torres,2022,
 South America,Suriname,Q878254,President of Suriname,Q333135,Chan Santokhi,2020,
 South America,Uruguay,Q4524807,President of Uruguay,Q6800406,Luis Lacalle Pou,2020,
 South America,Venezuela,Q11942698,President of Venezuela,Q58132,Nicolás Maduro,2013,
