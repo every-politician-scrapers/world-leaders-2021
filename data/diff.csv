@@ -4,7 +4,7 @@
 +++,Andorra,Q6280481,Josep Maria Mauri,Q6280481,Josep Maria Mauri,2012,
 +++,Andorra,Q29934221,Patrick Strzoda,Q29934221,Patrick Strzoda,2017,
 +++,Andorra,Q30108629,Prime Minister of Andorra,Q21001195,Xavier Espot Zamora,2019,
----,Armenia,Q4283840,President of Armenia,Q3553274,Vahagn Khachatryan,2022,
+->,Armenia,Q4283840,President of Armenia,Q20513503,Alen Simonyan,2022->NULL,2022
 ->,Armenia,Q1123764,Prime Minister of Armenia,Q7035479,Nikol Pashinyan,2021->2018,
 +++,Australia,Q610669,Governor-General of Australia,Q5235277,David Hurley,2019,
 +++,Belize,Q1281030,Governor-General of Belize,Q106601151,Froyla Tzalam,2021,
@@ -24,7 +24,6 @@
 ->,Central African Republic,Q16773091->Q2062793,Prime Minister of the Central African Republic,Q107273326,Henri-Marie Dondra,2021,NULL->2022
 +++,Central African Republic,Q2062793,Prime Minister of the Central African Republic,Q88310768,Félix Moloua,2022,
 +++,Chad,Q2035826,Prime Minister of Chad,Q4710950,Albert Pahimi Padacké,2021,
-->,Chile,Q466956,President of Chile,Q306,Sebastián Piñera,2018,NULL->2022
 +++,China (People's Republic of China),Q849418,General Secretary of the Chinese Communist Party,Q15031,Xi Jinping,2012,
 ->,Comoros,Q28015452->Q3236550,President of Comoros->President of the Comoros,Q515602,Azali Assoumani,2019->2016,
 +++,Cuba,Q5453787,First Secretary of the Communist Party of Cuba,Q1932603,Miguel Díaz-Canel,2021,
