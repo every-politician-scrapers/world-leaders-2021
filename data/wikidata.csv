@@ -1,5 +1,4 @@
 countryid,country,position,positionLabel,officeholder,officeholderLabel,start_year,end_year
-Q889,Afghanistan,Q2081829,Amir al-Mu'minin,Q24237654,Haibatullah Akhundzada,2016,
 Q222,Albania,Q1625960,President of Albania,Q727132,Ilir Meta,2017,
 Q222,Albania,Q16009376,Prime Minister of Albania,Q316901,Edi Rama,2013,
 Q262,Algeria,Q2914452,President of Algeria,Q2821166,Abdelmadjid Tebboune,2019,
@@ -353,7 +352,8 @@ Q43,Turkey,Q1922067,President of Turkey,Q39259,Recep Tayyip Erdoğan,2014,
 Q23681,Turkish Republic of Northern Cyprus,Q2354210,President of Northern Cyprus,Q6057339,Ersin Tatar,2020,
 Q23681,Turkish Republic of Northern Cyprus,Q2662165,Prime Minister of Northern Cyprus,Q58174,Hüseyin Özgürgün,2016,
 Q23681,Turkish Republic of Northern Cyprus,Q2662165,Prime Minister of Northern Cyprus,Q47189019,Faiz Sucuoğlu,2021,
-Q874,Turkmenistan,Q1155759,President of Turkmenistan,Q57530,Gurbanguly Berdimuhamedow,2007,
+Q874,Turkmenistan,Q1155759,President of Turkmenistan,Q57530,Gurbanguly Berdimuhamedow,2007,2022
+Q874,Turkmenistan,Q1155759,President of Turkmenistan,Q51874548,Serdar Berdimuhamedow,2022,
 Q672,Tuvalu,Q592866,Prime Minister of Tuvalu,Q6378927,Kausea Natano,2019,
 Q672,Tuvalu,Q34517851,monarch of Tuvalu,Q9682,Elizabeth II,1978,
 Q1036,Uganda,Q18204367,President of Uganda,Q57274,Yoweri Museveni,1986,
