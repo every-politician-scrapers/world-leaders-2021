@@ -76,7 +76,10 @@
 +++,Saint Kitts and Nevis,Q35918814,Governor-General of Saint Kitts and Nevis,Q20995517,Tapley Seaton,2015,
 +++,Saint Lucia,Q1279695,Governor-General of Saint Lucia,Q109557998,Errol Charles,2021,
 +++,Saint Vincent and the Grenadines,Q177360,Governor-General of Saint Vincent and the Grenadines,Q66088003,Susan Dougan,2019,
----,San Marino,Q258045,Captain Regent of San Marino,Q108584119,Giacomo Simoncini,2021,
+---,San Marino,Q258045,Captain Regent of San Marino,Q108584119,Giacomo Simoncini,2021,2022
+---,San Marino,Q258045,Captain Regent of San Marino,Q888482,Oscar Mina,2022,
+---,San Marino,Q258045,Captain Regent of San Marino,Q7132238,Paolo Rondelli,2022,2022
+->,San Marino,Q258045,Captain Regent of San Marino->Captains Regent,Q887796,Francesco Mussoni,2021,2022->NULL
 +++,Sierra Leone,Q6622054,List of heads of government of Sierra Leone,Q107067181,Jacob Jusu Saffa,2021,
 +++,Solomon Islands,Q1840326,Governor-General of the Solomon Islands,Q5240675,David Vunagi,2019,
 ---,Somaliland,Q25906534,President of Somaliland,Q380187,Ahmed Mohamed Mohamoud,2010,
