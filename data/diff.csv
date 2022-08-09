@@ -1,9 +1,9 @@
 @@,country,position,positionlabel,officeholder,officeholderlabel,start_year,end_year
 +++,Afghanistan,Q108130107,Leader of the Islamic Emirate of Afghanistan,Q24237654,Hibatullah Akhundzada,2021,
++++,Afghanistan,Q532240,Prime Minister of Afghanistan,Q108444479,Hasan Akhund,2021,
 ---,Andorra,Q19808790,Episcopal Co-Prince,Q57473,Joan Enric Vives Sicília,2003,
 +++,Andorra,Q6280481,Josep Maria Mauri,Q6280481,Josep Maria Mauri,2012,
 +++,Andorra,Q29934221,Patrick Strzoda,Q29934221,Patrick Strzoda,2017,
-+++,Andorra,Q30108629,Prime Minister of Andorra,Q21001195,Xavier Espot Zamora,2019,
 ->,Armenia,Q4283840,President of Armenia,Q20513503,Alen Simonyan,2022->NULL,2022
 ->,Armenia,Q1123764,Prime Minister of Armenia,Q7035479,Nikol Pashinyan,2021->2018,
 +++,Australia,Q610669,Governor-General of Australia,Q5235277,David Hurley,2019,
@@ -21,49 +21,35 @@
 ---,Burkina Faso,Q1402561,military leader,Q27146606,Q27146606,2016,
 ->,Cambodia,Q1999325,Prime Minister of Cambodia,Q57788,Hun Sen,1998->1985,
 +++,Canada,Q390776,Governor General of Canada,Q6780723,Mary Simon,2021,
-->,Central African Republic,Q16773091->Q2062793,Prime Minister of the Central African Republic,Q107273326,Henri-Marie Dondra,2021,NULL->2022
-+++,Central African Republic,Q2062793,Prime Minister of the Central African Republic,Q88310768,Félix Moloua,2022,
 +++,Chad,Q2035826,Prime Minister of Chad,Q4710950,Albert Pahimi Padacké,2021,
 +++,China (People's Republic of China),Q849418,General Secretary of the Chinese Communist Party,Q15031,Xi Jinping,2012,
 ->,Comoros,Q28015452->Q3236550,President of Comoros->President of the Comoros,Q515602,Azali Assoumani,2019->2016,
 +++,Cuba,Q5453787,First Secretary of the Communist Party of Cuba,Q1932603,Miguel Díaz-Canel,2021,
-+++,Donetsk People's Republic,Q16150196,Donetsk People's Republic,Q57588106,Alexander Ananchenko,2018,
+---,Donetsk People's Republic,Q60991290,Chairman of the Council of Ministers of the Donetsk People's Republic,Q112286420,Vitaliy Khotsenko,2022,
+->,Donetsk People's Republic,Q60991290->Q16150196,Chairman of the Council of Ministers of the Donetsk People's Republic->Donetsk People's Republic,Q57588106,Alexander Ananchenko,2018,2022->NULL
 ->,Eritrea,Q19108193->Q81706,President of Eritrea,Q57348,Isaias Afwerki,1993->1991,
 +++,Grenada,Q655829,Governor-General of Grenada,Q11964294,Cécile La Grenade,2013,
 +++,Guinea,Q108427245,National Committee of Reconciliation and Development,Q108418519,Mamady Doumbouya,2021,
 +++,Guinea,Q815572,President of Guinea,Q108418519,Mamady Doumbouya,2021,
----,Guinea,Q248577,President of the Republic,Q99522144,Bah Ndaw,2020,
 ---,Guinea-Bissau,Q30101458,Prime Minister of Guinea-Bissau,Q551585,Aristides Gomes,2018,
 ---,Guyana,Q685925,President of Guyana,Q5230470,David A. Granger,2015,
-->,Hungary,Q520765,President of Hungary,Q57467,János Áder,2017->2012,2022->NULL
----,Hungary,Q520765,President of Hungary,Q21995345,Katalin Novák,2022,
----,Islamic Emirate of Afghanistan,Q166382,emir,Q2820941,Abdallah ibn Buluggin,1073,
----,Islamic Emirate of Afghanistan,Q166382,emir,Q59919598,Abu’l Fath of Sarmin,1106,
----,Islamic Emirate of Afghanistan,Q166382,emir,Q25548163,Qazi Ahsan Ahmed Shuja Abadi,1961,
----,Islamic Emirate of Afghanistan,Q166382,emir,Q98649505,Rilwanu Adamu Jumba,2010,
----,Islamic Emirate of Afghanistan,Q166382,emir,Q74151859,Nazar-ur-Rehman,2018,
----,Islamic Emirate of Afghanistan,Q166382,emir,Q97788576,Muhibbullah Babunagari,2021,
----,Islamic Emirate of Afghanistan,Q166382,emir,Q3555999,Abu Hafs,827,
----,Islamic Emirate of Afghanistan,Q166382,emir,Q11955114,Wasul ibn Thakiyya al-Fath,910,
+->,Hungary,Q520765,President of Hungary,Q57467,János Áder,2017->2012,2022
+->,Israel,Q208487,Prime Minister of Israel,Q39318,Naftali Bennett,2021,2022->NULL
+---,Israel,Q208487,Prime Minister of Israel,Q1396120,Yair Lapid,2022,
++++,Ivory Coast,Q2717151,Prime Minister of the Ivory Coast,Q3369176,Patrick Achi,2021,
 +++,Kosovo,Q784084,Special Representative of the Secretary-General for Kosovo,Q3918330,Zahir Tanin,2015,
-+++,Kuwait,Q246932,Emir of Kuwait,Q641805,Nawaf Al-Ahmad Al-Jaber Al-Sabah,2020,
+---,Kuwait,Q30100649,Prime Minister of Kuwait,Q3327520,Muhammad Sabah Al-Salem Al-Sabah,2022,2022
 +++,Laos,Q3849458,General Secretary of the Lao People's Revolutionary Party,Q58323,Thongloun Sisoulith,2021,
 ->,Laos,Q904139,President of Laos,Q470024->Q58323,Bounnhang Vorachith->Thongloun Sisoulith,2016->2021,
 ->,Laos,Q778651,Prime Minister of Laos,Q58323->Q7180477,Thongloun Sisoulith->Phankham Viphavanh,2016->2021,
 ---,Libya,Q102181806,Chairman of the Presidential Council,Q21089561,Fayez al-Sarraj,2016,
----,Libya,Q15305714,Prime Minister of Libya,Q21089561,Fayez al-Sarraj,2015,
 +++,Liechtenstein,Q1144716,Prime Minister of Liechtenstein,Q30882650,Daniel Risch,2021,
 +++,Liechtenstein,Q173843,Regent of Liechtenstein,Q311308,"Alois, Hereditary Prince of Liechtenstein",2004,
-+++,Luhansk People's Republic,Q16746854,Luhansk People's Republic,Q21855460,Sergey Kozlov (politician),2015,
 +++,Mali,Q862232,President of Mali,Q98497406,Assimi Goïta,2021,
-->,Mali,Q30100640->Q1264364,Prime Minister of Mali,Q30005153->Q2964323,Boubou Cisse->Choguel Kokalla Maïga,2019->2021,
++++,Mali,Q1264364,Prime Minister of Mali,Q2964323,Choguel Kokalla Maïga,2021,
 ---,Mauritania,Q28002551,President of Mauritania,Q294969,Mohamed Ould Abdel Aziz,2009,
-+++,Myanmar,Q105222391,Chairman of the State Administrative Council,Q3462649,Min Aung Hlaing,2021,
-->,Myanmar,Q887124,President of Myanmar,Q8023642,Win Myint,2018->2021,
-+++,Myanmar,Q887124,President of Myanmar,Q106577395,Duwa Lashi La,2021,
-+++,Myanmar,Q852152,Prime Minister of Myanmar,Q22343041,Mahn Win Khaing Than,2021,
++++,Myanmar,Q105222391,Chairman of the State Administration Council,Q3462649,Min Aung Hlaing,2021,
 +++,Myanmar,Q852152,Prime Minister of Myanmar,Q3462649,Min Aung Hlaing,2021,
-+++,Myanmar,Q23747483,State Counsellor of Myanmar,Q36740,Aung San Suu Kyi,2021,
 +++,New Zealand,Q455690,Governor-General of New Zealand,Q17180701,Cindy Kiro,2021,
 +++,North Korea (Democratic People's Republic of Korea),Q30944956,Chairman of the Standing Committee of the Supreme People's Assembly,Q714509,Choe Ryong-hae,2019,
 +++,North Korea (Democratic People's Republic of Korea),Q707631,General Secretary of the Workers' Party of Korea,Q56226,Kim Jong-un,2012,
@@ -72,7 +58,7 @@
 +++,Peru,Q1758412,Prime Minister of Peru,Q84282244,Mirtha Vásquez,2021,2022
 +++,Peru,Q1758412,Prime Minister of Peru,Q107721951,Aníbal Torres,2022,
 ---,Republika Srpska,Q6594693,President of Republika Srpska,Q5528031,Željka Cvijanović,2018,
-->,Romania,Q839139,President of Romania,Q701484,Klaus Johannis->Klaus Iohannis,2019->2014,
+->,Romania,Q839139,President of Romania,Q701484,Klaus Iohannis,2019->2014,
 +++,Saint Kitts and Nevis,Q35918814,Governor-General of Saint Kitts and Nevis,Q20995517,Tapley Seaton,2015,
 +++,Saint Lucia,Q1279695,Governor-General of Saint Lucia,Q109557998,Errol Charles,2021,
 +++,Saint Vincent and the Grenadines,Q177360,Governor-General of Saint Vincent and the Grenadines,Q66088003,Susan Dougan,2019,
@@ -80,16 +66,16 @@
 ---,San Marino,Q258045,Captain Regent of San Marino,Q888482,Oscar Mina,2022,
 ---,San Marino,Q258045,Captain Regent of San Marino,Q7132238,Paolo Rondelli,2022,2022
 ->,San Marino,Q258045,Captain Regent of San Marino->Captains Regent,Q887796,Francesco Mussoni,2021,2022->NULL
-+++,Sierra Leone,Q6622054,List of heads of government of Sierra Leone,Q107067181,Jacob Jusu Saffa,2021,
 +++,Solomon Islands,Q1840326,Governor-General of the Solomon Islands,Q5240675,David Vunagi,2019,
 ---,Somaliland,Q25906534,President of Somaliland,Q380187,Ahmed Mohamed Mohamoud,2010,
----,South Korea,Q6296418,president of South Korea,Q16090635,Yoon Suk-yeol,2022,
-+++,South Korea (Republic of Korea),Q15407843,Prime Minister of South Korea,Q12587534,Kim Boo-kyum,2021,
++++,South Korea (Republic of Korea),Q15407843,Prime Minister of South Korea,Q12587534,Kim Boo-kyum,2021,2022
++++,South Korea (Republic of Korea),Q15407843,Prime Minister of South Korea,Q356666,Han Duck-soo,2022,
 +++,South Ossetia,Q2327278,President of South Ossetia,Q3545676,Anatoliy Bibilov,2017,
 ->,South Sudan,Q19362922->Q258969,President of South Sudan,Q57315,Salva Kiir Mayardit,2011->2005,
-+++,Sri Lanka,Q1758894,Prime Minister of Sri Lanka,Q57338,Mahinda Rajapaksa,2019,
++++,Sri Lanka,Q5278077,Dinesh Gunawardena,Q5278077,Dinesh Gunawardena,2022,
++++,Sri Lanka,Q1758894,Prime Minister of Sri Lanka,Q57338,Mahinda Rajapaksa,2019,2022
++++,Sri Lanka,Q983402,Ranil Wickremesinghe,Q983402,Ranil Wickremesinghe,,2022
 ---,State of Palestine,Q3911022,President of the State of Palestine,Q127998,Mahmoud Abbas,2013,
-+++,Sudan,Q741259,List of heads of government of Sudan,Q110629734,Osman Hussein (Sudan politician),2022,
 +++,Sudan,Q740395,President of Sudan,Q63111184,Abdel Fattah al-Burhan,2019,
 ---,Switzerland,Q11811941,Member of the Swiss Federal Council,Q122991,Simonetta Sommaruga,2010,
 ---,Switzerland,Q11811941,Member of the Swiss Federal Council,Q123939,Alain Berset,2012,
@@ -108,11 +94,16 @@
 ---,Turkish Republic of Northern Cyprus,Q2662165,Prime Minister of Northern Cyprus,Q58174,Hüseyin Özgürgün,2016,
 ->,Turkmenistan,Q1155759,President of Turkmenistan,Q57530,Gurbanguly Berdimuhamedow,2007->2006,2022
 +++,Tuvalu,Q644809,Governor-General of Tuvalu,Q108906680,Tofiga Vaevalu Falani,2021,
-->,Uganda,Q2462330,Prime Minister of Uganda,Q1740843->Q62481397,Ruhakana Rugunda->Robinah Nabbanja,2014->2021,
++++,United Arab Emirates,Q57655,Mohammed bin Rashid Al Maktoum,Q57655,Mohammed bin Rashid Al Maktoum,,2022
+---,United Arab Emirates,Q955006,President of the United Arab Emirates,Q57655,Mohammed bin Rashid Al Maktoum,2022,2022
+->,United Arab Emirates,Q30101519->Q1153355,Prime Minister of the United Arab Emirates,Q57655->Q1153355,Mohammed bin Rashid Al Maktoum->Prime Minister of the United Arab Emirates,2006,
+->,Vanuatu,Q878217,President of Vanuatu,Q55863225,Seoule Simeon->Seule Simeon,2022->NULL,2022
 +++,Vatican City,Q1054345,Cardinal Secretary of State,Q574058,Pietro Parolin,2013,
 +++,Vatican City,Q40483,List of sovereigns of Vatican City State,Q19546,Pope,2013,
----,Vatican City,Q19546,pope,Q450675,Francis,2013,
+---,Vatican City,Q19546,pope,Q450675,Pope Francis,2013,
 +++,Venezuela,Q6597955,President of the National Assembly of Venezuela,Q58833335,Juan Guaidó,2019,
 +++,Vietnam,Q848786,General Secretary of the Communist Party of Vietnam,Q318458,Nguyễn Phú Trọng,2011,
 +++,Yemen,Q22947375,Head of the Supreme Political Council,Q52156087,Mahdi al-Mashat,2018,
+->,Yemen,Q878256,President of Yemen,Q57480,Abdrabbuh Mansour Hadi->Abdrabbuh Mansur Hadi,2012,NULL->2022
++++,Yemen,Q878256,President of Yemen,Q12213376,Rashad al-Alimi,2022,
 ->,Yemen,Q1192903,Prime Minister of Yemen,Q57373157,Maeen Abdulmalik Saeed,2020->2018,
