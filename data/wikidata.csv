@@ -202,6 +202,7 @@ Q1020,Malawi,Q15921529,President of Malawi,Q16202782,Lazarus Chakwera,2020,
 Q833,Malaysia,Q862559,Prime Minister of Malaysia,Q6084858,Ismail Sabri Yaakob,2021,
 Q833,Malaysia,Q174156,Yang di-Pertuan Agong,Q15467111,Abdullah of Pahang,2019,
 Q826,Maldives,Q1064606,President of the Maldives,Q55614252,Ibrahim Mohamed Solih,2018,
+Q912,Mali,Q30100640,Prime Minister of Mali,Q2964323,Choguel Kokalla Maïga,2021,2022
 Q912,Mali,Q30100640,Prime Minister of Mali,Q113577661,Abdoulaye Maïga,2022,
 Q233,Malta,Q796593,President of Malta,Q1508402,George William Vella,2019,
 Q233,Malta,Q152814,Prime Minister of Malta,Q37860840,Robert Abela,2020,
@@ -254,7 +255,7 @@ Q804,Panama,Q886965,President of Panama,Q28122455,Laurentino Cortizo,2019,
 Q691,Papua New Guinea,Q1074656,Prime Minister of Papua New Guinea,Q6138903,James Marape,2019,
 Q691,Papua New Guinea,Q34518124,monarch of Papua New Guinea,Q9682,Elizabeth II,1975,
 Q733,Paraguay,Q34071,President of Paraguay,Q48136013,Mario Abdo Benítez,2018,
-Q148,People's Republic of China,Q4122271,Premier of the State Council of the People's Republic of China,Q18111,Li Keqiang,2013,
+Q148,People's Republic of China,Q4122271,Premier of the People's Republic of China,Q18111,Li Keqiang,2013,
 Q148,People's Republic of China,Q655407,President of the People's Republic of China,Q15031,Xi Jinping,2013,
 Q419,Peru,Q5708511,President of Peru,Q103838608,Pedro Castillo,2021,
 Q928,Philippines,Q1209571,President of the Philippines,Q457786,Rodrigo Duterte,2016,2022
@@ -320,6 +321,8 @@ Q34754,Somaliland,Q25906534,President of Somaliland,Q17155777,Muse Bihi Abdi,201
 Q258,South Africa,Q273884,President of South Africa,Q1148669,Matamela Cyril Ramaphosa,2018,
 Q884,South Korea,Q6296418,President of South Korea,Q21001,Moon Jae-in,2017,2022
 Q884,South Korea,Q6296418,President of South Korea,Q16090635,Yoon Suk-yeol,2022,
+Q23427,South Ossetia,Q2327278,President of South Ossetia,Q3545676,Anatoly Bibilov,2017,2022
+Q23427,South Ossetia,Q2327278,President of South Ossetia,Q29319183,Alan Gagloyev,2022,
 Q23427,South Ossetia,Q2332585,Prime Minister of South Ossetia,Q105674235,Gennady Bekoyev,2020,
 Q958,South Sudan,Q19362922,President of South Sudan,Q57315,Salva Kiir Mayardit,2011,
 Q29,Spain,Q844587,Prime Minister of Spain,Q6070218,Pedro Sánchez,2018,
@@ -351,7 +354,8 @@ Q863,Tajikistan,Q2734978,Prime Minister of Tajikistan,Q15222839,Kokhir Rasulzoda
 Q863,Tajikistan,Q1044136,president of Tajikistan,Q57366,Emomali Rahmon,1994,
 Q924,Tanzania,Q7241291,President of Tanzania,Q16193885,Samia Suluhu,2021,
 Q869,Thailand,Q27330121,King of Thailand,Q548733,Vajiralongkorn,2016,
-Q869,Thailand,Q12376089,Prime Minister of Thailand,Q2108126,Prayut Chan-o-cha,2014,
+Q869,Thailand,Q12376089,Prime Minister of Thailand,Q2108126,Prayut Chan-o-cha,2014,2022
+Q869,Thailand,Q12376089,Prime Minister of Thailand,Q15724737,Prawit Wongsuwan,2022,
 Q778,The Bahamas,Q565424,Prime Minister of the Bahamas,Q7183082,"Philip ""Brave"" Davis",2021,
 Q778,The Bahamas,Q26869642,monarch of the Bahamas,Q9682,Elizabeth II,1973,
 Q1005,The Gambia,Q15921518,President of the Gambia,Q27917049,Adama Barrow,2017,

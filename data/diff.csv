@@ -31,7 +31,6 @@
 +++,Grenada,Q655829,Governor-General of Grenada,Q11964294,Cécile La Grenade,2013,
 +++,Guinea,Q108427245,National Committee of Reconciliation and Development,Q108418519,Mamady Doumbouya,2021,
 +++,Guinea,Q815572,President of Guinea,Q108418519,Mamady Doumbouya,2021,
-->,Guinea,Q14917303->Q2477148,Prime Minister of Guinea,Q109296984->NULL,Bernard Gomou->Bernard Gomou (page does not exist),2022,
 ---,Guinea-Bissau,Q30101458,Prime Minister of Guinea-Bissau,Q551585,Aristides Gomes,2018,
 ---,Guyana,Q685925,President of Guyana,Q5230470,David A. Granger,2015,
 ->,Hungary,Q520765,President of Hungary,Q57467,János Áder,2017->2012,2022
@@ -45,7 +44,8 @@
 +++,Liechtenstein,Q1144716,Prime Minister of Liechtenstein,Q30882650,Daniel Risch,2021,
 +++,Liechtenstein,Q173843,Regent of Liechtenstein,Q311308,"Alois, Hereditary Prince of Liechtenstein",2004,
 +++,Mali,Q862232,President of Mali,Q98497406,Assimi Goïta,2021,
-->,Mali,Q30100640->Q1264364,Prime Minister of Mali,Q113577661->Q2964323,Abdoulaye Maïga->Choguel Kokalla Maïga,2022->2021,
+->,Mali,Q30100640->Q1264364,Prime Minister of Mali,Q2964323,Choguel Kokalla Maïga,2021,2022->NULL
+---,Mali,Q30100640,Prime Minister of Mali,Q113577661,Abdoulaye Maïga,2022,
 ---,Mauritania,Q28002551,President of Mauritania,Q294969,Mohamed Ould Abdel Aziz,2009,
 +++,Myanmar,Q105222391,Chairman of the State Administration Council,Q3462649,Min Aung Hlaing,2021,
 +++,Myanmar,Q852152,Prime Minister of Myanmar,Q3462649,Min Aung Hlaing,2021,
@@ -69,7 +69,8 @@
 ---,Somaliland,Q25906534,President of Somaliland,Q380187,Ahmed Mohamed Mohamoud,2010,
 +++,South Korea (Republic of Korea),Q15407843,Prime Minister of South Korea,Q12587534,Kim Boo-kyum,2021,2022
 +++,South Korea (Republic of Korea),Q15407843,Prime Minister of South Korea,Q356666,Han Duck-soo,2022,
-+++,South Ossetia,Q2327278,President of South Ossetia,Q3545676,Anatoliy Bibilov,2017,
+->,South Ossetia,Q2327278,President of South Ossetia,Q3545676,Anatoly Bibilov->Anatoliy Bibilov,2017,2022->NULL
+---,South Ossetia,Q2327278,President of South Ossetia,Q29319183,Alan Gagloyev,2022,
 ->,South Sudan,Q19362922->Q258969,President of South Sudan,Q57315,Salva Kiir Mayardit,2011->2005,
 +++,Sri Lanka,Q5278077,Dinesh Gunawardena,Q5278077,Dinesh Gunawardena,2022,
 +++,Sri Lanka,Q1758894,Prime Minister of Sri Lanka,Q57338,Mahinda Rajapaksa,2019,2022
@@ -87,6 +88,8 @@
 +++,Syria,Q42662921,Syrian Salvation Government,Q98153213,Ali Keda,2019,
 ->,Tajikistan,Q1044136,president of Tajikistan->President of Tajikistan,Q57366,Emomali Rahmon,1994->1992,
 +++,Tanzania,Q16147875,Prime Minister of Tanzania,Q6737420,Kassim Majaliwa,2015,
+->,Thailand,Q12376089,Prime Minister of Thailand,Q2108126,Prayut Chan-o-cha,2014,2022->NULL
+---,Thailand,Q12376089,Prime Minister of Thailand,Q15724737,Prawit Wongsuwan,2022,
 +++,The Bahamas,Q5589512,Governor-General of the Bahamas,Q64853457,Cornelius A. Smith,2019,
 ---,Togo,Q30100661,Prime Minister of Togo,Q6428317,Komi Klassou,2015,
 +++,Transnistria,Q2630370,President of Transnistria,Q2035881,Vadim Krasnoselsky,2016,
