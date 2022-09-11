@@ -10,15 +10,17 @@ Q228,Andorra,Q634322,Prime Minister of Andorra,Q21001195,Xavier Espot Zamora,201
 Q916,Angola,Q846091,President of Angola,Q28650390,João Lourenço,2017,
 Q781,Antigua and Barbuda,Q602280,Governor-General of Antigua and Barbuda,Q17566330,Rodney Williams,2014,
 Q781,Antigua and Barbuda,Q20682527,Prime Minister of Antigua and Barbuda,Q17177542,Gaston Browne,2014,
-Q781,Antigua and Barbuda,Q26869636,monarch of Antigua and Barbuda,Q9682,Elizabeth II,1981,
+Q781,Antigua and Barbuda,Q26869636,monarch of Antigua and Barbuda,Q9682,Elizabeth II,1981,2022
+Q781,Antigua and Barbuda,Q26869636,monarch of Antigua and Barbuda,Q43274,Charles III,2022,
 Q414,Argentina,Q12969145,President of Argentina,Q2642828,Alberto Fernández,2019,
 Q399,Armenia,Q4283840,President of Armenia,Q93153,Armen Sarkissian,2018,2022
 Q399,Armenia,Q4283840,President of Armenia,Q20513503,Alen Simonyan,2022,2022
 Q399,Armenia,Q4283840,President of Armenia,Q3553274,Vahagn Khachatryan,2022,
 Q399,Armenia,Q1123764,Prime Minister of Armenia,Q7035479,Nikol Pashinyan,2021,
-Q408,Australia,Q14931512,Monarch of Australia,Q9682,Elizabeth II,1952,
 Q408,Australia,Q319145,Prime Minister of Australia,Q7436908,Scott Morrison,2018,2022
 Q408,Australia,Q319145,Prime Minister of Australia,Q335697,Anthony Albanese,2022,
+Q408,Australia,Q14931512,monarch of Australia,Q9682,Elizabeth II,1952,2022
+Q408,Australia,Q14931512,monarch of Australia,Q43274,Charles III,2022,
 Q40,Austria,Q1006398,Federal Chancellor of Austria,Q42860944,Karl Nehammer,2021,
 Q40,Austria,Q475658,President of Austria,Q78869,Alexander Van der Bellen,2017,
 Q227,Azerbaijan,Q205602,President of Azerbaijan,Q57371,Ilham Aliyev,2003,
@@ -33,7 +35,8 @@ Q184,Belarus,Q1049659,President of Belarus,Q2866,Alexander Lukashenko,1994,
 Q184,Belarus,Q12379704,Prime Minister of Belarus,Q27043179,Roman Golovchenko,2020,
 Q31,Belgium,Q13592862,Monarch of the Belgians,Q155004,Philippe I of Belgium,2013,
 Q31,Belgium,Q213107,Prime Minister of Belgium,Q476596,Alexander De Croo,2020,
-Q242,Belize,Q34517433,Monarch of Belize,Q9682,Elizabeth II,1981,
+Q242,Belize,Q34517433,Monarch of Belize,Q9682,Elizabeth II,1981,2022
+Q242,Belize,Q34517433,Monarch of Belize,Q43274,Charles III,2022,
 Q242,Belize,Q862638,Prime Minister of Belize,Q6266369,Johnny Briceño,2020,
 Q962,Benin,Q2407810,President of Republic of Benin,Q16669148,Patrice Talon,2016,
 Q917,Bhutan,Q1261215,Druk Gyalpo,Q57376,Jigme Khesar Namgyel Wangchuck,2006,
@@ -48,13 +51,15 @@ Q219,Bulgaria,Q4404583,Prime Minister of Bulgaria,Q106928258,Kiril Petkov,2021,2
 Q219,Bulgaria,Q4404583,Prime Minister of Bulgaria,Q31192182,Galab Donev,2022,
 Q965,Burkina Faso,Q1402561,military leader,Q27146606,Q27146606,2016,
 Q967,Burundi,Q19057827,President of Burundi,Q27329764,Évariste Ndayishimiye,2020,
-Q967,Burundi,Q52728003,Prime Minister of Burundi,Q27231038,Alain-Guillaume Bunyoni,2020,
+Q967,Burundi,Q52728003,Prime Minister of Burundi,Q27231038,Alain-Guillaume Bunyoni,2020,2022
+Q967,Burundi,Q52728003,Prime Minister of Burundi,Q107136851,Gervais Ndirakobuca,2022,
 Q424,Cambodia,Q42298242,King of Cambodia,Q57319,Norodom Sihamoni,2004,
 Q424,Cambodia,Q1999325,Prime Minister of Cambodia,Q57788,Hun Sen,1998,
 Q1009,Cameroon,Q19158914,President of Cameroon,Q57272,Paul Biya,1982,
 Q1009,Cameroon,Q17051823,Prime Minister of Cameroon,Q60441515,Joseph Ngute,2019,
 Q16,Canada,Q839078,Prime Minister of Canada,Q3099714,Justin Trudeau,2015,
-Q16,Canada,Q14931511,monarch of Canada,Q9682,Elizabeth II,1952,
+Q16,Canada,Q14931511,monarch of Canada,Q9682,Elizabeth II,1952,2022
+Q16,Canada,Q14931511,monarch of Canada,Q43274,Charles III,2022,
 Q1011,Cape Verde,Q19058382,President of Cape Verde,Q57649,José Maria Neves,2021,
 Q1011,Cape Verde,Q30100568,Prime Minister of Cape Verde,Q23899522,Ulisses Correia e Silva,2016,
 Q929,Central African Republic,Q15710848,President of the Central African Republic,Q57758,Faustin-Archange Touadéra,2016,
@@ -120,7 +125,8 @@ Q41,Greece,Q3409203,President of Greece,Q57415743,Katerina Sakellaropoulou,2020,
 Q41,Greece,Q4377230,Prime Minister of Greece,Q552751,Kyriakos Mitsotakis,2019,
 Q769,Grenada,Q30100613,Prime Minister of Grenada,Q370110,Keith Mitchell,2013,2022
 Q769,Grenada,Q30100613,Prime Minister of Grenada,Q112679881,Dickon Mitchell,2022,
-Q769,Grenada,Q26869646,monarch of Grenada,Q9682,Elizabeth II,1974,
+Q769,Grenada,Q26869646,monarch of Grenada,Q9682,Elizabeth II,1974,2022
+Q769,Grenada,Q26869646,monarch of Grenada,Q43274,Charles III,2022,
 Q774,Guatemala,Q6085537,President of the Republic of Guatemala,Q2134696,Alejandro Giammattei,2020,
 Q1006,Guinea,Q14917303,Prime Minister of Guinea,Q66708545,Mohamed Béavogui,2021,2022
 Q1006,Guinea,Q14917303,Prime Minister of Guinea,Q109296984,Bernard Gomou,2022,
@@ -154,7 +160,8 @@ Q38,Italy,Q796897,Prime Minister of Italy,Q294460,Mario Draghi,2021,
 Q1008,Ivory Coast,Q3409195,President of the Ivory Coast,Q57413,Alassane Ouattara,2010,
 Q766,Jamaica,Q1472951,Governor-General of Jamaica,Q109147,Patrick Allen,2009,
 Q766,Jamaica,Q1430943,Prime Minister of Jamaica,Q505200,Andrew Holness,2016,
-Q766,Jamaica,Q26869648,monarch of Jamaica,Q9682,Elizabeth II,1962,
+Q766,Jamaica,Q26869648,monarch of Jamaica,Q9682,Elizabeth II,1962,2022
+Q766,Jamaica,Q26869648,monarch of Jamaica,Q43274,Charles III,2022,
 Q17,Japan,Q208233,Emperor of Japan,Q217096,Naruhito,2019,
 Q17,Japan,Q274948,Prime Minister of Japan,Q359480,Fumio Kishida,2021,
 Q810,Jordan,Q14625123,King of Jordan,Q57464,Abdullah II of Jordan,1999,
@@ -163,6 +170,7 @@ Q232,Kazakhstan,Q5256775,President of Kazakhstan,Q200881,Kassym-Jomart Tokayev,2
 Q232,Kazakhstan,Q2416315,Prime Minister of Kazakhstan,Q527063,Askar Mamin,2019,2022
 Q232,Kazakhstan,Q2416315,Prime Minister of Kazakhstan,Q56825894,Alihan Smaiylov,2022,
 Q114,Kenya,Q14784066,President of Kenya,Q196070,Uhuru Kenyatta,2013,
+Q114,Kenya,Q14784066,President of Kenya,Q195725,William Ruto,2022,
 Q756617,Kingdom of Denmark,Q795477,Prime Minister of Denmark,Q5015,Mette Frederiksen,2019,
 Q756617,Kingdom of Denmark,Q18341329,monarch of Denmark,Q102139,Margrethe II of Denmark,1972,
 Q29999,Kingdom of the Netherlands,Q2045066,King of the Netherlands,Q154952,Willem-Alexander of the Netherlands,2013,
@@ -234,8 +242,9 @@ Q1030,Namibia,Q1333976,Prime Minister of Namibia,Q7395683,Saara Kuugongelwa,2015
 Q697,Nauru,Q628102,President of Nauru,Q66765492,Lionel Aingimea,2019,
 Q837,Nepal,Q153756,President of Nepal,Q16193958,Bidya Devi Bhandari,2015,
 Q837,Nepal,Q30100626,Prime Minister of Nepal,Q470903,Sher Bahadur Deuba,2021,
-Q664,New Zealand,Q14931517,Monarch of New Zealand,Q9682,Elizabeth II,1952,
 Q664,New Zealand,Q1071117,Prime Minister of New Zealand,Q3606816,Jacinda Ardern,2017,
+Q664,New Zealand,Q14931517,monarch of New Zealand,Q9682,Elizabeth II,1952,2022
+Q664,New Zealand,Q14931517,monarch of New Zealand,Q43274,Charles III,2022,
 Q811,Nicaragua,Q852448,President of Nicaragua,Q57402,Daniel Ortega,2007,
 Q1032,Niger,Q47006398,President of Niger,Q3318398,Mohamed Bazoum,2021,
 Q1032,Niger,Q30100634,Prime Minister of Niger,Q7110324,Ouhoumoudou Mahamadou,2021,
@@ -254,7 +263,8 @@ Q843,Pakistan,Q735575,Prime Minister of Pakistan,Q2096387,Shehbaz Sharif,2022,
 Q695,Palau,Q878329,President of Palau,Q26703072,Surangel Whipps Jr.,2021,
 Q804,Panama,Q886965,President of Panama,Q28122455,Laurentino Cortizo,2019,
 Q691,Papua New Guinea,Q1074656,Prime Minister of Papua New Guinea,Q6138903,James Marape,2019,
-Q691,Papua New Guinea,Q34518124,monarch of Papua New Guinea,Q9682,Elizabeth II,1975,
+Q691,Papua New Guinea,Q34518124,monarch of Papua New Guinea,Q9682,Elizabeth II,1975,2022
+Q691,Papua New Guinea,Q34518124,monarch of Papua New Guinea,Q43274,Charles III,2022,
 Q733,Paraguay,Q34071,President of Paraguay,Q48136013,Mario Abdo Benítez,2018,
 Q148,People's Republic of China,Q4122271,Premier of the People's Republic of China,Q18111,Li Keqiang,2013,
 Q148,People's Republic of China,Q655407,President of the People's Republic of China,Q15031,Xi Jinping,2013,
@@ -285,11 +295,14 @@ Q40362,Sahrawi Arab Democratic Republic,Q2662118,President of the Sahrawi Arab D
 Q40362,Sahrawi Arab Democratic Republic,Q30102468,Prime Minister of the Sahrawi Arab Democratic Republic,Q4949324,Bouchraya Hammoudi Bayoun,2020,
 Q763,Saint Kitts and Nevis,Q30101336,Prime Minister of St Kitts and Nevis,Q3529064,Timothy Harris,2015,2022
 Q763,Saint Kitts and Nevis,Q30101336,Prime Minister of St Kitts and Nevis,Q113443525,Terrance Drew,2022,
-Q763,Saint Kitts and Nevis,Q26869650,monarch of Saint Kitts and Nevis,Q9682,Elizabeth II,1983,
+Q763,Saint Kitts and Nevis,Q26869650,monarch of Saint Kitts and Nevis,Q9682,Elizabeth II,1983,2022
+Q763,Saint Kitts and Nevis,Q26869650,monarch of Saint Kitts and Nevis,Q43274,Charles III,2022,
 Q760,Saint Lucia,Q30101433,Prime Minister of Saint Lucia,Q7184214,Philip Pierre,2021,
-Q760,Saint Lucia,Q34517722,monarch of Saint Lucia,Q9682,Elizabeth II,1979,
+Q760,Saint Lucia,Q34517722,monarch of Saint Lucia,Q9682,Elizabeth II,1979,2022
+Q760,Saint Lucia,Q34517722,monarch of Saint Lucia,Q43274,Charles III,2022,
 Q757,Saint Vincent and the Grenadines,Q30101507,Prime Minister of Saint Vincent and the Grenadines,Q57800,Ralph Gonsalves,2001,
-Q757,Saint Vincent and the Grenadines,Q26869653,monarch of Saint Vincent and the Grenadines,Q9682,Elizabeth II,1979,
+Q757,Saint Vincent and the Grenadines,Q26869653,monarch of Saint Vincent and the Grenadines,Q9682,Elizabeth II,1979,2022
+Q757,Saint Vincent and the Grenadines,Q26869653,monarch of Saint Vincent and the Grenadines,Q43274,Charles III,2022,
 Q683,Samoa,Q1258128,O le Ao o le Malo,Q32014514,Va'aletoa Sualauvi II,2017,
 Q683,Samoa,Q1277355,Prime Minister of Samoa,Q5446290,Fiamē Naomi Mataʻafa,2021,
 Q238,San Marino,Q258045,Captain Regent of San Marino,Q887796,Francesco Mussoni,2021,2022
@@ -312,7 +325,8 @@ Q215,Slovenia,Q495877,President of Slovenia,Q206471,Borut Pahor,2012,
 Q215,Slovenia,Q45758,Prime Minister of Slovenia,Q57627,Janez Janša,2020,2022
 Q215,Slovenia,Q45758,Prime Minister of Slovenia,Q18645045,Robert Golob,2022,
 Q685,Solomon Islands,Q1425954,Prime Minister of the Solomon Islands,Q536063,Manasseh Sogavare,2019,
-Q685,Solomon Islands,Q34518009,monarch of the Solomon Islands,Q9682,Elizabeth II,1978,
+Q685,Solomon Islands,Q34518009,monarch of the Solomon Islands,Q9682,Elizabeth II,1978,2022
+Q685,Solomon Islands,Q34518009,monarch of the Solomon Islands,Q43274,Charles III,2022,
 Q1045,Somalia,Q19364214,President of Somalia,Q558575,Mohamed Abdullahi Farmajo,2017,2022
 Q1045,Somalia,Q19364214,President of Somalia,Q319153,Hassan Sheikh Mohamud,2022,
 Q1045,Somalia,Q1335939,Prime Minister of Somalia,Q99605101,Mohamed Hussein Roble,2020,2022
@@ -358,7 +372,8 @@ Q869,Thailand,Q27330121,King of Thailand,Q548733,Vajiralongkorn,2016,
 Q869,Thailand,Q12376089,Prime Minister of Thailand,Q2108126,Prayut Chan-o-cha,2014,2022
 Q869,Thailand,Q12376089,Prime Minister of Thailand,Q15724737,Prawit Wongsuwan,2022,
 Q778,The Bahamas,Q565424,Prime Minister of the Bahamas,Q7183082,"Philip ""Brave"" Davis",2021,
-Q778,The Bahamas,Q26869642,monarch of the Bahamas,Q9682,Elizabeth II,1973,
+Q778,The Bahamas,Q26869642,monarch of the Bahamas,Q9682,Elizabeth II,1973,2022
+Q778,The Bahamas,Q26869642,monarch of the Bahamas,Q43274,Charles III,2022,
 Q1005,The Gambia,Q15921518,President of the Gambia,Q27917049,Adama Barrow,2017,
 Q945,Togo,Q28015471,President of Togo,Q4414,Faure Essozimna Gnassingbé Eyadéma,2005,
 Q945,Togo,Q30100661,Prime Minister of Togo,Q6428317,Komi Klassou,2015,
@@ -378,7 +393,8 @@ Q23681,Turkish Republic of Northern Cyprus,Q2662165,Prime Minister of Northern C
 Q874,Turkmenistan,Q1155759,President of Turkmenistan,Q57530,Gurbanguly Berdimuhamedow,2007,2022
 Q874,Turkmenistan,Q1155759,President of Turkmenistan,Q51874548,Serdar Berdimuhamedow,2022,
 Q672,Tuvalu,Q592866,Prime Minister of Tuvalu,Q6378927,Kausea Natano,2019,
-Q672,Tuvalu,Q34517851,monarch of Tuvalu,Q9682,Elizabeth II,1978,
+Q672,Tuvalu,Q34517851,monarch of Tuvalu,Q9682,Elizabeth II,1978,2022
+Q672,Tuvalu,Q34517851,monarch of Tuvalu,Q43274,Charles III,2022,
 Q1036,Uganda,Q18204367,President of Uganda,Q57274,Yoweri Museveni,1986,
 Q1036,Uganda,Q2462330,Prime Minister of Uganda,Q62481397,Robinah Nabbanja,2021,
 Q212,Ukraine,Q579677,President of Ukraine,Q3874799,Volodymyr Zelenskyy,2019,
@@ -387,8 +403,10 @@ Q878,United Arab Emirates,Q955006,President of the United Arab Emirates,Q1059948
 Q878,United Arab Emirates,Q955006,President of the United Arab Emirates,Q57655,Mohammed bin Rashid Al Maktoum,2022,2022
 Q878,United Arab Emirates,Q955006,President of the United Arab Emirates,Q1951896,Mohammed bin Zayed Al Nahyan,2022,
 Q878,United Arab Emirates,Q30101519,Prime Minister of the United Arab Emirates,Q57655,Mohammed bin Rashid Al Maktoum,2006,
-Q145,United Kingdom,Q14211,Prime Minister of the United Kingdom,Q180589,Boris Johnson,2019,
-Q145,United Kingdom,Q9134365,monarch of the United Kingdom,Q9682,Elizabeth II,1952,
+Q145,United Kingdom,Q14211,Prime Minister of the United Kingdom,Q180589,Boris Johnson,2019,2022
+Q145,United Kingdom,Q14211,Prime Minister of the United Kingdom,Q272201,Liz Truss,2022,
+Q145,United Kingdom,Q9134365,monarch of the United Kingdom,Q9682,Elizabeth II,1952,2022
+Q145,United Kingdom,Q9134365,monarch of the United Kingdom,Q43274,Charles III,2022,
 Q30,United States of America,Q11696,President of the United States,Q6279,Joe Biden,2021,
 Q77,Uruguay,Q4524807,President of Uruguay,Q6800406,Luis Lacalle Pou,2020,
 Q265,Uzbekistan,Q7466263,President of Uzbekistan,Q57808,Shavkat Mirziyoyev,2016,
