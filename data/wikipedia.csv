@@ -10,7 +10,8 @@ Africa,Burkina Faso,Q290004,President of Burkina Faso,Q110666454,Paul-Henri Sand
 Africa,Burkina Faso,Q1434747,Prime Minister of Burkina Faso,Q21062160,Lassina Zerbo,2021,2022
 Africa,Burkina Faso,Q1434747,Prime Minister of Burkina Faso,Q111131079,Albert Ouédraogo,2022,
 Africa,Burundi,Q19057827,President of Burundi,Q27329764,Évariste Ndayishimiye,2020,
-Africa,Burundi,Q52728003,Prime Minister of Burundi,Q27231038,Alain-Guillaume Bunyoni,2020,
+Africa,Burundi,Q52728003,Prime Minister of Burundi,Q27231038,Alain-Guillaume Bunyoni,2020,2022
+Africa,Burundi,Q52728003,Prime Minister of Burundi,Q107136851,Gervais Ndirakobuca,2022,
 Africa,Cameroon,Q19158914,President of Cameroon,Q57272,Paul Biya,1982,
 Africa,Cameroon,Q17051823,Prime Minister of Cameroon,Q60441515,Joseph Ngute,2019,
 Africa,Cape Verde,Q501713,President of Cape Verde,Q57649,José Maria Neves,2021,
@@ -60,7 +61,8 @@ Africa,Madagascar,Q853010,President of Madagascar,Q57363,Andry Rajoelina,2019,
 Africa,Madagascar,Q1147512,Prime Minister of Madagascar,Q54806925,Christian Ntsay,2018,
 Africa,Malawi,Q15921529,President of Malawi,Q16202782,Lazarus Chakwera,2020,
 Africa,Mali,Q862232,President of Mali,Q98497406,Assimi Goïta,2021,
-Africa,Mali,Q1264364,Prime Minister of Mali,Q2964323,Choguel Kokalla Maïga,2021,
+Africa,Mali,Q1264364,Prime Minister of Mali,Q2964323,Choguel Kokalla Maïga,2021,2022
+Africa,Mali,Q1264364,Prime Minister of Mali,Q113577661,Abdoulaye Maïga (officer),2022,
 Africa,Mauritania,Q1622311,President of Mauritania,Q12241106,Mohamed Ould Ghazouani,2019,
 Africa,Mauritania,Q3179769,Prime Minister of Mauritania,Q98137599,Mohamed Ould Bilal,2020,
 Africa,Mauritius,Q3286988,President of Mauritius,Q77311543,Pritvirajsing Roopun,2019,
@@ -337,23 +339,29 @@ Europe,Transnistria,Q3916691,Prime Minister of Transnistria,Q28120974,Aleksandr 
 Europe,Transnistria,Q3916691,Prime Minister of Transnistria,Q110644463,Aleksandr Rozenberg,2022,
 Europe,Ukraine,Q579677,President of Ukraine,Q3874799,Volodymyr Zelenskyy,2019,
 Europe,Ukraine,Q1145714,Prime Minister of Ukraine,Q66094865,Denys Shmyhal,2020,
-Europe,United Kingdom,Q739941,Monarchy of the United Kingdom,Q9682,Elizabeth II,1952,
-Europe,United Kingdom,Q14211,Prime Minister of the United Kingdom,Q180589,Boris Johnson,2019,
+Europe,United Kingdom,Q739941,Monarchy of the United Kingdom,Q9682,Elizabeth II,1952,2022
+Europe,United Kingdom,Q739941,Monarchy of the United Kingdom,Q43274,Charles III,2022,
+Europe,United Kingdom,Q14211,Prime Minister of the United Kingdom,Q180589,Boris Johnson,2019,2022
+Europe,United Kingdom,Q14211,Prime Minister of the United Kingdom,Q272201,Liz Truss,2022,
 Europe,Vatican City,Q40483,List of sovereigns of Vatican City State,Q19546,Pope,2013,
 Europe,Vatican City,Q7478146,President of the Pontifical Commission for Vatican City State,Q15060665,Fernando Vérgez Alzaga,2021,
 Europe,Vatican City,Q1054345,Cardinal Secretary of State,Q574058,Pietro Parolin,2013,
-North America,Antigua and Barbuda,Q3244203,Monarchy of Antigua and Barbuda,Q9682,Elizabeth II,1981,
+North America,Antigua and Barbuda,Q3244203,Monarchy of Antigua and Barbuda,Q9682,Elizabeth II,1981,2022
+North America,Antigua and Barbuda,Q3244203,Monarchy of Antigua and Barbuda,Q43274,Charles III,2022,
 North America,Antigua and Barbuda,Q602280,Governor-General of Antigua and Barbuda,Q17566330,Rodney Williams (governor-general),2014,
 North America,Antigua and Barbuda,Q20682527,Prime Minister of Antigua and Barbuda,Q17177542,Gaston Browne,2014,
-North America,The Bahamas,Q3244497,Monarchy of the Bahamas,Q9682,Elizabeth II,1973,
+North America,The Bahamas,Q3244497,Monarchy of the Bahamas,Q9682,Elizabeth II,1973,2022
+North America,The Bahamas,Q3244497,Monarchy of the Bahamas,Q43274,Charles III,2022,
 North America,The Bahamas,Q5589512,Governor-General of the Bahamas,Q64853457,Cornelius A. Smith,2019,
 North America,The Bahamas,Q565424,Prime Minister of the Bahamas,Q7183082,Philip Davis (Bahamian politician),2021,
 North America,Barbados,Q108857904,President of Barbados,Q9333540,Sandra Mason,2021,
 North America,Barbados,Q15921525,Prime Minister of Barbados,Q6827147,Mia Mottley,2018,
-North America,Belize,Q47198,Monarchy of Belize,Q9682,Elizabeth II,1981,
+North America,Belize,Q47198,Monarchy of Belize,Q9682,Elizabeth II,1981,2022
+North America,Belize,Q47198,Monarchy of Belize,Q43274,Charles III,2022,
 North America,Belize,Q1281030,Governor-General of Belize,Q106601151,Froyla Tzalam,2021,
 North America,Belize,Q30100540,Prime Minister of Belize,Q6266369,Johnny Briceño,2020,
-North America,Canada,Q508840,Monarchy of Canada,Q9682,Elizabeth II,1952,
+North America,Canada,Q508840,Monarchy of Canada,Q9682,Elizabeth II,1952,2022
+North America,Canada,Q508840,Monarchy of Canada,Q43274,Charles III,2022,
 North America,Canada,Q390776,Governor General of Canada,Q6780723,Mary Simon,2021,
 North America,Canada,Q839078,Prime Minister of Canada,Q3099714,Justin Trudeau,2015,
 North America,Costa Rica,Q27977064,President of Costa Rica,Q26996246,Carlos Alvarado Quesada,2018,2022
@@ -365,7 +373,8 @@ North America,Dominica,Q878188,President of Dominica,Q2960197,Charles Savarin,20
 North America,Dominica,Q1756747,Prime Minister of Dominica,Q57823,Roosevelt Skerrit,2004,
 North America,Dominican Republic,Q607982,President of the Dominican Republic,Q16594097,Luis Abinader,2020,
 North America,El Salvador,Q878151,President of El Salvador,Q17712353,Nayib Bukele,2019,
-North America,Grenada,Q1566705,Monarchy of Grenada,Q9682,Elizabeth II,1974,
+North America,Grenada,Q1566705,Monarchy of Grenada,Q9682,Elizabeth II,1974,2022
+North America,Grenada,Q1566705,Monarchy of Grenada,Q43274,Charles III,2022,
 North America,Grenada,Q655829,Governor-General of Grenada,Q11964294,Cécile La Grenade,2013,
 North America,Grenada,Q1276041,Prime Minister of Grenada,Q370110,Keith Mitchell,2013,2022
 North America,Grenada,Q1276041,Prime Minister of Grenada,Q112679881,Dickon Mitchell,2022,
@@ -374,26 +383,31 @@ North America,Haiti,Q3290543,President of Haiti,Q107451258,Ariel Henry,2021,
 North America,Haiti,Q1064589,Prime Minister of Haiti,Q107451258,Ariel Henry,2021,
 North America,Honduras,Q13341442,President of Honduras,Q5951723,Juan Orlando Hernández,2014,2022
 North America,Honduras,Q13341442,President of Honduras,Q8044708,Xiomara Castro,2022,
-North America,Jamaica,Q6898088,Monarchy of Jamaica,Q9682,Elizabeth II,1962,
+North America,Jamaica,Q6898088,Monarchy of Jamaica,Q9682,Elizabeth II,1962,2022
+North America,Jamaica,Q6898088,Monarchy of Jamaica,Q43274,Charles III,2022,
 North America,Jamaica,Q1472951,Governor-General of Jamaica,Q109147,Patrick Allen (governor-general),2009,
 North America,Jamaica,Q1430943,Prime Minister of Jamaica,Q505200,Andrew Holness,2016,
 North America,Mexico,Q628004,President of Mexico,Q318508,Andrés Manuel López Obrador,2018,
 North America,Nicaragua,Q852448,President of Nicaragua,Q57402,Daniel Ortega,2007,
 North America,Panama,Q96357496,President of Panama,Q28122455,Laurentino Cortizo,2019,
-North America,Saint Kitts and Nevis,Q3299295,Monarchy of Saint Kitts and Nevis,Q9682,Elizabeth II,1983,
+North America,Saint Kitts and Nevis,Q3299295,Monarchy of Saint Kitts and Nevis,Q9682,Elizabeth II,1983,2022
+North America,Saint Kitts and Nevis,Q3299295,Monarchy of Saint Kitts and Nevis,Q43274,Charles III,2022,
 North America,Saint Kitts and Nevis,Q35918814,Governor-General of Saint Kitts and Nevis,Q20995517,Tapley Seaton,2015,
 North America,Saint Kitts and Nevis,Q1826842,Prime Minister of Saint Kitts and Nevis,Q3529064,Timothy Harris,2015,2022
 North America,Saint Kitts and Nevis,Q1826842,Prime Minister of Saint Kitts and Nevis,Q113443525,Terrance Drew,2022,
-North America,Saint Lucia,Q1564547,Monarchy of Saint Lucia,Q9682,Elizabeth II,1979,
+North America,Saint Lucia,Q1564547,Monarchy of Saint Lucia,Q9682,Elizabeth II,1979,2022
+North America,Saint Lucia,Q1564547,Monarchy of Saint Lucia,Q43274,Charles III,2022,
 North America,Saint Lucia,Q1279695,Governor-General of Saint Lucia,Q109557998,Errol Charles,2021,
 North America,Saint Lucia,Q934245,Prime Minister of Saint Lucia,Q7184214,Philip Pierre,2021,
-North America,Saint Vincent and the Grenadines,Q1566694,Monarchy of Saint Vincent and the Grenadines,Q9682,Elizabeth II,1979,
+North America,Saint Vincent and the Grenadines,Q1566694,Monarchy of Saint Vincent and the Grenadines,Q9682,Elizabeth II,1979,2022
+North America,Saint Vincent and the Grenadines,Q1566694,Monarchy of Saint Vincent and the Grenadines,Q43274,Charles III,2022,
 North America,Saint Vincent and the Grenadines,Q177360,Governor-General of Saint Vincent and the Grenadines,Q66088003,Susan Dougan,2019,
 North America,Saint Vincent and the Grenadines,Q527660,Prime Minister of Saint Vincent and the Grenadines,Q57800,Ralph Gonsalves,2001,
 North America,Trinidad and Tobago,Q2522739,President of Trinidad and Tobago,Q47461098,Paula-Mae Weekes,2018,
 North America,Trinidad and Tobago,Q1147540,Prime Minister of Trinidad and Tobago,Q6384971,Keith Rowley,2015,
 North America,United States,Q11696,President of the United States,Q6279,Joe Biden,2021,
-Oceania,Australia,Q669459,Monarchy of Australia,Q9682,Elizabeth II,1952,
+Oceania,Australia,Q669459,Monarchy of Australia,Q9682,Elizabeth II,1952,2022
+Oceania,Australia,Q669459,Monarchy of Australia,Q43274,Charles III,2022,
 Oceania,Australia,Q610669,Governor-General of Australia,Q5235277,David Hurley,2019,
 Oceania,Australia,Q319145,Prime Minister of Australia,Q7436908,Scott Morrison,2018,2022
 Oceania,Australia,Q319145,Prime Minister of Australia,Q335697,Anthony Albanese,2022,
@@ -403,21 +417,25 @@ Oceania,Kiribati,Q878250,President of Kiribati,Q23034482,Taneti Mamau,2016,
 Oceania,Marshall Islands,Q718550,President of the Marshall Islands,Q20658229,David Kabua,2020,
 Oceania,Micronesia,Q1262113,President of Micronesia,Q63872093,David W. Panuelo,2019,
 Oceania,Nauru,Q628102,President of Nauru,Q66765492,Lionel Aingimea,2019,
-Oceania,New Zealand,Q4296,Monarchy of New Zealand,Q9682,Elizabeth II,1952,
+Oceania,New Zealand,Q4296,Monarchy of New Zealand,Q9682,Elizabeth II,1952,2022
+Oceania,New Zealand,Q4296,Monarchy of New Zealand,Q43274,Charles III,2022,
 Oceania,New Zealand,Q455690,Governor-General of New Zealand,Q17180701,Cindy Kiro,2021,
 Oceania,New Zealand,Q1071117,Prime Minister of New Zealand,Q3606816,Jacinda Ardern,2017,
 Oceania,Palau,Q878329,President of Palau,Q26703072,Surangel Whipps Jr.,2021,
-Oceania,Papua New Guinea,Q3320125,Monarchy of Papua New Guinea,Q9682,Elizabeth II,1975,
+Oceania,Papua New Guinea,Q3320125,Monarchy of Papua New Guinea,Q9682,Elizabeth II,1975,2022
+Oceania,Papua New Guinea,Q3320125,Monarchy of Papua New Guinea,Q43274,Charles III,2022,
 Oceania,Papua New Guinea,Q1073440,Governor-General of Papua New Guinea,Q28647870,Bob Dadae,2017,
 Oceania,Papua New Guinea,Q1074656,Prime Minister of Papua New Guinea,Q6138903,James Marape,2019,
 Oceania,Samoa,Q1258128,O le Ao o le Malo,Q32014514,Tuimalealiʻifano Vaʻaletoʻa Sualauvi II,2017,
 Oceania,Samoa,Q1277355,Prime Minister of Samoa,Q5446290,Fiamē Naomi Mataʻafa,2021,
-Oceania,Solomon Islands,Q3320135,Monarchy of the Solomon Islands,Q9682,Elizabeth II,1978,
-Oceania,Solomon Islands,Q1840326,Governor-General of the Solomon Islands,Q5240675,David Vunagi,2019,
-Oceania,Solomon Islands,Q1425954,Prime Minister of the Solomon Islands,Q536063,Manasseh Sogavare,2019,
+Oceania,Solomon Islands,Q3320135,Monarchy of Solomon Islands,Q9682,Elizabeth II,1978,2022
+Oceania,Solomon Islands,Q3320135,Monarchy of Solomon Islands,Q43274,Charles III,2022,
+Oceania,Solomon Islands,Q1840326,Governor-General of Solomon Islands,Q5240675,David Vunagi,2019,
+Oceania,Solomon Islands,Q1425954,Prime Minister of Solomon Islands,Q536063,Manasseh Sogavare,2019,
 Oceania,Tonga,Q836240,Monarchy of Tonga,Q208497,Tupou VI,2012,
 Oceania,Tonga,Q915636,Prime Minister of Tonga,Q19631293,Siaosi Sovaleni,2021,
-Oceania,Tuvalu,Q3320130,Monarchy of Tuvalu,Q9682,Elizabeth II,1978,
+Oceania,Tuvalu,Q3320130,Monarchy of Tuvalu,Q9682,Elizabeth II,1978,2022
+Oceania,Tuvalu,Q3320130,Monarchy of Tuvalu,Q43274,Charles III,2022,
 Oceania,Tuvalu,Q644809,Governor-General of Tuvalu,Q108906680,Tofiga Vaevalu Falani,2021,
 Oceania,Tuvalu,Q592866,Prime Minister of Tuvalu,Q6378927,Kausea Natano,2019,
 Oceania,Vanuatu,Q878217,President of Vanuatu,Q32060530,Tallis Obed Moses,2017,2022
