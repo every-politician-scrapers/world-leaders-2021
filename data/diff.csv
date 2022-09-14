@@ -35,12 +35,14 @@
 ---,Guyana,Q685925,President of Guyana,Q5230470,David A. Granger,2015,
 ->,Hungary,Q520765,President of Hungary,Q57467,János Áder,2017->2012,2022
 +++,Ivory Coast,Q2717151,Prime Minister of the Ivory Coast,Q3369176,Patrick Achi,2021,
+->,Kenya,Q14784066,President of Kenya,Q196070,Uhuru Kenyatta,2013,2022->NULL
 ---,Kenya,Q14784066,President of Kenya,Q195725,William Ruto,2022,
 +++,Kosovo,Q784084,Special Representative of the Secretary-General for Kosovo,Q3918330,Zahir Tanin,2015,
 ---,Kuwait,Q30100649,Prime Minister of Kuwait,Q3327520,Muhammad Sabah Al-Salem Al-Sabah,2022,2022
 ---,Libya,Q102181806,Chairman of the Presidential Council,Q21089561,Fayez al-Sarraj,2016,
 +++,Liechtenstein,Q1144716,Prime Minister of Liechtenstein,Q30882650,Daniel Risch,2021,
 +++,Liechtenstein,Q173843,Regent of Liechtenstein,Q311308,"Alois, Hereditary Prince of Liechtenstein",2004,
++++,Luxembourg,Q3276071,Grand Duke of Luxembourg,Q16004,"Henri, Grand Duke of Luxembourg",2000,
 ---,Mauritania,Q28002551,President of Mauritania,Q294969,Mohamed Ould Abdel Aziz,2009,
 +++,Myanmar,Q105222391,Chairman of the State Administration Council,Q3462649,Min Aung Hlaing,2021,
 +++,Myanmar,Q852152,Prime Minister of Myanmar,Q3462649,Min Aung Hlaing,2021,
