@@ -129,7 +129,7 @@ Q769,Grenada,Q26869646,monarch of Grenada,Q9682,Elizabeth II,1974,2022
 Q769,Grenada,Q26869646,monarch of Grenada,Q43274,Charles III,2022,
 Q774,Guatemala,Q6085537,President of the Republic of Guatemala,Q2134696,Alejandro Giammattei,2020,
 Q1006,Guinea,Q14917303,Prime Minister of Guinea,Q66708545,Mohamed Béavogui,2021,2022
-Q1006,Guinea,Q14917303,Prime Minister of Guinea,Q109296984,Bernard Gomou,2022,
+Q1006,Guinea,Q14917303,Prime Minister of Guinea,Q109296984,Bernard Goumou,2022,
 Q1007,Guinea-Bissau,Q28015461,President of Guinea-Bissau,Q16855164,Umaro Sissoco Embaló,2020,
 Q1007,Guinea-Bissau,Q30101458,Prime Minister of Guinea-Bissau,Q551585,Aristides Gomes,2018,
 Q1007,Guinea-Bissau,Q30101458,Prime Minister of Guinea-Bissau,Q86715481,Nuno Nabian,2020,
@@ -202,7 +202,6 @@ Q37,Lithuania,Q878222,President of the Republic of Lithuania,Q9268379,Gitanas Na
 Q37,Lithuania,Q845439,Prime Minister of Lithuania,Q437096,Ingrida Šimonytė,2020,
 Q16746854,Luhansk People's Republic,Q19916018,Chairman of the Council of Ministers of the Luhansk People's Republic,Q21855460,Sergey Kozlov,2015,
 Q16746854,Luhansk People's Republic,Q19614488,Head of the Lugansk People's Republic,Q43590358,Leonid Pasechnik,2017,
-Q32,Luxembourg,Q113956811,Monarch of Luxembourg,Q16004,"Henri, Grand Duke of Luxembourg",2000,
 Q32,Luxembourg,Q1344632,Prime Minister of Luxembourg,Q561213,Xavier Bettel,2013,
 Q1019,Madagascar,Q19161338,President of Madagascar,Q57363,Andry Rajoelina,2019,
 Q1019,Madagascar,Q23782691,Prime Minister of Madagascar,Q54806925,Christian Ntsay,2018,
@@ -315,6 +314,7 @@ Q1041,Senegal,Q19116034,President of Senegal,Q57438,Macky Sall,2012,
 Q403,Serbia,Q889830,President of Serbia,Q222031,Aleksandar Vučić,2017,
 Q403,Serbia,Q835586,Prime Minister of Serbia,Q26258815,Ana Brnabić,2017,
 Q1042,Seychelles,Q18463915,President of Seychelles,Q1568174,Wavel Ramkalawan,2020,
+Q1044,Sierra Leone,Q56295070,Chief Minister of Sierra Leone,Q107067181,Jacob Jusu Saffa,2021,
 Q1044,Sierra Leone,Q890010,President of Sierra Leone,Q283829,Julius Maada Bio,2018,
 Q334,Singapore,Q39021,President of Singapore,Q5642345,Halimah Yacob,2017,
 Q334,Singapore,Q866756,Prime Minister of Singapore,Q57643,Lee Hsien Loong,2004,
@@ -401,10 +401,10 @@ Q878,United Arab Emirates,Q955006,President of the United Arab Emirates,Q1059948
 Q878,United Arab Emirates,Q955006,President of the United Arab Emirates,Q57655,Mohammed bin Rashid Al Maktoum,2022,2022
 Q878,United Arab Emirates,Q955006,President of the United Arab Emirates,Q1951896,Mohammed bin Zayed Al Nahyan,2022,
 Q878,United Arab Emirates,Q30101519,Prime Minister of the United Arab Emirates,Q57655,Mohammed bin Rashid Al Maktoum,2006,
+Q145,United Kingdom,Q9134365,Monarch of the United Kingdom,Q9682,Elizabeth II,1952,2022
+Q145,United Kingdom,Q9134365,Monarch of the United Kingdom,Q43274,Charles III,2022,
 Q145,United Kingdom,Q14211,Prime Minister of the United Kingdom,Q180589,Boris Johnson,2019,2022
 Q145,United Kingdom,Q14211,Prime Minister of the United Kingdom,Q272201,Liz Truss,2022,
-Q145,United Kingdom,Q9134365,monarch of the United Kingdom,Q9682,Elizabeth II,1952,2022
-Q145,United Kingdom,Q9134365,monarch of the United Kingdom,Q43274,Charles III,2022,
 Q30,United States of America,Q11696,President of the United States,Q6279,Joe Biden,2021,
 Q77,Uruguay,Q4524807,President of Uruguay,Q6800406,Luis Lacalle Pou,2020,
 Q265,Uzbekistan,Q7466263,President of Uzbekistan,Q57808,Shavkat Mirziyoyev,2016,
