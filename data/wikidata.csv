@@ -401,10 +401,10 @@ Q878,United Arab Emirates,Q955006,President of the United Arab Emirates,Q1059948
 Q878,United Arab Emirates,Q955006,President of the United Arab Emirates,Q57655,Mohammed bin Rashid Al Maktoum,2022,2022
 Q878,United Arab Emirates,Q955006,President of the United Arab Emirates,Q1951896,Mohammed bin Zayed Al Nahyan,2022,
 Q878,United Arab Emirates,Q30101519,Prime Minister of the United Arab Emirates,Q57655,Mohammed bin Rashid Al Maktoum,2006,
-Q145,United Kingdom,Q9134365,Monarch of the United Kingdom,Q9682,Elizabeth II,1952,2022
-Q145,United Kingdom,Q9134365,Monarch of the United Kingdom,Q43274,Charles III,2022,
 Q145,United Kingdom,Q14211,Prime Minister of the United Kingdom,Q180589,Boris Johnson,2019,2022
 Q145,United Kingdom,Q14211,Prime Minister of the United Kingdom,Q272201,Liz Truss,2022,
+Q145,United Kingdom,Q9134365,monarch of the United Kingdom,Q9682,Elizabeth II,1952,2022
+Q145,United Kingdom,Q9134365,monarch of the United Kingdom,Q43274,Charles III,2022,
 Q30,United States of America,Q11696,President of the United States,Q6279,Joe Biden,2021,
 Q77,Uruguay,Q4524807,President of Uruguay,Q6800406,Luis Lacalle Pou,2020,
 Q265,Uzbekistan,Q7466263,President of Uzbekistan,Q57808,Shavkat Mirziyoyev,2016,

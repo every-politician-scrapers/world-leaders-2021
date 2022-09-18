@@ -35,8 +35,6 @@
 ---,Guyana,Q685925,President of Guyana,Q5230470,David A. Granger,2015,
 ->,Hungary,Q520765,President of Hungary,Q57467,János Áder,2017->2012,2022
 +++,Ivory Coast,Q2717151,Prime Minister of the Ivory Coast,Q3369176,Patrick Achi,2021,
-->,Kenya,Q14784066,President of Kenya,Q196070,Uhuru Kenyatta,2013,2022->NULL
----,Kenya,Q14784066,President of Kenya,Q195725,William Ruto,2022,
 +++,Kosovo,Q784084,Special Representative of the Secretary-General for Kosovo,Q3918330,Zahir Tanin,2015,
 ---,Kuwait,Q30100649,Prime Minister of Kuwait,Q3327520,Muhammad Sabah Al-Salem Al-Sabah,2022,2022
 ---,Libya,Q102181806,Chairman of the Presidential Council,Q21089561,Fayez al-Sarraj,2016,
@@ -62,6 +60,7 @@
 ---,San Marino,Q258045,Captain Regent of San Marino,Q888482,Oscar Mina,2022,
 ---,San Marino,Q258045,Captain Regent of San Marino,Q7132238,Paolo Rondelli,2022,2022
 ->,San Marino,Q258045,Captain Regent of San Marino->Captains Regent,Q887796,Francesco Mussoni,2021,2022->NULL
++++,Senegal,Q530785,Prime Minister of Senegal,Q16269678,Amadou Ba,2022,
 +++,Solomon Islands,Q1840326,Governor-General of Solomon Islands,Q5240675,David Vunagi,2019,
 ---,Somaliland,Q25906534,President of Somaliland,Q380187,Ahmed Mohamed Mohamoud,2010,
 +++,South Korea (Republic of Korea),Q15407843,Prime Minister of South Korea,Q12587534,Kim Boo-kyum,2021,2022
