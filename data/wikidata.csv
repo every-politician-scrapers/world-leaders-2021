@@ -68,6 +68,8 @@ Q929,Central African Republic,Q16773091,Prime Minister of the Central African Re
 Q657,Chad,Q28003132,President of Chad,Q16206405,Mahamat Déby Itno,2021,
 Q298,Chile,Q466956,President of Chile,Q306,Sebastián Piñera,2018,2022
 Q298,Chile,Q466956,President of Chile,Q16297876,Gabriel Boric,2022,
+Q148,China,Q4122271,Premier of the People's Republic of China,Q18111,Li Keqiang,2013,
+Q148,China,Q655407,President of the People's Republic of China,Q15031,Xi Jinping,2013,
 Q739,Colombia,Q853475,President of Colombia,Q17478000,Iván Duque,2018,2022
 Q739,Colombia,Q853475,President of Colombia,Q704022,Gustavo Petro,2022,
 Q970,Comoros,Q28015452,President of Comoros,Q515602,Azali Assoumani,2019,
@@ -265,8 +267,6 @@ Q691,Papua New Guinea,Q1074656,Prime Minister of Papua New Guinea,Q6138903,James
 Q691,Papua New Guinea,Q34518124,monarch of Papua New Guinea,Q9682,Elizabeth II,1975,2022
 Q691,Papua New Guinea,Q34518124,monarch of Papua New Guinea,Q43274,Charles III,2022,
 Q733,Paraguay,Q34071,President of Paraguay,Q48136013,Mario Abdo Benítez,2018,
-Q148,People's Republic of China,Q4122271,Premier of the People's Republic of China,Q18111,Li Keqiang,2013,
-Q148,People's Republic of China,Q655407,President of the People's Republic of China,Q15031,Xi Jinping,2013,
 Q419,Peru,Q5708511,President of Peru,Q103838608,Pedro Castillo,2021,
 Q928,Philippines,Q1209571,President of the Philippines,Q457786,Rodrigo Duterte,2016,2022
 Q928,Philippines,Q1209571,President of the Philippines,Q983324,Bongbong Marcos,2022,
@@ -339,8 +339,8 @@ Q23427,South Ossetia,Q2327278,President of South Ossetia,Q3545676,Anatoly Bibilo
 Q23427,South Ossetia,Q2327278,President of South Ossetia,Q29319183,Alan Gagloyev,2022,
 Q23427,South Ossetia,Q2332585,Prime Minister of South Ossetia,Q105674235,Gennady Bekoyev,2020,
 Q958,South Sudan,Q19362922,President of South Sudan,Q57315,Salva Kiir Mayardit,2011,
+Q29,Spain,Q3847454,Monarch of Spain,Q191045,Felipe VI of Spain,2014,
 Q29,Spain,Q844587,Prime Minister of Spain,Q6070218,Pedro Sánchez,2018,
-Q29,Spain,Q3847454,monarch of Spain,Q191045,Felipe VI of Spain,2014,
 Q854,Sri Lanka,Q2914380,President of Sri Lanka,Q1538702,Gotabaya Rajapaksa,2019,2022
 Q854,Sri Lanka,Q2914380,President of Sri Lanka,Q983402,Ranil Wickremesinghe,2022,
 Q219060,State of Palestine,Q3911022,President of the State of Palestine,Q127998,Mahmoud Abbas,2005,
@@ -415,7 +415,7 @@ Q686,Vanuatu,Q878217,President of Vanuatu,Q113239716,Nikenike Vurobaravu,2022,
 Q686,Vanuatu,Q1029958,Prime Minister of Vanuatu,Q16190741,Bob Loughman,2020,
 Q237,Vatican City,Q2387238,President of the Pontifical Commission for the Vatican City State,Q15060665,Fernando Vérgez Alzaga,2021,
 Q237,Vatican City,Q19546,pope,Q450675,Pope Francis,2013,
-Q717,Venezuela,Q11942698,Player of soccer,Q58132,Nicolás Maduro,2013,
+Q717,Venezuela,Q11942698,President of Venezuela,Q58132,Nicolás Maduro,2013,
 Q881,Vietnam,Q866680,President of Vietnam,Q10800073,Nguyễn Xuân Phúc,2021,
 Q881,Vietnam,Q1043568,Prime Minister of Vietnam,Q10806940,Phạm Minh Chính,2021,
 Q805,Yemen,Q878256,President of Yemen,Q57480,Abdrabbuh Mansour Hadi,2012,2022
