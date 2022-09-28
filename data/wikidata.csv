@@ -38,7 +38,7 @@ Q31,Belgium,Q213107,Prime Minister of Belgium,Q476596,Alexander De Croo,2020,
 Q242,Belize,Q34517433,Monarch of Belize,Q9682,Elizabeth II,1981,2022
 Q242,Belize,Q34517433,Monarch of Belize,Q43274,Charles III,2022,
 Q242,Belize,Q862638,Prime Minister of Belize,Q6266369,Johnny Briceño,2020,
-Q962,Benin,Q2407810,President of Republic of Benin,Q16669148,Patrice Talon,2016,
+Q962,Benin,Q2407810,President of the Republic of Benin,Q16669148,Patrice Talon,2016,
 Q917,Bhutan,Q1261215,Druk Gyalpo,Q57376,Jigme Khesar Namgyel Wangchuck,2006,
 Q917,Bhutan,Q663871,Prime Minister of Bhutan,Q57313851,Lotay Tshering,2018,
 Q750,Bolivia,Q373548,president of Bolivia,Q16149892,Luis Arce,2020,
@@ -68,8 +68,6 @@ Q929,Central African Republic,Q16773091,Prime Minister of the Central African Re
 Q657,Chad,Q28003132,President of Chad,Q16206405,Mahamat Déby Itno,2021,
 Q298,Chile,Q466956,President of Chile,Q306,Sebastián Piñera,2018,2022
 Q298,Chile,Q466956,President of Chile,Q16297876,Gabriel Boric,2022,
-Q148,China,Q4122271,Premier of the People's Republic of China,Q18111,Li Keqiang,2013,
-Q148,China,Q655407,President of the People's Republic of China,Q15031,Xi Jinping,2013,
 Q739,Colombia,Q853475,President of Colombia,Q17478000,Iván Duque,2018,2022
 Q739,Colombia,Q853475,President of Colombia,Q704022,Gustavo Petro,2022,
 Q970,Comoros,Q28015452,President of Comoros,Q515602,Azali Assoumani,2019,
@@ -240,7 +238,8 @@ Q1029,Mozambique,Q30100629,Prime Minister of Mozambique,Q44275924,Adriano Maleia
 Q836,Myanmar,Q887124,President of Myanmar,Q3331362,Myint Swe,2021,
 Q1030,Namibia,Q647198,President of the Republic of Namibia,Q1568274,Hage Gottfried Geingob,2015,
 Q1030,Namibia,Q1333976,Prime Minister of Namibia,Q7395683,Saara Kuugongelwa,2015,
-Q697,Nauru,Q628102,President of Nauru,Q66765492,Lionel Aingimea,2019,
+Q697,Nauru,Q628102,President of Nauru,Q66765492,Lionel Aingimea,2019,2022
+Q697,Nauru,Q628102,President of Nauru,Q109781648,Russ J Kun,2022,
 Q837,Nepal,Q153756,President of Nepal,Q16193958,Bidya Devi Bhandari,2015,
 Q837,Nepal,Q30100626,Prime Minister of Nepal,Q470903,Sher Bahadur Deuba,2021,
 Q664,New Zealand,Q1071117,Prime Minister of New Zealand,Q3606816,Jacinda Ardern,2017,
@@ -267,6 +266,8 @@ Q691,Papua New Guinea,Q1074656,Prime Minister of Papua New Guinea,Q6138903,James
 Q691,Papua New Guinea,Q34518124,monarch of Papua New Guinea,Q9682,Elizabeth II,1975,2022
 Q691,Papua New Guinea,Q34518124,monarch of Papua New Guinea,Q43274,Charles III,2022,
 Q733,Paraguay,Q34071,President of Paraguay,Q48136013,Mario Abdo Benítez,2018,
+Q148,People's Republic of China,Q4122271,Premier of the People's Republic of China,Q18111,Li Keqiang,2013,
+Q148,People's Republic of China,Q655407,President of the People's Republic of China,Q15031,Xi Jinping,2013,
 Q419,Peru,Q5708511,President of Peru,Q103838608,Pedro Castillo,2021,
 Q928,Philippines,Q1209571,President of the Philippines,Q457786,Rodrigo Duterte,2016,2022
 Q928,Philippines,Q1209571,President of the Philippines,Q983324,Bongbong Marcos,2022,
@@ -309,7 +310,8 @@ Q238,San Marino,Q258045,Captain Regent of San Marino,Q108584119,Giacomo Simoncin
 Q238,San Marino,Q258045,Captain Regent of San Marino,Q888482,Oscar Mina,2022,
 Q238,San Marino,Q258045,Captain Regent of San Marino,Q7132238,Paolo Rondelli,2022,2022
 Q851,Saudi Arabia,Q850168,King of Saudi Arabia,Q367825,Salman of Saudi Arabia,2015,
-Q851,Saudi Arabia,Q1153839,Prime Minister of Saudi Arabia,Q367825,Salman of Saudi Arabia,2015,
+Q851,Saudi Arabia,Q1153839,Prime Minister of Saudi Arabia,Q367825,Salman of Saudi Arabia,2015,2022
+Q851,Saudi Arabia,Q1153839,Prime Minister of Saudi Arabia,Q6892571,Mohammad bin Salman,2022,
 Q1041,Senegal,Q19116034,President of Senegal,Q57438,Macky Sall,2012,
 Q403,Serbia,Q889830,President of Serbia,Q222031,Aleksandar Vučić,2017,
 Q403,Serbia,Q835586,Prime Minister of Serbia,Q26258815,Ana Brnabić,2017,
