@@ -41,7 +41,6 @@
 +++,Liechtenstein,Q1144716,Prime Minister of Liechtenstein,Q30882650,Daniel Risch,2021,
 +++,Liechtenstein,Q173843,Regent of Liechtenstein,Q311308,"Alois, Hereditary Prince of Liechtenstein",2004,
 +++,Luxembourg,Q3276071,Grand Duke of Luxembourg,Q16004,"Henri, Grand Duke of Luxembourg",2000,
----,Mauritania,Q28002551,President of Mauritania,Q294969,Mohamed Ould Abdel Aziz,2009,
 +++,Myanmar,Q105222391,Chairman of the State Administration Council,Q3462649,Min Aung Hlaing,2021,
 +++,Myanmar,Q852152,Prime Minister of Myanmar,Q3462649,Min Aung Hlaing,2021,
 ->,Nauru,Q628102,President of Nauru,Q66765492,Lionel Aingimea,2019,2022->NULL
@@ -59,6 +58,7 @@
 +++,Saint Lucia,Q1279695,Governor-General of Saint Lucia,Q109557998,Errol Charles,2021,
 +++,Saint Vincent and the Grenadines,Q177360,Governor-General of Saint Vincent and the Grenadines,Q66088003,Susan Dougan,2019,
 ---,San Marino,Q258045,Captain Regent of San Marino,Q108584119,Giacomo Simoncini,2021,2022
+---,San Marino,Q258045,Captain Regent of San Marino,Q114239945,Manuel Ciavatta,2022,
 ---,San Marino,Q258045,Captain Regent of San Marino,Q888482,Oscar Mina,2022,
 ---,San Marino,Q258045,Captain Regent of San Marino,Q7132238,Paolo Rondelli,2022,2022
 ->,San Marino,Q258045,Captain Regent of San Marino->Captains Regent,Q887796,Francesco Mussoni,2021,2022->NULL
