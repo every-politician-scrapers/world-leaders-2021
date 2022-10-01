@@ -4,11 +4,13 @@ Africa,Algeria,Q182762,Prime Minister of Algeria,Q96612848,Aymen Benabderrahmane
 Africa,Angola,Q846091,President of Angola,Q28650390,João Lourenço (politician),2017,
 Africa,Benin,Q878169,President of Benin,Q16669148,Patrice Talon,2016,
 Africa,Botswana,Q866725,President of Botswana,Q18618891,Mokgweetsi Masisi,2018,
-Africa,Burkina Faso,Q110666433,Patriotic Movement for Safeguard and Restoration,Q110666454,Paul-Henri Sandaogo Damiba,2022,
+Africa,Burkina Faso,Q110666433,Patriotic Movement for Safeguard and Restoration,Q110666454,Paul-Henri Sandaogo Damiba,,2022
+Africa,Burkina Faso,Q110666433,Patriotic Movement for Safeguard and Restoration,Q114341246,Ibrahim Traore,2022,
 Africa,Burkina Faso,Q290004,President of Burkina Faso,Q599988,Roch Marc Christian Kaboré,2015,2022
-Africa,Burkina Faso,Q290004,President of Burkina Faso,Q110666454,Paul-Henri Sandaogo Damiba,2022,
+Africa,Burkina Faso,Q290004,President of Burkina Faso,Q110666454,Paul-Henri Sandaogo Damiba,,2022
+Africa,Burkina Faso,Q290004,President of Burkina Faso,Q114341246,Ibrahim Traore,2022,
 Africa,Burkina Faso,Q1434747,Prime Minister of Burkina Faso,Q21062160,Lassina Zerbo,2021,2022
-Africa,Burkina Faso,Q1434747,Prime Minister of Burkina Faso,Q111131079,Albert Ouédraogo,2022,
+Africa,Burkina Faso,Q1434747,Prime Minister of Burkina Faso,Q111131079,Albert Ouédraogo,,2022
 Africa,Burundi,Q19057827,President of Burundi,Q27329764,Évariste Ndayishimiye,2020,
 Africa,Burundi,Q52728003,Prime Minister of Burundi,Q27231038,Alain-Guillaume Bunyoni,2020,2022
 Africa,Burundi,Q52728003,Prime Minister of Burundi,Q107136851,Gervais Ndirakobuca,2022,
@@ -322,7 +324,9 @@ Europe,Romania,Q839139,President of Romania,Q701484,Klaus Iohannis,2014,
 Europe,Romania,Q15304810,Prime Minister of Romania,Q28950289,Nicolae Ciucă,2021,
 Europe,Russia,Q218295,President of Russia,Q7747,Vladimir Putin,2012,
 Europe,Russia,Q842386,Prime Minister of Russia,Q4298520,Mikhail Mishustin,2020,
-Europe,San Marino,Q258045,Captains Regent,Q887796,Francesco Mussoni,2021,
+Europe,San Marino,Q258045,Captains Regent,Q887796,Francesco Mussoni,2021,2022
+Europe,San Marino,Q258045,Captains Regent,Q888482,Oscar Mina,,2022
+Europe,San Marino,Q258045,Captains Regent,Q289413,Maria Luisa Berti,2022,
 Europe,Serbia,Q889830,President of Serbia,Q222031,Aleksandar Vučić,2017,
 Europe,Serbia,Q835586,Prime Minister of Serbia,Q26258815,Ana Brnabić,2017,
 Europe,Slovakia,Q6468838,President of Slovakia,Q26273268,Zuzana Čaputová,2019,

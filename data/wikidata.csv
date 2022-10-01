@@ -306,9 +306,10 @@ Q683,Samoa,Q1258128,O le Ao o le Malo,Q32014514,Va'aletoa Sualauvi II,2017,
 Q683,Samoa,Q1277355,Prime Minister of Samoa,Q5446290,Fiamē Naomi Mataʻafa,2021,
 Q238,San Marino,Q258045,Captain Regent of San Marino,Q887796,Francesco Mussoni,2021,2022
 Q238,San Marino,Q258045,Captain Regent of San Marino,Q108584119,Giacomo Simoncini,2021,2022
-Q238,San Marino,Q258045,Captain Regent of San Marino,Q888482,Oscar Mina,2022,
+Q238,San Marino,Q258045,Captain Regent of San Marino,Q888482,Oscar Mina,2022,2022
 Q238,San Marino,Q258045,Captain Regent of San Marino,Q7132238,Paolo Rondelli,2022,2022
 Q238,San Marino,Q258045,Captain Regent of San Marino,Q114239945,Manuel Ciavatta,2022,
+Q238,San Marino,Q258045,Captain Regent of San Marino,Q289413,Maria Luisa Berti,2022,
 Q851,Saudi Arabia,Q850168,King of Saudi Arabia,Q367825,Salman of Saudi Arabia,2015,
 Q851,Saudi Arabia,Q1153839,Prime Minister of Saudi Arabia,Q367825,Salman of Saudi Arabia,2015,2022
 Q851,Saudi Arabia,Q1153839,Prime Minister of Saudi Arabia,Q6892571,Mohammad bin Salman,2022,
@@ -371,7 +372,8 @@ Q863,Tajikistan,Q1044136,president of Tajikistan,Q57366,Emomali Rahmon,1994,
 Q924,Tanzania,Q7241291,President of Tanzania,Q16193885,Samia Suluhu,2021,
 Q869,Thailand,Q27330121,King of Thailand,Q548733,Vajiralongkorn,2016,
 Q869,Thailand,Q12376089,Prime Minister of Thailand,Q2108126,Prayut Chan-o-cha,2014,2022
-Q869,Thailand,Q12376089,Prime Minister of Thailand,Q15724737,Prawit Wongsuwan,2022,
+Q869,Thailand,Q12376089,Prime Minister of Thailand,Q15724737,Prawit Wongsuwan,2022,2022
+Q869,Thailand,Q12376089,Prime Minister of Thailand,Q2108126,Prayut Chan-o-cha,2022,
 Q778,The Bahamas,Q565424,Prime Minister of the Bahamas,Q7183082,"Philip ""Brave"" Davis",2021,
 Q778,The Bahamas,Q26869642,monarch of the Bahamas,Q9682,Elizabeth II,1973,2022
 Q778,The Bahamas,Q26869642,monarch of the Bahamas,Q43274,Charles III,2022,
@@ -389,7 +391,8 @@ Q948,Tunisia,Q1064106,Prime Minister of Tunisia,Q108741355,Najla Bouden,2021,
 Q43,Turkey,Q1922067,President of Turkey,Q39259,Recep Tayyip Erdoğan,2014,
 Q23681,Turkish Republic of Northern Cyprus,Q2354210,President of Northern Cyprus,Q6057339,Ersin Tatar,2020,
 Q23681,Turkish Republic of Northern Cyprus,Q2662165,Prime Minister of Northern Cyprus,Q58174,Hüseyin Özgürgün,2016,
-Q23681,Turkish Republic of Northern Cyprus,Q2662165,Prime Minister of Northern Cyprus,Q47189019,Faiz Sucuoğlu,2021,
+Q23681,Turkish Republic of Northern Cyprus,Q2662165,Prime Minister of Northern Cyprus,Q47189019,Faiz Sucuoğlu,2021,2022
+Q23681,Turkish Republic of Northern Cyprus,Q2662165,Prime Minister of Northern Cyprus,Q12812869,Ünal Üstel,2022,
 Q874,Turkmenistan,Q1155759,President of Turkmenistan,Q57530,Gurbanguly Berdimuhamedow,2007,2022
 Q874,Turkmenistan,Q1155759,President of Turkmenistan,Q51874548,Serdar Berdimuhamedow,2022,
 Q672,Tuvalu,Q592866,Prime Minister of Tuvalu,Q6378927,Kausea Natano,2019,

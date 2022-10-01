@@ -13,11 +13,13 @@
 +++,Bosnia and Herzegovina,Q470446,High Representative for Bosnia and Herzegovina,Q107018,Christian Schmidt (politician),2021,
 +++,Bosnia and Herzegovina,Q335688,Milorad Dodik,Q335688,Milorad Dodik,2018,
 +++,Brunei,Q3245472,Prime Minister of Brunei,Q57327,Hassanal Bolkiah,1984,
-+++,Burkina Faso,Q110666433,Patriotic Movement for Safeguard and Restoration,Q110666454,Paul-Henri Sandaogo Damiba,2022,
++++,Burkina Faso,Q110666433,Patriotic Movement for Safeguard and Restoration,Q110666454,Paul-Henri Sandaogo Damiba,,2022
++++,Burkina Faso,Q110666433,Patriotic Movement for Safeguard and Restoration,Q114341246,Ibrahim Traore,2022,
++++,Burkina Faso,Q290004,President of Burkina Faso,Q110666454,Paul-Henri Sandaogo Damiba,,2022
 +++,Burkina Faso,Q290004,President of Burkina Faso,Q599988,Roch Marc Christian Kaboré,2015,2022
-+++,Burkina Faso,Q290004,President of Burkina Faso,Q110666454,Paul-Henri Sandaogo Damiba,2022,
++++,Burkina Faso,Q290004,President of Burkina Faso,Q114341246,Ibrahim Traore,2022,
++++,Burkina Faso,Q1434747,Prime Minister of Burkina Faso,Q111131079,Albert Ouédraogo,,2022
 +++,Burkina Faso,Q1434747,Prime Minister of Burkina Faso,Q21062160,Lassina Zerbo,2021,2022
-+++,Burkina Faso,Q1434747,Prime Minister of Burkina Faso,Q111131079,Albert Ouédraogo,2022,
 ---,Burkina Faso,Q1402561,military leader,Q27146606,Q27146606,2016,
 ->,Cambodia,Q1999325,Prime Minister of Cambodia,Q57788,Hun Sen,1998->1985,
 +++,Canada,Q390776,Governor General of Canada,Q6780723,Mary Simon,2021,
@@ -57,9 +59,8 @@
 +++,Saint Vincent and the Grenadines,Q177360,Governor-General of Saint Vincent and the Grenadines,Q66088003,Susan Dougan,2019,
 ---,San Marino,Q258045,Captain Regent of San Marino,Q108584119,Giacomo Simoncini,2021,2022
 ---,San Marino,Q258045,Captain Regent of San Marino,Q114239945,Manuel Ciavatta,2022,
----,San Marino,Q258045,Captain Regent of San Marino,Q888482,Oscar Mina,2022,
 ---,San Marino,Q258045,Captain Regent of San Marino,Q7132238,Paolo Rondelli,2022,2022
-->,San Marino,Q258045,Captain Regent of San Marino->Captains Regent,Q887796,Francesco Mussoni,2021,2022->NULL
+->,San Marino,Q258045,Captain Regent of San Marino->Captains Regent,Q888482,Oscar Mina,2022->NULL,2022
 +++,Senegal,Q530785,Prime Minister of Senegal,Q16269678,Amadou Ba,2022,
 +++,Solomon Islands,Q1840326,Governor-General of Solomon Islands,Q5240675,David Vunagi,2019,
 ---,Somaliland,Q25906534,President of Somaliland,Q380187,Ahmed Mohamed Mohamoud,2010,
@@ -85,10 +86,13 @@
 ->,Tajikistan,Q1044136,president of Tajikistan->President of Tajikistan,Q57366,Emomali Rahmon,1994->1992,
 +++,Tanzania,Q16147875,Prime Minister of Tanzania,Q6737420,Kassim Majaliwa,2015,
 ->,Thailand,Q12376089,Prime Minister of Thailand,Q2108126,Prayut Chan-o-cha,2014,2022->NULL
----,Thailand,Q12376089,Prime Minister of Thailand,Q15724737,Prawit Wongsuwan,2022,
+---,Thailand,Q12376089,Prime Minister of Thailand,Q15724737,Prawit Wongsuwan,2022,2022
+---,Thailand,Q12376089,Prime Minister of Thailand,Q2108126,Prayut Chan-o-cha,2022,
 +++,The Bahamas,Q5589512,Governor-General of the Bahamas,Q64853457,Cornelius A. Smith,2019,
 +++,Transnistria,Q2630370,President of Transnistria,Q2035881,Vadim Krasnoselsky,2016,
 ---,Turkish Republic of Northern Cyprus,Q2662165,Prime Minister of Northern Cyprus,Q58174,Hüseyin Özgürgün,2016,
+---,Turkish Republic of Northern Cyprus,Q2662165,Prime Minister of Northern Cyprus,Q12812869,Ünal Üstel,2022,
+->,Turkish Republic of Northern Cyprus->Northern Cyprus,Q2662165,Prime Minister of Northern Cyprus,Q47189019,Faiz Sucuoğlu,2021,2022->NULL
 ->,Turkmenistan,Q1155759,President of Turkmenistan,Q57530,Gurbanguly Berdimuhamedow,2007->2006,2022
 +++,Tuvalu,Q644809,Governor-General of Tuvalu,Q108906680,Tofiga Vaevalu Falani,2021,
 +++,United Arab Emirates,Q57655,Mohammed bin Rashid Al Maktoum,Q57655,Mohammed bin Rashid Al Maktoum,,2022
