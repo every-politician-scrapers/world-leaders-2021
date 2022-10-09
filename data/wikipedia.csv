@@ -5,10 +5,10 @@ Africa,Angola,Q846091,President of Angola,Q28650390,João Lourenço (politician)
 Africa,Benin,Q878169,President of Benin,Q16669148,Patrice Talon,2016,
 Africa,Botswana,Q866725,President of Botswana,Q18618891,Mokgweetsi Masisi,2018,
 Africa,Burkina Faso,Q110666433,Patriotic Movement for Safeguard and Restoration,Q110666454,Paul-Henri Sandaogo Damiba,,2022
-Africa,Burkina Faso,Q110666433,Patriotic Movement for Safeguard and Restoration,Q114341246,Ibrahim Traore,2022,
+Africa,Burkina Faso,Q110666433,Patriotic Movement for Safeguard and Restoration,Q114341246,Ibrahim Traoré,2022,
 Africa,Burkina Faso,Q290004,President of Burkina Faso,Q599988,Roch Marc Christian Kaboré,2015,2022
 Africa,Burkina Faso,Q290004,President of Burkina Faso,Q110666454,Paul-Henri Sandaogo Damiba,,2022
-Africa,Burkina Faso,Q290004,President of Burkina Faso,Q114341246,Ibrahim Traore,2022,
+Africa,Burkina Faso,Q290004,President of Burkina Faso,Q114341246,Ibrahim Traoré,2022,
 Africa,Burkina Faso,Q1434747,Prime Minister of Burkina Faso,Q21062160,Lassina Zerbo,2021,2022
 Africa,Burkina Faso,Q1434747,Prime Minister of Burkina Faso,Q111131079,Albert Ouédraogo,,2022
 Africa,Burundi,Q19057827,President of Burundi,Q27329764,Évariste Ndayishimiye,2020,
@@ -47,7 +47,7 @@ Africa,Ghana,Q2672728,President of Ghana,Q718601,Nana Akufo-Addo,2017,
 Africa,Guinea,Q108427245,National Committee of Reconciliation and Development,Q108418519,Mamady Doumbouya,2021,
 Africa,Guinea,Q815572,President of Guinea,Q108418519,Mamady Doumbouya,2021,
 Africa,Guinea,Q2477148,Prime Minister of Guinea,Q66708545,Mohamed Béavogui,2021,2022
-Africa,Guinea,Q2477148,Prime Minister of Guinea,Q109296984,Bernard Gomou,2022,
+Africa,Guinea,Q2477148,Prime Minister of Guinea,Q109296984,Bernard Goumou,2022,
 Africa,Guinea-Bissau,Q845253,President of Guinea-Bissau,Q16855164,Umaro Sissoco Embaló,2020,
 Africa,Guinea-Bissau,Q763239,Prime Minister of Guinea-Bissau,Q86715481,Nuno Gomes Nabiam,2020,
 Africa,Ivory Coast,Q878210,President of the Ivory Coast,Q57413,Alassane Ouattara,2010,
@@ -145,8 +145,8 @@ Asia,Japan,Q274948,Prime Minister of Japan,Q359480,Fumio Kishida,2021,
 Asia,Jordan,Q815910,King of Jordan,Q57464,Abdullah II of Jordan,1999,
 Asia,Jordan,Q7243300,Prime Minister of Jordan,Q63441935,Bisher Al-Khasawneh,2020,
 Asia,Kazakhstan,Q5256775,President of Kazakhstan,Q200881,Kassym-Jomart Tokayev,2019,
-Asia,Kazakhstan,Q2416315,Prime Minister of Kazakhstan,Q527063,Askar Mamin,2019,2022
-Asia,Kazakhstan,Q2416315,Prime Minister of Kazakhstan,Q56825894,Alihan Smaiylov,2022,
+Asia,Kazakhstan,Q2416315,Prime Minister of Kazakhstan,Q527063,Asqar Mamin,2019,2022
+Asia,Kazakhstan,Q2416315,Prime Minister of Kazakhstan,Q56825894,Älihan Smaiylov,2022,
 Asia,North Korea (Democratic People's Republic of Korea),Q707631,General Secretary of the Workers' Party of Korea,Q56226,Kim Jong-un,2012,
 Asia,North Korea (Democratic People's Republic of Korea),Q25263528,State Affairs Commission of the DPRK,Q56226,Kim Jong-un,2011,
 Asia,North Korea (Democratic People's Republic of Korea),Q30944956,Chairman of the Standing Committee of the Supreme People's Assembly,Q714509,Choe Ryong-hae,2019,
@@ -455,7 +455,7 @@ South America,Bolivia,Q373548,President of Bolivia,Q16149892,Luis Arce,2020,
 South America,Brazil,Q5176750,President of Brazil,Q10304982,Jair Bolsonaro,2019,
 South America,Chile,Q466956,President of Chile,Q306,Sebastián Piñera,2018,2022
 South America,Chile,Q466956,President of Chile,Q16297876,Gabriel Boric,2022,
-South America,Colombia,Q853475,President of Colombia,Q17478000,Iván Duque Márquez,2018,2022
+South America,Colombia,Q853475,President of Colombia,Q17478000,Iván Duque,2018,2022
 South America,Colombia,Q853475,President of Colombia,Q704022,Gustavo Petro,2022,
 South America,Ecuador,Q732562,President of Ecuador,Q4414537,Guillermo Lasso,2021,
 South America,Guyana,Q685925,President of Guyana,Q64840184,Irfaan Ali,2020,
