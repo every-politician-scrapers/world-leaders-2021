@@ -87,9 +87,6 @@ Q977,Djibouti,Q30100591,Prime Minister of Djibouti,Q10522744,Abdoulkader Kamil M
 Q784,Dominica,Q1756747,Prime Minister of Dominica,Q57823,Roosevelt Skerrit,2004,
 Q784,Dominica,Q20087535,president of Dominica,Q2960197,Charles Savarin,2013,
 Q786,Dominican Republic,Q607982,President of the Dominican Republic,Q16594097,Luis Abinader,2020,
-Q16150196,Donetsk People's Republic,Q60991290,Chairman of the Council of Ministers of the Donetsk People's Republic,Q57588106,Alexander Ananchenko,2018,2022
-Q16150196,Donetsk People's Republic,Q60991290,Chairman of the Council of Ministers of the Donetsk People's Republic,Q112286420,Vitaliy Khotsenko,2022,
-Q16150196,Donetsk People's Republic,Q19614487,Head of the Donetsk People's Republic,Q16514790,Denis Pushilin,2018,
 Q574,East Timor,Q586047,President of East Timor,Q897790,Francisco Guterres,2017,2022
 Q574,East Timor,Q586047,President of East Timor,Q11665,José Ramos-Horta,2022,
 Q574,East Timor,Q978708,Prime Minister of East Timor,Q57519,Taur Matan Ruak,2018,
@@ -131,8 +128,7 @@ Q774,Guatemala,Q6085537,President of the Republic of Guatemala,Q2134696,Alejandr
 Q1006,Guinea,Q14917303,Prime Minister of Guinea,Q66708545,Mohamed Béavogui,2021,2022
 Q1006,Guinea,Q14917303,Prime Minister of Guinea,Q109296984,Bernard Goumou,2022,
 Q1007,Guinea-Bissau,Q28015461,President of Guinea-Bissau,Q16855164,Umaro Sissoco Embaló,2020,
-Q1007,Guinea-Bissau,Q30101458,Prime Minister of Guinea-Bissau,Q551585,Aristides Gomes,2018,
-Q1007,Guinea-Bissau,Q30101458,Prime Minister of Guinea-Bissau,Q86715481,Nuno Nabian,2020,
+Q1007,Guinea-Bissau,Q30101458,Prime Minister of Guinea-Bissau,Q86715481,Nuno Nabiam,2020,
 Q734,Guyana,Q685925,President of Guyana,Q5230470,David A. Granger,2015,
 Q734,Guyana,Q685925,President of Guyana,Q64840184,Irfaan Ali,2020,
 Q734,Guyana,Q376006,Prime Minister of Guyana,Q98053664,Mark Phillips,2020,
@@ -200,8 +196,6 @@ Q1016,Libya,Q15305714,Prime Minister of Libya,Q63285566,Fathi Bashagha,2022,
 Q347,Liechtenstein,Q63415597,Prince of Lichtenstein,Q57454,"Hans-Adam II, Prince of Liechtenstein",1989,
 Q37,Lithuania,Q878222,President of the Republic of Lithuania,Q9268379,Gitanas Nausėda,2019,
 Q37,Lithuania,Q845439,Prime Minister of Lithuania,Q437096,Ingrida Šimonytė,2020,
-Q16746854,Luhansk People's Republic,Q19916018,Chairman of the Council of Ministers of the Luhansk People's Republic,Q21855460,Sergey Kozlov,2015,
-Q16746854,Luhansk People's Republic,Q19614488,Head of the Lugansk People's Republic,Q43590358,Leonid Pasechnik,2017,
 Q32,Luxembourg,Q1344632,Prime Minister of Luxembourg,Q561213,Xavier Bettel,2013,
 Q1019,Madagascar,Q19161338,President of Madagascar,Q57363,Andry Rajoelina,2019,
 Q1019,Madagascar,Q23782691,Prime Minister of Madagascar,Q54806925,Christian Ntsay,2018,
@@ -340,7 +334,8 @@ Q884,South Korea,Q6296418,President of South Korea,Q21001,Moon Jae-in,2017,2022
 Q884,South Korea,Q6296418,President of South Korea,Q16090635,Yoon Suk-yeol,2022,
 Q23427,South Ossetia,Q2327278,President of South Ossetia,Q3545676,Anatoly Bibilov,2017,2022
 Q23427,South Ossetia,Q2327278,President of South Ossetia,Q29319183,Alan Gagloyev,2022,
-Q23427,South Ossetia,Q2332585,Prime Minister of South Ossetia,Q105674235,Gennady Bekoyev,2020,
+Q23427,South Ossetia,Q2332585,Prime Minister of South Ossetia,Q105674235,Gennady Bekoyev,2020,2022
+Q23427,South Ossetia,Q2332585,Prime Minister of South Ossetia,Q112691270,Konstantin Dzhussoev,2022,
 Q958,South Sudan,Q19362922,President of South Sudan,Q57315,Salva Kiir Mayardit,2011,
 Q29,Spain,Q3847454,Monarch of Spain,Q191045,Felipe VI of Spain,2014,
 Q29,Spain,Q844587,Prime Minister of Spain,Q6070218,Pedro Sánchez,2018,

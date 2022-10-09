@@ -14,10 +14,10 @@
 +++,Bosnia and Herzegovina,Q335688,Milorad Dodik,Q335688,Milorad Dodik,2018,
 +++,Brunei,Q3245472,Prime Minister of Brunei,Q57327,Hassanal Bolkiah,1984,
 +++,Burkina Faso,Q110666433,Patriotic Movement for Safeguard and Restoration,Q110666454,Paul-Henri Sandaogo Damiba,,2022
-+++,Burkina Faso,Q110666433,Patriotic Movement for Safeguard and Restoration,Q114341246,Ibrahim Traore,2022,
++++,Burkina Faso,Q110666433,Patriotic Movement for Safeguard and Restoration,Q114341246,Ibrahim Traoré,2022,
 +++,Burkina Faso,Q290004,President of Burkina Faso,Q110666454,Paul-Henri Sandaogo Damiba,,2022
 +++,Burkina Faso,Q290004,President of Burkina Faso,Q599988,Roch Marc Christian Kaboré,2015,2022
-+++,Burkina Faso,Q290004,President of Burkina Faso,Q114341246,Ibrahim Traore,2022,
++++,Burkina Faso,Q290004,President of Burkina Faso,Q114341246,Ibrahim Traoré,2022,
 +++,Burkina Faso,Q1434747,Prime Minister of Burkina Faso,Q111131079,Albert Ouédraogo,,2022
 +++,Burkina Faso,Q1434747,Prime Minister of Burkina Faso,Q21062160,Lassina Zerbo,2021,2022
 ---,Burkina Faso,Q1402561,military leader,Q27146606,Q27146606,2016,
@@ -27,13 +27,12 @@
 +++,China (People's Republic of China),Q849418,General Secretary of the Chinese Communist Party,Q15031,Xi Jinping,2012,
 ->,Comoros,Q28015452->Q3236550,President of Comoros->President of the Comoros,Q515602,Azali Assoumani,2019->2016,
 +++,Cuba,Q5453787,First Secretary of the Communist Party of Cuba,Q1932603,Miguel Díaz-Canel,2021,
----,Donetsk People's Republic,Q60991290,Chairman of the Council of Ministers of the Donetsk People's Republic,Q112286420,Vitaliy Khotsenko,2022,
-->,Donetsk People's Republic,Q60991290->Q16150196,Chairman of the Council of Ministers of the Donetsk People's Republic->Donetsk People's Republic,Q57588106,Alexander Ananchenko,2018,2022->NULL
++++,Donetsk People's Republic,Q16150196,Donetsk People's Republic,Q57588106,Alexander Ananchenko,2018,
++++,Donetsk People's Republic,Q16150196,Donetsk People's Republic,Q16514790,Denis Pushilin,2018,
 ->,Eritrea,Q19108193->Q81706,President of Eritrea,Q57348,Isaias Afwerki,1993->1991,
 +++,Grenada,Q655829,Governor-General of Grenada,Q11964294,Cécile La Grenade,2013,
 +++,Guinea,Q108427245,National Committee of Reconciliation and Development,Q108418519,Mamady Doumbouya,2021,
 +++,Guinea,Q815572,President of Guinea,Q108418519,Mamady Doumbouya,2021,
----,Guinea-Bissau,Q30101458,Prime Minister of Guinea-Bissau,Q551585,Aristides Gomes,2018,
 ---,Guyana,Q685925,President of Guyana,Q5230470,David A. Granger,2015,
 ->,Hungary,Q520765,President of Hungary,Q57467,János Áder,2017->2012,2022
 +++,Ivory Coast,Q2717151,Prime Minister of the Ivory Coast,Q3369176,Patrick Achi,2021,
@@ -42,6 +41,8 @@
 ---,Libya,Q102181806,Chairman of the Presidential Council,Q21089561,Fayez al-Sarraj,2016,
 +++,Liechtenstein,Q1144716,Prime Minister of Liechtenstein,Q30882650,Daniel Risch,2021,
 +++,Liechtenstein,Q173843,Regent of Liechtenstein,Q311308,"Alois, Hereditary Prince of Liechtenstein",2004,
++++,Luhansk People's Republic,Q16746854,Luhansk People's Republic,Q21855460,Sergey Kozlov (politician),2015,
++++,Luhansk People's Republic,Q16746854,Luhansk People's Republic,Q43590358,Leonid Pasechnik,2017,
 +++,Luxembourg,Q3276071,Grand Duke of Luxembourg,Q16004,"Henri, Grand Duke of Luxembourg",2000,
 +++,Myanmar,Q105222391,Chairman of the State Administration Council,Q3462649,Min Aung Hlaing,2021,
 +++,Myanmar,Q852152,Prime Minister of Myanmar,Q3462649,Min Aung Hlaing,2021,
@@ -68,6 +69,8 @@
 +++,South Korea (Republic of Korea),Q15407843,Prime Minister of South Korea,Q356666,Han Duck-soo,2022,
 ->,South Ossetia,Q2327278,President of South Ossetia,Q3545676,Anatoly Bibilov->Anatoliy Bibilov,2017,2022->NULL
 ---,South Ossetia,Q2327278,President of South Ossetia,Q29319183,Alan Gagloyev,2022,
+->,South Ossetia,Q2332585,Prime Minister of South Ossetia,Q105674235,Gennady Bekoyev,2020,2022->NULL
+---,South Ossetia,Q2332585,Prime Minister of South Ossetia,Q112691270,Konstantin Dzhussoev,2022,
 ->,South Sudan,Q19362922->Q258969,President of South Sudan,Q57315,Salva Kiir Mayardit,2011->2005,
 +++,Sri Lanka,Q5278077,Dinesh Gunawardena,Q5278077,Dinesh Gunawardena,2022,
 +++,Sri Lanka,Q1758894,Prime Minister of Sri Lanka,Q57338,Mahinda Rajapaksa,2019,2022
